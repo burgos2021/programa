@@ -14,7 +14,7 @@ Este repositirio contiene materiales, información y enlaces para el curso.
 
 | Día | Hora | Sesión | Profesor |
 |---|---|---|---|
-|Martes, 7.09  | 12:30  | Taller 1. Conozca su ordenador | José Luis Losada |
+|Martes, 7.09  | 12:30  | [Taller 1. Conozca su ordenador](#taller-1) | José Luis Losada |
 |Martes, 7.09  | 16:00  | Taller 2. Datos | José Luis Losada |
 |Martes, 7.09  | 18:00  | Taller 3. Corpus | José Luis Losada |
 |Miércoles, 8.09  | 10:30  | Taller 4. Intro a la estilometría | Laura Hernández |
@@ -25,9 +25,8 @@ Este repositirio contiene materiales, información y enlaces para el curso.
 
 ## Instalación de programas
 
-Antes de comenzar el curso instale, por favor, los siguientes programas. El primer taller está dedicado a los primeros pasos con algunos de ellos. Es conveniente que siga las instrucciones de cada proveedor. Le dejamos algunas guía en [instrucciones]()
+Antes de comenzar el curso instale, por favor, los siguientes programas. El primer taller está dedicado a los primeros pasos con algunos de ellos. Le dejamos algunos consejos en [instrucciones](https://github.com/burgos2021/materiales/tree/main/instrucciones).
 
-- R y Rstudio
-- Visual Studio Code
-- Gephi
-
+- [R](https://www.r-project.org) y [Rstudio](https://www.rstudio.com)
+- [Visual Studio Code](https://code.visualstudio.com) + extensiones: Scholarly XML, XML Tools (opcional), XSLT Transform (opcional).
+- [Gephi](https://gephi.org).
