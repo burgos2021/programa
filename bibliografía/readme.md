@@ -1,6 +1,6 @@
 # BIBLIOGRAFÍA INTRODUCTORIA DE ESTILOMETRÍA
 
-Para un completo listado bibliográfico de Estilometría, véase la lista [stylometry_bibliography](https://www.zotero.org/groups/643516/stylometry_bibliography?) de Zotero a cargo de Christof Schöch.
+Para un completo listado bibliográfico de Estilometría, véase el grupo en Zotero [stylometry_bibliography](https://www.zotero.org/groups/643516/stylometry_bibliography?) a cargo de Christof Schöch.
 
 ## Para empezar:
 

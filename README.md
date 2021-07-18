@@ -2,7 +2,7 @@
 
 *Del corpus a la interpretación: Estilometría con R* organizado por la [Universidad de Burgos](https://www.ubu.es), en colaboración con la [UNIR](https://www.unir.net), el [Instituto Almagro de teatro clásico](https://www.uclm.es/centros-investigacion/instituto-almagro), la [Uniwersytet Wrocławski](https://www.uni.wroc.pl) y el [Grupo Proteo](https://www.ubu.es/poder-y-representaciones-festivas-1450-1750-proteo).
 
-Este repositirio contiene materiales, información y enlaces para el curso.
+Este repositorio contiene materiales, información y enlaces para el curso.
 
 ## Programa de las plenarias
 

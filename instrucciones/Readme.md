@@ -37,7 +37,7 @@ Visual Studio Code es un editor de código disponible gratuitamente para Windows
 
 Muchas funcionalidades del VScode se amplian gracias a extensiones (se instalan directamente desde la aplicación).
 
-1. Descargue en https://code.visualstudio.com/download y siga las instrucciones de instalación. (Windows: si quiere que aparezca en los menús de Windows Explorer la posibilidad de "Open with Code" marque las casillas).
+1. Descargue en https://code.visualstudio.com/download y siga las instrucciones de instalación. (Windows: si quiere que aparezca en los menús de Windows Explorer la posibilidad de "Open with Code" marque las casillas correspondientes durante la instalación).
 2. Instalar extensiones: Preferencias -> Extensiones -> Busque extensiones en el _Marketplace_ [_nombre de la extensión_] -> instalar.
 
 Instale las extensiones **`Scholarly XML`**, **`XML Tools`**, **`xslt-transform`**. Algunas extensiones tienen sus propios ajustes. Puede acceder a más información sobre su uso con XML-TEI en <http://phc.uni.wroc.pl/interreg/w/losada/VSCode.html>.
@@ -55,7 +55,7 @@ Gephi no funciona con versiones de Java más altas de 7 or 8 en Windows y Linux.
 
 Consulte los requisitos <https://gephi.org/users/requirements/> y la instalación <https://gephi.org/users/install/>. 
 
-Consejo para Windows: instale Gephi y compruebe que funciona. Si no, es probable que necesite instalar Java: descárgelo de <https://www.java.com/es/download/>. Si aún sigue si poder cargarlo, siga los pasos de uno de los desarrolladores del programa en este video <https://www.youtube.com/watch?v=DMOWhqp6lHQ>.
+Consejo para Windows: instale Gephi y compruebe si funciona. Si no, es probable que necesite instalar Java: descárgelo de <https://www.java.com/es/download/>. Si aún sigue si poder cargarlo, siga los pasos de uno de los desarrolladores del programa en este video <https://www.youtube.com/watch?v=DMOWhqp6lHQ>.
 
 ![vscode_extension](/instrucciones/images/gephi_general.png)
 
