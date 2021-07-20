@@ -1,8 +1,8 @@
 # Bibliografía y fuentes de interés
 
-☰ [Estilometría](#ESTILOMETRÍA), [R/Rstudio](#R/Rstudio), [XML-TEI](#XML-TEI). 
+☰ [Estilometría](#ESTILOMETRÍA), [R/Rstudio](#R-y-Rstudio), [XML-TEI](#XML-TEI). 
 
-- La bibliografía está disponible en este repositorio en formato .BibTex [biblio_burgos2021.bib](/biblio_burgos2021.bib)
+- La bibliografía está disponible en este repositorio en formato .BibTex [biblio_burgos2021.bib](bibliografía/biblio_burgos2021.bib)
 
 ## ESTILOMETRÍA
 
@@ -86,7 +86,7 @@ Rybicki, J., Hoover, D., & Kestemont, M. (2014). Collaborative authorship: Conra
 Kestemont, M., Moens, S., & Deploige, J. (2015). Collaborative Authorship in the Twelfth Century: A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux. Digital Scholarship in the Humanities, 30(2).
 
 
-## R/Rstudio
+## R y Rstudio:
 
 Coll Serrano, V., y Pérez, P. J. (2018). Curso de Introducción a R <https://www.uv.es/vcoll/curso_r.html>
 
@@ -97,7 +97,7 @@ Wickham, H., y Garrett Grolemund (2017). R for Data Science. Import, Tidy, Trans
 Wickham, H. (2016). Ggplot2: Elegant Graphics for Data Analysis. Second edition. Use R! New York: Springer <https://ggplot2-book.org>.
 
 
-## XML-TEI
+## XML-TEI:
 
 Allés Torrent, S. (2019). “Introducción a la Text Encoding Initiative”. TTHUB. Text Technologies Hub: Recursos sobre tecnologías del texto y edición digital. <https://tthub.io/aprende/introduccion-a-tei/>
 
