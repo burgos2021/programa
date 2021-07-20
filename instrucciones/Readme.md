@@ -1,4 +1,4 @@
-# Instrucciones de instalación de R y Rstudio
+# Instrucciones de instalación
 
 ## **R**
 
