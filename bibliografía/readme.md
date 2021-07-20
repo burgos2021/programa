@@ -77,7 +77,7 @@ Eder, M. (2017b). Visualization in stylometry: Cluster analysis using networks. 
 
 Eder, M., & Rybicki, J. (2013). Do birds of a feather really flock together, or how to choose training samples for authorship attribution. Digital Scholarship in the Humanities, 28(2), 229–236.
 
-Eder, M., Rybicki, J., & Kestemont, M. (2016). Stylometry with R: A Package for Computational Text Analysis. The R Journal, 8(1), 107-121.
+Eder, M., Rybicki, J., & Kestemont, M. (2016). Stylometry with R: A Package for Computational Text Analysis. The R Journal, 8(1), 107-121. https://doi.org/10.32614/RJ-2016-007
 
 Evert, S., Proisl, T., Jannidis, F., Reger, I., Pielström, S., Schöch, C., & Vitt, T. (2017). Understanding and explaining Delta measures for authorship attribution. Digital Scholarship in the Humanities, 32(June 2017), ii4–ii16.
 
