@@ -2,7 +2,7 @@
 
 ☰ [Estilometría](#ESTILOMETRÍA), [R/Rstudio](#R-y-Rstudio), [XML-TEI](#XML-TEI). 
 
-- La bibliografía está disponible en este repositorio en formato .BibTex [biblio_burgos2021.bib](bibliografía/biblio_burgos2021.bib)
+- La bibliografía está disponible en este repositorio en formato .BibTex [biblio_burgos2021.bib](biblio/biblio_burgos2021.bib)
 
 ## ESTILOMETRÍA
 
