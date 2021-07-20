@@ -1,8 +1,6 @@
-# Curso de Verano en Humanidades Digitales, Burgos, 2021 
+# Instrucciones de instalación de R y Rstudio
 
-## Instrucciones de instalación de R y Rstudio
-
-### **R**
+## **R**
 
 El programa que utilizaremos para hacer Estilometría, `stylo`, es un paquete de R, por lo que necesitarás tenerlo instalado.
 Ve a la página de R Project: https://cran.r-project.org/
@@ -22,7 +20,7 @@ Tienes un tutorial sobre cómo instalar R en Windows paso a paso, preparado por 
 
 Si todo ha ido bien, tendrás o en el Escritorio (Windows) o en el Launchpad (Mac) un acceso directo para R (es posible que en Windows haya dos, uno para R de 32 bits y otro para R de 64 bits).
  
-### **R Studio**
+## **R Studio**
 
 R Studio es un entorno de desarrollo integrado que hará más fácil el trabajo en R y te permitirá guardar fácilmente tus propios scripts, ver las variables que tienes operativas o consultar cómodamente la ayuda, entre otros.
 
