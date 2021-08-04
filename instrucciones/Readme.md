@@ -29,7 +29,7 @@ Fíjate en que la versión gratuita es la que aparece a la izquierda. Al pinchar
 
 Si todo ha ido bien, además del acceso directo a R, tendrás en el Escritorio (Windows) o en el Launchpad (Mac) otro acceso directo para R Studio.
  
-## Instrucciones de instalación de Visual Studio Code
+## **Visual Studio Code**
 
 Visual Studio Code es un editor de código disponible gratuitamente para Windows, Mac y Linux. Existen varios editores de código (Sublime, BBedit, Note++, gedit, Wrangler) que también sirven para trabajar con texto plano o usar Regex. Usamos VScode porque, además de ser gratuito, permite trabajar  con XML-TEI al modo de oXygen, un clásico en la edición de XML-TEI. 
 
@@ -45,7 +45,7 @@ Al panel de extensiones se puede acceder también desde la barra lateral (icono 
 ![vscode_extension](http://phc.uni.wroc.pl/interreg/w/losada/images/vscode_1.png)
 
 
-## Instrucciones de instalación de Gephi 
+## **Gephi** 
 
 Gephi es un programa de visualización de redes. Se puede descargar en https://gephi.org. Gephi necesita tener instalado en el ordenador Java, un lenguaje de programación y un entorno de ejecución (Java JRE), entorno para ejecutar programas como Gephi.
 

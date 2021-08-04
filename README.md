@@ -33,3 +33,10 @@ Antes de comenzar el curso instale, por favor, los siguientes programas. El prim
 - [R](https://www.r-project.org) y [Rstudio](https://www.rstudio.com)
 - [Visual Studio Code](https://code.visualstudio.com) + extensiones: Scholarly XML, XML Tools (opcional), XSLT Transform (opcional).
 - [Gephi](https://gephi.org). El programa necesita tener instalado Java (Windows y Linux)
+
+## Materiales del curso
+
+Esta página sirve de puerta de acceso a los materiales del curso. También puede descargar todo el repositorio directamente en su ordenador:
+
+<https://github.com/burgos2021/programa> > &#10515; `code` > `download zip`
+
