@@ -92,7 +92,7 @@ Coll Serrano, V., y Pérez, P. J. (2018). Curso de Introducción a R <https://ww
 
 Fradejas Rueda, J.M. (2020). Cuentapalabras. Estilometría y análisis de texto con R para filólogos <http://www.aic.uva.es/cuentapalabras/>
 
-Wickham, H., y Garrett Grolemund (2017). R for Data Science. Import, Tidy, Transform, Visualize, and Model Data. Sebastopol: O’Reilly. <https://r4ds.had.co.nz.>
+Wickham, H., y Garrett Grolemund (2017). R for Data Science. Import, Tidy, Transform, Visualize, and Model Data. Sebastopol: O’Reilly. <https://r4ds.had.co.nz>
 
 Wickham, H. (2016). Ggplot2: Elegant Graphics for Data Analysis. Second edition. Use R! New York: Springer <https://ggplot2-book.org>.
 
