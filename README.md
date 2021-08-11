@@ -1,6 +1,8 @@
-# Curso de Verano, Burgos, 2021
+# *Del corpus a la interpretación: Estilometría con R*
 
-## *Del corpus a la interpretación: Estilometría con R* organizado por la [Universidad de Burgos](https://www.ubu.es), en colaboración con la [UNIR](https://www.unir.net), el [Instituto Almagro de teatro clásico](https://www.uclm.es/centros-investigacion/instituto-almagro), la [Uniwersytet Wrocławski](https://www.uni.wroc.pl) y el [Grupo Proteo](https://www.ubu.es/poder-y-representaciones-festivas-1450-1750-proteo).
+## Curso de Verano, Burgos, 2021 
+
+## Organizado por la [Universidad de Burgos](https://www.ubu.es), en colaboración con la [UNIR](https://www.unir.net), el [Instituto Almagro de teatro clásico](https://www.uclm.es/centros-investigacion/instituto-almagro), la [Uniwersytet Wrocławski](https://www.uni.wroc.pl) y el [Grupo Proteo](https://www.ubu.es/poder-y-representaciones-festivas-1450-1750-proteo).
 
 Este repositorio contiene materiales, información y enlaces para el curso.
 
@@ -11,7 +13,7 @@ Este repositorio contiene materiales, información y enlaces para el curso.
 |Martes, 7.09  | 10:30 | "Autoría y atribución en el teatro del Siglo de Oro hispánico: estado de la cuestión y retos" | Germán Vega |
 |Miércoles, 8.09  | 9:30  | "Diseño, compilación y anotación de corpus para estudios literarios computacionales" | Borja Navarro |
 |Jueves, 9.09  | 9:30  | "Introdución al _machine learning_" | Álvaro Herrero |
-|Jueves, 9.09  | 16:30  | "Computational Methods in Authorshio Attribution" | Maciej Eder |
+|Jueves, 9.09  | 16:30  | "Computational Methods in Authorship Attribution" | Maciej Eder |
 
 ## Programa de los talleres
 
