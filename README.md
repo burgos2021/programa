@@ -19,7 +19,7 @@ Este repositorio contiene materiales, información y enlaces para el curso.
 
 | Día | Hora | Sesión | Profesor |
 |---|---|---|---|
-|Martes, 7.09  | 12:30  | [Taller 1 (previo). Conozca su ordenador](#taller-1) | José Luis Losada |
+|Martes, 7.09  | 12:30  | [Taller 1 (previo). Conozca su ordenador](https://github.com/burgos2021/programa/tree/main/taller1) | José Luis Losada |
 |Martes, 7.09  | 16:00  | Taller 2. Datos | José Luis Losada |
 |Martes, 7.09  | 18:00  | Taller 3. Corpus | José Luis Losada |
 |Miércoles, 8.09  | 10:30  | Taller 4. Intro a la estilometría | Laura Hernández |
