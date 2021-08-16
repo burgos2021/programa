@@ -1,4 +1,4 @@
-# DESCARGA DEL CORPUS DE TEXTOS UTILIZADO EN EL CURSO
+# Instrucciones para descargar el corpus que usaremos en el corpus
 
 Usaremos el corpus de novela española de la Edad de Plata preparado en el seno del proyecto CLiGS por el investigador José Calvo Tello (2017). 
 Para descargártelo, debes ir a la dirección general de los corpus de CLiGS (https://github.com/cligs/textbox), hacer clic en el botón verde (Code) y a continuación, en Download ZIP. Descomprime la carpeta en tu ordenador y navega por los siguientes directorios: textbox > spanish > novela-espanola. Dentro de «novela-espanola», localiza la carpeta «txt_author-title» y cópiala en otro lugar. 
