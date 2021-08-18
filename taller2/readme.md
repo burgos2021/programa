@@ -12,7 +12,6 @@
 6. Extra. Obtención de datos con el terminal (cURL)
 7. Ejercicios
 
-
 ## Tipos de datos
 
 Libros, cuadros, representaciones teatrales, novelas, poesías o películas son objeto de estudio de las humanidades. Aunque no solemos referirnos a ellos como datos, podríamos afirmar que el texto de un poema, los diálogos de una obra teatral o los elementos visuales de un cuadro de Picasso son en sí mismos datos. Este sentido se relaciona con una primera definición de dato, que remite a todo documento, información o testimonio que nos permite llegar al conocimiento de algo. Entendido de esta manera estamos hablando, sin embargo, de datos analógicos, datos que no son explícitamente contables como valores separados y distintos, es decir, no pueden ser analizados computacionalmente (Schöch 2013). Por este motivo, a esa primera definición de dato se le añade un segundo sentido como información dispuesta de manera adecuada para su tratamiento por una computadora.
@@ -140,7 +139,7 @@ Las regex son una parte esencial de los lenguajes de programación, podemos trab
 
 Textos teatrales con información que no nos interesa: números, mayúsculas, espacios.
 
-## Reconomiento automático (OCR, HCR)
+## Reconomiento automático
 
 - Tesseract
 - Transkribus 
