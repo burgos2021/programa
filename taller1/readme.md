@@ -223,6 +223,8 @@ No todos los sistemas operativos tienen el mismo programa de línea de comandos.
 
 Usando la línea de comandos podemos, por ejemplo, navegar por la estructura de un directorio con el comando `cd`, listar con `ls` qué archivos contiene, informar sobre en qué directorio estamos con `pwd`, descargar archivos de Internet con `curl` o saber qué versión de JAVA tenemos instalada `java -version`.
 
+![](images/taller_terminal.png)
+
 Estos son comandos que entiende el programa Terminal de Mac. Para entenderlos y ejecutarlos (`ls`, `mkdir`, `pwd`, etc.) este programa, Terminal, lleva un intérprete de lenguaje de comandos llamado _bash_. En Windows, su programa de línea de comandos, PowerShell, lleva otro intérprete, por lo que los comandos tienen distintos nombres o no son compatibles.
 
 En este curso veremos el uso del comando, `curl` (descarga de archivos de Internet) solo con la intención de ejemplificar el uso de la obtención de datos con la línea de comandos, pero no instalaremos nada al respecto. Los usuarios de Windows podrán replicar en parte el uso de `curl` y la línea de comandos con _bash_ en la instancia en línea de Rstudio. 
