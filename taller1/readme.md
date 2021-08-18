@@ -62,7 +62,7 @@ En nuestro caso, puede ser, por tanto, útil para mantener un corpus de trabajo 
 
 - Hadley Wickham and Garrett Grolemund, _R for data science_: <https://github.com/hadley/r4ds>; [libro](https://r4ds.had.co.nz/)
 
-☞ Scott Chacon y Ben Straub (2014), Pro Git, 2.ª ed., Apress, <https://git-scm.com/book/es/v2>.
+Para saber más: ☞ Scott Chacon y Ben Straub (2014), Pro Git, 2.ª ed., Apress, <https://git-scm.com/book/es/v2>.
 
 ## Rutas (_paths_), nombrar archivos, extensiones
 
@@ -200,7 +200,7 @@ Gracias a la extensión `Scholarly XML` una vez abierto un documento XML-TEI pod
 
 ![](images/taller_xml.png)
 
-Usaremos VSCode para trabajar con Expresiones regulares. Se activan en el campo de búsqueda, pulsando sobre el icono `.*` a la derecha de la caja de búsqueda.
+Usaremos VSCode también para trabajar con expresiones regulares. Se activan en el campo de búsqueda, pulsando sobre el icono `.*` a la derecha de la caja de búsqueda.
 
 Menú: `Search > View` (búsqueda y sustitución en carpetas)
 
@@ -215,7 +215,7 @@ Menú: `Search > View` (búsqueda y sustitución en carpetas)
 
 ## Línea de comandos
 
-Normalmente interactuamos con el ordenador de manera gráfica, con iconos, movimientos de ratón y clics, pero podemos hacerlo también de una mánera más directa, usando la línea de comandos, que interactúa con el ordenador usando solo texto. Se conoce también con otros nombres bash, shell, terminal, Command Prompt, PowerShell (que no son estrictamente sinónimos).
+Normalmente interactuamos con el ordenador de manera gráfica, con iconos, movimientos de ratón y clics, pero podemos hacerlo también de una mánera más directa, usando la línea de comandos, que interactúa con el ordenador usando solo texto. La línea de comandos se conoce también con otros nombres bash, shell, terminal, Command Prompt, PowerShell (que no son estrictamente sinónimos).
 
 Es útil conocer su uso porque nos sirve para realizar operaciones de una manera más rápida, instalar y usar programas que no se sirven una interfaz gráfica de usuario o automatizar procesos. Para usar la analogía culinaria, usar la línea de comandos supone cocinar en lugar de ir a un restaurante (DHRI, 2021)
 
