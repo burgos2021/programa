@@ -96,7 +96,7 @@ El directorio raíz en Windows se indica con `C:\`, una letra según la unidad d
 
 Una ruta de localización absoluta se evalúa desde el directorio raíz (_root_), mientras que una ruta de localización relativa se evalúa desde el directorio en su contexto (donde nos encontramos en un momento dado).
 
-**ADD Ejemplo con dibujo con tu cuaderno**
+![](images/taller_ruta.png)
 
 Absoluta: `/Users/losada/programa/taller1/archivo.txt`
 
@@ -211,7 +211,7 @@ Menú: `Search > View` (búsqueda y sustitución en carpetas)
 
 ![](images/taller_regex.png)
 
-☞ Sobre VScode y [_Find and Replace_](https://code.visualstudio.com/docs/editor/codebasics#_find-and-replace)
+☞ Más sobre [_Find and Replace_](https://code.visualstudio.com/docs/editor/codebasics#_find-and-replace) en VScode
 
 ## Línea de comandos
 
