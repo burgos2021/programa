@@ -82,7 +82,7 @@ Windows utiliza una barra inclinada hacia atrás `\` (_forward slash_ o barra di
 
 `/Users/losada/Documents/archivo.txt` (ruta que termina en un archivo)
 
-El primer `/` indica el directorio raíz _root_ en sistemas Mac y Linux. Users, losada, Documents son subdirectorios.
+El primer `/` indica el directorio raíz _root_ en sistemas Mac y Linux. Users, `losada`, `Documents` son subdirectorios.
 
 **Windows:**
 
