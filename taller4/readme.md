@@ -11,4 +11,4 @@
 7. Métodos: análisis de grupos y árbol de consenso
 8. Práctica 1: análisis de grupos y árbol de consenso
 
-## Materiales del curso en GitHub:
+## Materiales de este taller en GitHub:
