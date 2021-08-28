@@ -13,6 +13,7 @@ Para un completo listado bibliográfico de Estilometría, véase el grupo en Zot
 Calvo Tello, J. (2016). Entendiendo Delta desde las Humanidades. <i>Caracteres. Estudios culturales y críticos de la esfera digital</i>, 5(1), 140–176.
 
 Fradejas Rueda, J. M. (2016). El análisis estilométrico aplicado a la literatura española: las novelas policiacas históricas. <i>Caracteres. Estudios culturales y críticos de la esfera digital</i>, 5(2), 196–246.
+
 Holmes, D. I., & Kardos, J. (2003). Who Was the Author? An Introduction to Stylometry. <i>Chance</i>, 16(2), 5–8.
 
 ### Estilometría y literatura española:
