@@ -1,0 +1,3378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Andrómeda y Perseo</title>
+        <title type="sub">Auto sacramental alegórico</title>
+        <author>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
+          <idno type="wikidata">Q170800</idno>
+          <idno type="pnd">118518399</idno>
+        </author>        
+      </titleStmt>
+      <publicationStmt>
+        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <date when="2019-05-16">
+          <time when="14:28:49"/>
+        </date>
+        <idno type="quadramaX">Andrómeda y Perseo</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q5676291</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000005</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Biblioteca Virtual Miguel de Cervantes</name>
+          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/andromeda-y-perseo--0/html/</idno>
+          <bibl type="originalSource">
+            <title>Texto crítico preparado por José María Ruano de la Haza procedente de la edición
+              Calderón de la Barca, Pedro, Andrómeda y Perseo, ed. José María Ruano de la Haza,
+              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-43-3</title>
+            <date type="print"/>
+            <date type="written"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="andrómeda" sex="FEMALE">
+            <persName>ANDRÓMEDA</persName>
+          </person>
+          <person xml:id="medusa" sex="FEMALE">
+            <persName>MEDUSA</persName>
+          </person>
+          <person xml:id="gracia" sex="FEMALE">
+            <persName>GRACIA</persName>
+          </person>
+          <person xml:id="ciencia" sex="FEMALE">
+            <persName>CIENCIA</persName>
+          </person>
+          <person xml:id="ignociencia" sex="FEMALE">
+            <persName>IGNOCIENCIA</persName>
+          </person>
+          <person xml:id="voluntad" sex="FEMALE">
+            <persName>VOLUNTAD</persName>
+          </person>
+          <person xml:id="fuego" sex="MALE">
+            <persName>FUEGO</persName>
+          </person>
+          <person xml:id="aire" sex="MALE">
+            <persName>AIRE</persName>
+          </person>
+          <person xml:id="agua" sex="MALE">
+            <persName>AGUA</persName>
+          </person>
+          <person xml:id="tierra" sex="FEMALE">
+            <persName>TIERRA</persName>
+          </person>
+          <person xml:id="centro" sex="MALE">
+            <persName>CENTRO</persName>
+          </person>
+          <person xml:id="albedrío" sex="MALE">
+            <persName>ALBEDRÍO</persName>
+          </person>
+          <person xml:id="perseo" sex="MALE">
+            <persName>PERSEO</persName>
+          </person>
+          <person xml:id="demonio" sex="MALE">
+            <persName>DEMONIO</persName>
+          </person>
+          <person xml:id="mercurio" sex="MALE">
+            <persName>MERCURIO</persName>
+          </person>
+          <person xml:id="música" sex="MALE">
+            <persName>MÚSICA</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">auto sacramental</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <docTitle>
+        <titlePart type="main">Andrómeda y Perseo</titlePart>
+        <titlePart type="sub">Auto sacramental alegórico</titlePart>
+      </docTitle>
+      <castList>
+        <head>Personas</head>
+        <castItem>ANDRÓMEDA.</castItem>
+        <castItem>MEDUSA.</castItem>
+        <castItem>GRACIA.</castItem>
+        <castItem>CIENCIA.</castItem>
+        <castItem>IGNOCIENCIA.</castItem>
+        <castItem>VOLUNTAD.</castItem>
+        <castItem>FUEGO.</castItem>
+        <castItem>AIRE.</castItem>
+        <castItem>AGUA.</castItem>
+        <castItem>TIERRA.</castItem>
+        <castItem>CENTRO.</castItem>
+        <castItem>ALBEDRÍO.</castItem>
+        <castItem>PERSEO.</castItem>
+        <castItem>DEMONIO.</castItem>
+        <castItem>MERCURIO.</castItem>
+      </castList>
+    </front>
+    <body>
+      <div type="act" n="1">
+        <div type="scene">
+          <stage>Salen en tropa, cantando y bailando, la GRACIA y el AGUA con un espejo; la CIENCIA
+            y el AIRE con un airón de plumas; la IGNOCIENCIA y el FUEGO con un manto imperial; y la
+            VOLUNTAD y la TIERRA con un azafate de frutas y flores; y, detrás, ANDRÓMEDA, como
+            vistiéndose, y el ALBEDRÍO.</stage>
+          <sp who="#música">
+            <speaker>MÚSICA</speaker>
+            <l>Los años floridos</l>
+            <l>de Andrómeda hermosa,</l>
+            <l>beldad destos montes,</l>
+            <l>deidad destas selvas,</l>
+            <l n="5">ufano los cuente</l>
+            <l>el mayo con flores,</l>
+            <l>feliz los señale</l>
+            <l>el sol con estrellas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡El espejo!</l>
+            <stage>Mírase en él, tomándole la GRACIA del elemento del AGUA.</stage>
+            <l part="F">Peregrina</l>
+            <l n="10">es en todo mi belleza.</l>
+            <l>¿Qué, Humana Naturaleza,</l>
+            <l>te falta para divina?</l>
+            <l>Los cielos no hicieron, no,</l>
+            <l>cosa, en todos sus modelos,</l>
+            <l n="15">más hermosa. Ni aun los cielos</l>
+            <l>son tan bellos como yo;</l>
+            <l>pues sus orbes de cristal</l>
+            <l>obra inanimada han sido</l>
+            <l>y yo, con alma y sentido,</l>
+            <l n="20">soy fábrica racional.</l>
+            <l>El Centro, mi padre fue,</l>
+            <l>de la Tierra; ella es mi madre;</l>
+            <l>y, aunque por madre y por padre,</l>
+            <l>humilde nací, no sé</l>
+            <l n="25">que aje, por más que revuelva</l>
+            <l>el sol su edad presurosa.</l>
+          </sp>
+          <sp who="#andrómeda #música">
+            <speaker>ELLA y MÚSICA</speaker>
+            <l>Los años floridos</l>
+            <l>de Andrómeda hermosa,</l>
+            <l>deidad de este monte,</l>
+            <l n="30">beldad de esta selva.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Infanta, idos poco a poco;</l>
+            <l>que, si altiva a veros llego,</l>
+            <l>vos tendréis la culpa, y luego</l>
+            <l>dirán que yo soy el loco;</l>
+            <l n="35">pues, siendo vuestro Albedrío,</l>
+            <l>según dicen por ahí,</l>
+            <l>vos usaréis mal de mí</l>
+            <l>y vendrá el daño a ser mío.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Bien en mi puro cristal,</l>
+            <l n="40">por ser obsequio que haces</l>
+            <l>a tu Hacedor, te complaces;</l>
+            <l>pues siendo la original</l>
+            <l>Gracia yo, en que te has criado,</l>
+            <l>cuando en mí viéndote estás,</l>
+            <l n="45">ningún defecto hallarás.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Sí; mas temed que, manchado,</l>
+            <l>llegue a eclipsarse su pura</l>
+            <l>luna y, algún día, veáis</l>
+            <l>un cadáver cuando vais</l>
+            <l n="50">a mirar una hermosura.</l>
+            <l>Temed del tiempo las huellas,</l>
+            <l>para que vuestros verdores...</l>
+          </sp>
+          <sp who="#albedrío #música">
+            <speaker>ÉL y MÚSICA</speaker>
+            <l>...ufano los cuente</l>
+            <l>el mayo con flores;</l>
+            <l n="55">feliz los señale</l>
+            <l>el sol con estrellas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡El manto!</l>
+          </sp>
+          <stage>Tómale la IGNOCIENCIA del elemento del FUEGO.</stage>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l part="F">Ya su imprudencia</l>
+            <l>no anunciará tu desgracia,</l>
+            <l>viendo que al don de la Gracia</l>
+            <l n="60">se sigue el de la Ignociencia.</l>
+            <l>Real púrpura, su color,</l>
+            <l>en jeroglífico, dice</l>
+            <l>que eres la reina felice</l>
+            <l part="I">del universo.</l>
+          </sp>
+          <stage>Llega la VOLUNTAD con las flores del elemento de la TIERRA.</stage>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l part="F">Mejor</l>
+            <l n="65">lo dirá la voluntad</l>
+            <l>con que yo, en flores y en frutos,</l>
+            <l>reconozco los tributos</l>
+            <l>que debo a la majestad.</l>
+          </sp>
+          <stage>Llega la CIENCIA con las plumas del elemento del AIRE.</stage>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Las plumas! ¿Tú las traes?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="F">Sí.</l>
+            <l n="70">La Natural Ciencia soy</l>
+            <l>y, así, las plumas te doy,</l>
+            <l>para volar desde aquí,</l>
+            <l>con las alas de mis plumas,</l>
+            <l>a la superior esfera.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="75">Volad, pero de manera</l>
+            <l>que no deis en las espumas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>En cuatro dotes noté,</l>
+            <l>si consulto mis alientos,</l>
+            <l>que están los cuatro elementos</l>
+            <l n="80">simbolizados. Si fue</l>
+            <l>el del Agua el cristalino</l>
+            <l>espejo en que me copió</l>
+            <l>hoy la Gracia, ya se vio;</l>
+            <l>y ya se vio, si previno</l>
+            <l n="85">la Ignociencia la imperial</l>
+            <l>púrpura, color de Fuego,</l>
+            <l>que ella es su elemento; luego,</l>
+            <l>si la Ciencia Natural</l>
+            <l>plumas me da con que vuele</l>
+            <l n="90">mi fama, que el Aire es;</l>
+            <l>y si la Tierra, después,</l>
+            <l>no hay fruta y flor que no anhele</l>
+            <l>la Voluntad cultivar</l>
+            <l>para que me sirva hoy,</l>
+            <l n="95">¿quién puede dudar que soy</l>
+            <l>el más perfecto ejemplar</l>
+            <l>que vio el sol, pues a ver llego</l>
+            <l>que la Gracia, la Ignociencia,</l>
+            <l>la Voluntad y la Ciencia</l>
+            <l n="100">en Agua, Aire, Tierra y Fuego</l>
+            <l>me asisten, dando al ser mío</l>
+            <l>cristales, pompas, honores,</l>
+            <l>ciencias y frutos y flores</l>
+            <l>a vista de mi Albedrío?</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l n="105">A tu obediencia, señora,</l>
+            <l>dones que engendran virtudes</l>
+            <l>harán que solicitudes</l>
+            <l>nuestras digan desde ahora</l>
+            <l>que ellas son, en cuyo celo</l>
+            <l n="110">Dios sus tesoros encierra,</l>
+            <l>y por quien son, en la tierra,</l>
+            <l>los frutos dones del cielo.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Sí, mas duráraos poco,</l>
+            <l>si las llegáis a enojar.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="115">Basta; volved a cantar,</l>
+            <l>que está muy cuerdo este loco.</l>
+          </sp>
+          <sp who="#música">
+            <speaker>MÚSICA</speaker>
+            <l>Los años floridos</l>
+            <l>[de Andrómeda hermosa,</l>
+            <l>beldad de estos montes,</l>
+            <l n="120">deidad de estas selvas,</l>
+            <l>ufano los cuente</l>
+            <l>el mayo con flores,</l>
+            <l>feliz los señale</l>
+            <l>el sol con estrellas].</l>
+          </sp>
+          <stage>Dos cruzados.</stage>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="125">¿Cúya aquesa letra es?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="I">Letra y tono es mío.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">No dudo</l>
+            <l>que uno y otro sólo pudo</l>
+            <l>ser desvelo tuyo; pues</l>
+            <l>siendo, en el felice estado</l>
+            <l n="130">de tanto aplauso inmortal,</l>
+            <l>tú la Ciencia Natural,</l>
+            <l>de que el cielo me ha ilustrado,</l>
+            <l>sólo tuya ser podía</l>
+            <l>letra y voz que tanto eleva,</l>
+            <l n="135">porque a la Ciencia se deba</l>
+            <l>la música y la poesía.</l>
+            <l>Y, aunque es verdad que jamás</l>
+            <l>nada tanto me ha agradado,</l>
+            <l>solamente he reparado</l>
+            <l n="140">en el nombre que me das.</l>
+            <l>¿Por qué Andrómeda; y por qué,</l>
+            <l>ya que la licencia usaste</l>
+            <l>poética, y le disfrazaste,</l>
+            <l>en el de Andrómeda fue?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l n="145">La Natural Ciencia soy,</l>
+            <l>de que, como has dicho aquí,</l>
+            <l part="I">el cielo te ilustró.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Sí.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Como envestigando voy</l>
+            <l>altas cosas cada día,</l>
+            <l n="150">entre imágenes no vanas,</l>
+            <l>letras divinas y humanas</l>
+            <l>revolví en la fantasía.</l>
+            <l>En las humanas hallé,</l>
+            <l>por la docta astrología,</l>
+            <l n="155">que una Andrómeda sería</l>
+            <l>de la Tierra hija; con que,</l>
+            <l>a las divinas pasando,</l>
+            <l>aunque ser fábula vi,</l>
+            <l>por si contuviese en sí</l>
+            <l n="160">alguna alusión, dudando</l>
+            <l>dónde o cómo se eslabona,</l>
+            <l>anteví en San Isidoro</l>
+            <l>que el bello esplendor del oro,</l>
+            <l>que en tus rizos se corona,</l>
+            <l n="165"><emph>andrómadas</emph>, en el griego</l>
+            <l>idioma, quiere decir.</l>
+            <l>Y, volviendo a proseguir,</l>
+            <l>Enrico Estephano luego</l>
+            <l>dice, <emph>andrómada</emph>, en el sacro</l>
+            <l n="170">frase, es la florida edad;</l>
+            <l>y <emph>androdeas</emph>, la deidad,</l>
+            <l>la estatua y el simulacro.</l>
+            <l>Yo -viendo que señas tantas</l>
+            <l>tu rara hermosura encierra,</l>
+            <l n="175">pues, siendo hija de la Tierra,</l>
+            <l>tu perfección adelantas,</l>
+            <l>de que una y otra virtud</l>
+            <l>expliquen en ti el poder</l>
+            <l>de su Autor al florecer</l>
+            <l n="180">la edad de tu juventud,</l>
+            <l>y que ser tu ser alcanza</l>
+            <l>simulacro soberano,</l>
+            <l>que hizo de tierra su mano</l>
+            <l>labrado a su semejanza-</l>
+            <l n="185">de todos estos sentidos</l>
+            <l>que en sí el griego frase trae,</l>
+            <l><emph>androdeas</emph>, <emph>androae</emph></l>
+            <l>y <emph>andromacas</emph> reducidos,</l>
+            <l>un nombre proprio saqué,</l>
+            <l n="190">viendo convenir en ti</l>
+            <l>todas sus señas, y así</l>
+            <l>Andrómeda te llamé.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Yo creí ser droga, pues</l>
+            <l>récipe esperé, por Dios,</l>
+            <l n="195">de <emph>andrómaca</emph>, dragmas dos</l>
+            <l>y <emph>androdeas</emph> uncías tres.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>La etimología he notado</l>
+            <l>y, por lograrte el concepto</l>
+            <l>en lo alegórico, acepto</l>
+            <l n="200">ese nombre que me has dado;</l>
+            <l>y por que la sutileza</l>
+            <l>esté atenta a este auto, viendo</l>
+            <l>que soy Andrómeda siendo</l>
+            <l>la Humana Naturaleza,</l>
+            <l n="205">ninguna me llame ya</l>
+            <l>de otra suerte; y pues el prado,</l>
+            <l>de matices esmaltado,</l>
+            <l>su hermoso albergue nos da</l>
+            <l>-siendo, a honra de su pincel,</l>
+            <l n="210">cada emparrado una sombra,</l>
+            <l>cada matiz una alfombra,</l>
+            <l>y cada copa un dosel,</l>
+            <l>donde en tonos diferentes</l>
+            <l>diviertan nuestras congojas</l>
+            <l n="215">los compases de las hojas,</l>
+            <l>las cláusulas de las fuentes,</l>
+            <l>cuyos concentos suaves,</l>
+            <l>por toda la azul campaña,</l>
+            <l>sonoramente acompaña</l>
+            <l n="220">la música de las aves-,</l>
+            <l>venid conmigo cantando</l>
+            <l>por esa orilla del mar,</l>
+            <l>que pretendo desvelar</l>
+            <l>mis altiveces notando</l>
+            <l n="225">esa playa, que con suma</l>
+            <l>soberbia al cielo retrata</l>
+            <l>y apenas monte es de plata</l>
+            <l>cuando aún no es selva de espuma.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Razón tiene tu atención</l>
+            <l n="230">de mirar su maravilla.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Sí; y en ser desde la orilla</l>
+            <l>tiene mucha más razón.</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l part="I">¿Por qué?</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="F">Por aquel vulgar</l>
+            <l>refrán de hablar de la caza</l>
+            <l n="235">y comprarla en la plaza;</l>
+            <l>hablar de la guerra</l>
+            <l>y ni oílla ni vella;</l>
+            <l>hablar de las Indias</l>
+            <l>y ni vellas ni oíllas;</l>
+            <l n="240">y hablar de la mar</l>
+            <l>y en ella no entrar.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Dejadle; y la letra vuelva</l>
+            <l>que fue de mi nombre glosa.</l>
+          </sp>
+          <sp who="#andrómeda #música">
+            <speaker>ELLA y MÚSICA</speaker>
+            <l>Los años floridos</l>
+            <l n="245">[de Andrómeda hermosa,</l>
+            <l>beldad de este monte,</l>
+            <l>deidad de esta selva].</l>
+          </sp>
+          <stage>Terremoto y dice el DEMONIO.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <stage>Dentro.</stage>
+            <l>Ni ufano los cuente</l>
+            <l>el mayo con flores,</l>
+            <l n="250">ni el sol los señale</l>
+            <l>feliz con estrellas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Esperad! ¿Qué confusión</l>
+            <l>tan nueva y tan singular</l>
+            <l>se escucha dentro del mar?</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l n="255">Prodigios no vistos son</l>
+            <l>los que en sus senos encierra.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Es verdad, pues en sus senos,</l>
+            <l>con relámpagos y truenos,</l>
+            <l>amenaza cielo y tierra.</l>
+          </sp>
+          <stage>Terremoto.</stage>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l n="260">Colérico, altivo y ciego,</l>
+            <l>rayos a forjar se atreve.</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l>¿Quién vio volcanes de nieve</l>
+            <l>inundar campos de fuego?</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>No hay orbe a quien no se atreva</l>
+            <l n="265">su verdinegro arrebol.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>A ser cíclope del sol</l>
+            <l>sobre sí mismo se eleva.</l>
+          </sp>
+          <stage>Terremoto.</stage>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Ya, en partidos horizontes,</l>
+            <l>apagar sus luces fragua,</l>
+            <l n="270">poniendo montes de agua</l>
+            <l>sobre piélagos de montes.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Aun no es eso lo peor,</l>
+            <l>sino que, arrojando llamas,</l>
+            <l>de ovas, de conchas y escamas,</l>
+            <l part="I">un monstruo aborta.</l>
+          </sp>
+          <sp who="#albedrío #andrómeda #ciencia #gracia #ignociencia #voluntad #demonio">
+            <speaker>TODOS</speaker>
+            <l n="275" part="F">¡Qué horror!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Cortando la espuma helada,</l>
+            <l>por salir a tierra anhela.</l>
+          </sp>
+          <sp who="#albedrío #ciencia #gracia #ignociencia #voluntad #demonio">
+            <speaker>TODOS</speaker>
+            <l>Ya no nada, sino vuela.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="I">¿Vuela?</l>
+          </sp>
+          <sp who="#andrómeda #ciencia #gracia #ignociencia #voluntad #demonio">
+            <speaker>TODAS</speaker>
+            <l part="M">Sí.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="F">¿Y eso es nonada?</l>
+            <l part="I">Es muchísimo.</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l n="280" part="F">¡Qué espanto!</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="I">¡Qué temor!</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l part="F">¡Qué admiración!</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l part="I">¡Qué asombro!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">¡Qué confusión!</l>
+            <l>¿Dónde podré, cielo santo,</l>
+            <l>guarecerme si, tal vez</l>
+            <l n="285">que empaña el sol con su aliento,</l>
+            <l>dejando de ser del viento</l>
+            <l>pájaro, del agua pez,</l>
+            <l>fiera de las fieras, viene</l>
+            <l>amenazando la tierra?</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l n="290">Contra su sañuda guerra,</l>
+            <l>huir, Andrómeda, conviene;</l>
+            <l>que sólo se vence, huyendo,</l>
+            <l>enemigo tan crüel.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Cómo es posible huir de él,</l>
+            <l part="I">absorta y ciega?</l>
+          </sp>
+          <sp who="#gracia #voluntad #ciencia">
+            <speaker>LAS TRES</speaker>
+            <l n="295" part="F">Siguiendo</l>
+            <l part="I">nuestros pasos.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l part="F">Ven, que como</l>
+            <l>no nos pierdan tus extremos</l>
+            <l>de vista, salvar podremos</l>
+            <l part="I">alma y vida.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Al oíros, tomo</l>
+            <l n="300">nuevo aliento; mas, ¡ay triste!,</l>
+            <l>que con la senda no encuentro.</l>
+            <l part="I">¿Dónde voy a dar?</l>
+          </sp>
+          <stage>Tropieza y va a dar en brazos del CENTRO DE LA TIERRA.</stage>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l part="F">Al centro</l>
+            <l>de la Tierra en que naciste;</l>
+            <l>que, como en él consideres</l>
+            <l n="305">-asistida de Ignociencia,</l>
+            <l>Gracia, Voluntad y Ciencia-</l>
+            <l>lo que fuiste, lo que eres</l>
+            <l>y lo que serás, confío</l>
+            <l>venzas ese monstruo fiero;</l>
+            <l n="310">y más cuando considero</l>
+            <l>que vienes con tu Albedrío.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Ay, que es loco!</l>
+          </sp>
+          <sp who="#albedrío #ciencia #gracia #ignociencia #voluntad #demonio">
+            <speaker>TODOS</speaker>
+            <l part="F">Sé tú cuerda.</l>
+            <l part="I">Ven; no temas.</l>
+          </sp>
+          <stage>Llévanla entre TODOS.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <stage>Dentro.</stage>
+            <l part="F">¿Cómo no</l>
+            <l>ha de temer, si voy yo</l>
+            <l n="315">para que todo lo pierda?</l>
+            <stage>Sale al tablado.</stage>
+            <l>El profeta Isaías,</l>
+            <l>viendo apagar en las tinieblas frías</l>
+            <l>de mi esplendor la llama,</l>
+            <l>lucero de sus piélagos me llama;</l>
+            <l n="320">el águila divina,</l>
+            <l>que del sol a los rayos se examina,</l>
+            <l>dragón de las espumas;</l>
+            <l>y en otras mil definiciones sumas,</l>
+            <l>viendo a tormentas mi ira reducida,</l>
+            <l n="325">bestia del mar Basilio me apellida.</l>
+            <l>Con estas opiniones,</l>
+            <l>y con que siempre son tribulaciones</l>
+            <l>las aguas en la pura,</l>
+            <l>misteriosa lección de la Escriptura,</l>
+            <l n="330">¿quién dudará que puedo</l>
+            <l>-torpe embrión de esa marina foca</l>
+            <l>que, víbora, me aborta por la boca-</l>
+            <l>salir a dar -ya que informado quedo</l>
+            <l>de otro disfraz-, en este horror y miedo,</l>
+            <l n="335">al universo Centro de la Tierra,</l>
+            <l>robándole la joya, a quien encierra,</l>
+            <l>temeroso de mí, verde alquería,</l>
+            <l>con quien es noche el rosicler del día?</l>
+            <l>Alta empresa me mueve,</l>
+            <l n="340">tanto que, para que con ella salga,</l>
+            <l>es fuerza que me valga</l>
+            <l>de aquélla que sin ser a ser se atreve.</l>
+            <l>Conficionado horror de fuego y nieve,</l>
+            <l>añadido veneno a mi veneno,</l>
+            <l n="345">¡oh tú, que el pavoroso obscuro seno</l>
+            <l>de esa bruta coluna</l>
+            <l>del venenoso monte de la luna</l>
+            <l>habitas, ponzoñosa y escondida,</l>
+            <l>mágico parasismo de la vida,</l>
+            <l n="350">madre horrible del sueño,</l>
+            <l>alimentada furia del beleño,</l>
+            <l>susto de los mortales,</l>
+            <l>línea a los bienes, término a los males,</l>
+            <l>mesonera del llanto,</l>
+            <l n="355">huéspeda de los reinos del espanto,</l>
+            <l>reloj de los momentos,</l>
+            <l>precisa acotación de los alientos,</l>
+            <l>separación penosa</l>
+            <l>de la más dulce unión. ¡Oh tú, horrorosa</l>
+            <l n="360">imagen de la culpa y de la muerte,</l>
+            <l>que en piedra o bruto al racional convierte,</l>
+            <l>a pesar pareciendo, de lo bello,</l>
+            <l>un áspid cada crin de tu cabello;</l>
+            <l>cada semblante, un ceño de tu ira;</l>
+            <l n="365">y, en fin, oh tú, que darte no se escusa</l>
+            <l>el equívoco nombre de que hoy usa</l>
+            <l>retórico el concepto de la fama,</l>
+            <l part="I">pues siendo culpa y muerte...!</l>
+          </sp>
+          <stage>Sale MEDUSA.</stage>
+          <sp who="#medusa">
+            <speaker>[MEDUSA]</speaker>
+            <l part="F">¿Quién me llama?</l>
+            <l>Mas no lo digas, que ya veo quién eres.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I">¿En qué?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="370" part="F">En que al ir a pronunciar Medusa,</l>
+            <l>te respondo, me ves y no te mueres.</l>
+            <l>¿Qué es, pues, lo que me quieres,</l>
+            <l>que en derrotado traje de tormenta</l>
+            <l>me buscas?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="375">Sólo que me estés atenta:</l>
+            <l>De rebeldes espíritus caudillo...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>La Apocalipsis sé, no hay que decillo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>...al mismo Dios le presenté batalla.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Ezequiel lo dirá; no hay que contalla.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="380">Diome el ver un bosquejo, una belleza,...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Ya sé que fue la gran Naturaleza.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>...ocasión al despecho, que hasta hoy lloro.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Lo rencorioso de tu amor no ignoro.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Y lleno de temores y recelos...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="385">También sé lo rabioso de tus celos.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>...sentí al instante el fuego que en mí lidia.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Ya conozco el veneno de tu envidia.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Y en fin, perdí la acción en lid tan dura,...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>El bien, la luz, la gracia y la hermosura.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="390">...quedando de mi patria desterrado...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>...a perpetuas tinieblas condenado.</l>
+            <l>Hasta aquí sé de tus desdichas graves.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Pues oye desde aquí lo que no sabes.</l>
+            <l>Ese bellísimo encanto,</l>
+            <l n="395">ese bellísimo asombro</l>
+            <l>de la hermosura -a quien yo,</l>
+            <l>por no adorarla, la adoro,</l>
+            <l>usando en mí de los dos</l>
+            <l>afectos más poderosos,</l>
+            <l n="400">más encontrados y opuestos,</l>
+            <l>pues son el amor y el odio-,</l>
+            <l>tan postrado, tan rendido,</l>
+            <l>tan sujeto, tan penoso</l>
+            <l>me tiene que, hasta que pueda</l>
+            <l n="405">llamarla mía, dispongo</l>
+            <l>no perdonar al deseo</l>
+            <l>medio ninguno de todos</l>
+            <l>cuantos discurre un amante</l>
+            <l>y cuantos piensa un celoso.</l>
+            <l n="410">Andrómeda la ha llamado</l>
+            <l>la voz de no sé qué tono</l>
+            <l>que hoy, en la tranquilidad</l>
+            <l>de su paz, compuso el ocio.</l>
+            <l>Con esta causa, porque,</l>
+            <l n="415">viéndome marino monstruo,</l>
+            <l>su disfraz y mi disfraz</l>
+            <l>convengan el uno al otro,</l>
+            <l>embrión de las espumas</l>
+            <l>y de las ondas aborto,</l>
+            <l n="420">salí a aqueste sitio, envuelto</l>
+            <l>en ovas, fuego, humo y polvo,</l>
+            <l>donde, siguiendo la línea</l>
+            <l>que tan a dos luces corro,</l>
+            <l>por empresa he de llevar</l>
+            <l n="425">en el escudo del rostro</l>
+            <l>esculpido «Finis-Ero»,</l>
+            <l>pues de sus dichas y gozos</l>
+            <l>he de ser fin; cuya letra</l>
+            <l>nombre me ha de dar famoso</l>
+            <l n="430">de Fineo, pues Fineo</l>
+            <l>o «Finis-Ero» es lo proprio.</l>
+            <l>Ésta, pues, deidad humana,</l>
+            <l>hija de amasado lodo</l>
+            <l>en el Centro de la Tierra</l>
+            <l n="435">-padre suyo- en un hermoso</l>
+            <l>jardín asistida vive</l>
+            <l>del siempre sagrado coro</l>
+            <l>de Ninfas Virtudes, que,</l>
+            <l>jurada reina de todo,</l>
+            <l n="440">hacen que los elementos</l>
+            <l>la tributen, por despojos,</l>
+            <l>el Agua, claros cristales;</l>
+            <l>el Fuego, reflejos rojos;</l>
+            <l>la Tierra, sabrosos frutos;</l>
+            <l n="445">y el Aire, blandos favonios.</l>
+            <l>Y, aún no contenta con esto,</l>
+            <l>sobre estado tan dichoso</l>
+            <l>de gracia y naturaleza,</l>
+            <l>aspira a ocupar el solio</l>
+            <l n="450">que perdí. No sé, no sé,</l>
+            <l>cuando estas razones formo,</l>
+            <l>para qué salí del agua,</l>
+            <l>si con el aire me ahogo.</l>
+            <l>Mas sí sé; pues fue a valerme</l>
+            <l n="455">de ti; que, si al numeroso</l>
+            <l>ejército de mis ansias</l>
+            <l>le entra el auxiliar socorro</l>
+            <l>de tus encantos, no dudo</l>
+            <l>que he de salir victorioso.</l>
+            <l n="460">Compónme un hechizo; pues,</l>
+            <l>si como a culpa te invoco,</l>
+            <l>de ser la culpa hechicera</l>
+            <l>David me dará el apoyo,</l>
+            <l>diciendo que por la culpa</l>
+            <l n="465">es bruto el hombre; si, como</l>
+            <l>muerte, mágica te llamo,</l>
+            <l>Samuel hablará en mi abono,</l>
+            <l>dándole voz al cadáver;</l>
+            <l>y si, en retóricos tropos</l>
+            <l n="470">de alegórico concepto,</l>
+            <l>como a Medusa te nombro</l>
+            <l>es por convenir en ti</l>
+            <l>alusiones de uno y otro,</l>
+            <l>pues, muerte o culpa, hacer sabes</l>
+            <l n="475">bruto al hombre, piedra o tronco.</l>
+            <l>Y así, compónme un hechizo,</l>
+            <l>otra vez a decir torno,</l>
+            <l>en su tósigo tan fuerte</l>
+            <l>o en su conjuro tan prompto,</l>
+            <l n="480">que a mi amor la incline o que</l>
+            <l>quede incapaz para otro.</l>
+            <l>Tenga logro el rencor, ya</l>
+            <l>que no tenga el amor logro;</l>
+            <l>que si tú de aqueste monte</l>
+            <l n="485">sales, y yo de este escollo,</l>
+            <l>tú a atraerla con tu hechizo,</l>
+            <l>y yo a llevarla en mi robo,</l>
+            <l>no dudes que el Centro quede</l>
+            <l>de la Tierra tan dudoso,</l>
+            <l n="490">que caduque, titubeando,</l>
+            <l>al desquiciar de sus polos,</l>
+            <l>si se cai o no se cai,</l>
+            <l>todo ese pendiente globo</l>
+            <l>que borra la luna a giros</l>
+            <l n="495">y el sol ilumina a tornos.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>No sé de qué especie o qué</l>
+            <l>género son tus ahogos,</l>
+            <l>que los oigo como ajenos</l>
+            <l>y los siento como proprios.</l>
+            <l n="500">Júpiter, dios de los dioses,</l>
+            <l>si a la metáfora torno</l>
+            <l>-pues ya de otros empezada</l>
+            <l>fuerza es seguirla nosotros-;</l>
+            <l>Júpiter, dios de los dioses,</l>
+            <l n="505">desde su supremo trono,</l>
+            <l>anteviendo que yo había,</l>
+            <l>si me introducía en los cotos</l>
+            <l>de sus vedados jardines,</l>
+            <l>de ser en ellos destrozo</l>
+            <l n="510">de sus frutas, siendo en ellos</l>
+            <l>el ábrego, el cierzo, el noto</l>
+            <l>que los encendiese a rayos</l>
+            <l>o los apagase a soplos,</l>
+            <l>allá en su divina idea,</l>
+            <l n="515">por que de mí huyesen todos</l>
+            <l>-al ver mi semblante, ciegos;</l>
+            <l>al oír mis voces, sordos-,</l>
+            <l>previno desfigurar</l>
+            <l>las facciones de mi rostro</l>
+            <l n="520">tanto que nadie me viese</l>
+            <l>que no figurase absorto</l>
+            <l>el ser áspides la crencha</l>
+            <l>que cai de la frente al hombro,</l>
+            <l>con tal horror de mí misma,</l>
+            <l n="525">que, por no verme, no oso</l>
+            <l>-con miedos de basilisco,</l>
+            <l>que al verse se mata él proprio-</l>
+            <l>en un arroyo aun a verme,</l>
+            <l>sin enturbiar el arroyo.</l>
+            <l n="530">Conque, huyendo de mí, habito,</l>
+            <l>sin más ser, este horroroso</l>
+            <l>monte, entre el mar y la tierra,</l>
+            <l>medio risco y medio escollo,</l>
+            <l>hasta tener ocasión</l>
+            <l n="535">en que vengar mis oprobios.</l>
+            <l>Y así, valiente Fineo</l>
+            <l>-que ya como a tal te nombro-,</l>
+            <l>puesto que a buscarme vienes</l>
+            <l>y que, a tu sombra, el arrojo</l>
+            <l n="540">de manifestarme al mundo,</l>
+            <l>cómplice de tus enojos,</l>
+            <l>en tu valor me asegura,</l>
+            <l>a seguirte me dispongo,</l>
+            <l>que también me importa a mí</l>
+            <l n="545">ir a ser; y más si noto</l>
+            <l>que aquesa Naturaleza,</l>
+            <l>que hoy goza tantos adornos,</l>
+            <l>es quien ha de introducir</l>
+            <l>la culpa por el demonio,</l>
+            <l n="550">y por la culpa la muerte;</l>
+            <l>y así, atropellando estorbos,</l>
+            <l>lleguemos a su jardín,</l>
+            <l>asaltemos su frondoso</l>
+            <l>sitio y de nuestra secreta</l>
+            <l n="555">mina, sus baluartes rotos,</l>
+            <l>desmantelados sus muros,</l>
+            <l>desembocados sus fosos,</l>
+            <l>entremos a sangre y fuego;</l>
+            <l>que si una vez en él pongo</l>
+            <l n="560">la planta y de mi tocado</l>
+            <l>desprendo un cabello solo,</l>
+            <l>él derramará el veneno</l>
+            <l>que dentro del pecho escondo</l>
+            <l>en las causas naturales,</l>
+            <l n="565">que mejor que ella conozco.</l>
+            <l>Ven, que si a ella el nombre dio</l>
+            <l>de Andrómeda un blando tono,</l>
+            <l>por ser juventud florida,</l>
+            <l>simulacro o mauseolo,</l>
+            <l n="570">por agricultura, a mí,</l>
+            <l>menos blando y más ruidoso,</l>
+            <l>otro me dio el de Medusa,</l>
+            <l>que significa lo proprio.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Pues ya que, de nuestra sorda</l>
+            <l n="575">pólvora, el callado plomo</l>
+            <l>brecha nos ha abierto al bello</l>
+            <l>recinto de sus contornos,</l>
+            <l>¿qué esperas? Ese cristal</l>
+            <l>enturbie tu venenoso</l>
+            <l n="580">tósigo, pues es ponerte</l>
+            <l>tú misma a ti misma en cobro.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Dices bien; en esta fuente</l>
+            <l>el primer hechizo pongo;</l>
+            <l part="I">mas, ¡ay de mí!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="M">¿Tiemblas?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Sí.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I">¿De qué?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="585" part="F">De que reconozco</l>
+            <l>que antes ha de ser el Agua</l>
+            <l>el antídoto piadoso</l>
+            <l>que, de la Gracia auxiliado,</l>
+            <l>lave la mancha del lodo</l>
+            <l n="590">con que enturbiarla pretendo;</l>
+            <l>y más cuando en ella formo</l>
+            <l>un espejo no manchado</l>
+            <l>en que me quiebre los ojos.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Pues ponle en aquestas flores.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="595">Sí haré; mas, ¡ay!, que tampoco</l>
+            <l part="I">en ellas puedo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¿Por qué?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Porque el cándido pimpollo</l>
+            <l>de una azucena, que aún no</l>
+            <l>el virgen botón ha roto</l>
+            <l n="600">-símbolo de la ignociencia</l>
+            <l>en lo puro y en lo hermoso-,</l>
+            <l>en granos de oro contiene</l>
+            <l>un escondido tesoro;</l>
+            <l>que no hay ponzoña que pueda</l>
+            <l n="605">inficionar granos de oro.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Pues inficiona a estas vides.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>El mismo daño conozco.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I">Tala estas mieses.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">No puedo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="I">¿Cómo de ellas huyes?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Como</l>
+            <l n="610">la Ciencia, que está de guarda,</l>
+            <l>me amenaza, si las toco,</l>
+            <l>no sé en qué forma, a quien yo,</l>
+            <l>aun vista en sombras, me postro.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Pues ya que en vides, en mieses,</l>
+            <l n="615">en flores y en fuentes topo</l>
+            <l>defendidos los objectos</l>
+            <l>que en singular te propongo,</l>
+            <l>apesta el aire, que es</l>
+            <l>común aliento de todo:</l>
+            <l part="I">perezca todo.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="620" part="F">Sí haré,</l>
+            <l>ya al aire el veneno arrojo;</l>
+            <l>mas no, que a un ave, que llena</l>
+            <l>de gracia sulca sus golfos,</l>
+            <l>tan alta la Voluntad</l>
+            <l n="625">la lleva, que de los rojos</l>
+            <l>rayos del sol coronada,</l>
+            <l part="I">me ha deslumbrado.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¿De modo</l>
+            <l>que, en agua, tierra, aire y fuego,</l>
+            <l>si tus temores recorro,</l>
+            <l n="630">cristal, flor, ambiente y luz,</l>
+            <l>diciendo está lo imperioso</l>
+            <l>de ignociencia, gracia, y ciencia</l>
+            <l part="I">y voluntad...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="M">¿Qué?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">...que todos</l>
+            <l>los frutos que al hombre da</l>
+            <l n="635">el cielo tienen su logro</l>
+            <l>en que las Virtudes sean</l>
+            <l>quien solicite[n] sus colmos?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="I">¿Eso dudas?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">No lo dudo,</l>
+            <l>que a mi pesar lo conozco,</l>
+            <l n="640">pues no nos queda resquicio</l>
+            <l>por donde entremos nosotros.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="I">Sí queda.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="M">¿Cuál?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Este árbol,</l>
+            <l>en cuyo vedado tronco,</l>
+            <l>supuesto que no es ni ave,</l>
+            <l n="645">ni flor, ni aliento, ni arroyo,</l>
+            <l>atrevidamente osada</l>
+            <l>mi mortal hechizo pongo.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Y yo el Árbol de la Muerte</l>
+            <l>desde este instante le nombro.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="650">¿Qué haremos para atraer</l>
+            <l>por aqueste sitio umbroso</l>
+            <l part="I">a Andrómeda?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">Su Albedrío,</l>
+            <l>poco de mí temeroso,</l>
+            <l>hacia aquí viene; y si yo</l>
+            <l n="655">entre mis brazos le cojo,</l>
+            <l>ella se vendrá tras él;</l>
+            <l>y podrá ser que su hermoso</l>
+            <l part="I">fruto...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Ya llega a ocultarte</l>
+            <l>tú, mientras yo en él me escondo,</l>
+            <l n="660">a engañarla con la voz,</l>
+            <l>sin ver su muerte en mi rostro,</l>
+            <l>hasta que pierda la Gracia.</l>
+          </sp>
+          <stage>Sale el ALBEDRÍO.</stage>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Nunca yo fuera curioso,</l>
+            <l>pues no me atreviera -antes</l>
+            <l n="665">de saber si el señor monstruo</l>
+            <l>se habrá vuelto a la marina</l>
+            <l>calesa en que cabe él solo-</l>
+            <l>a volver aquí, traído</l>
+            <l>del apetecido antojo</l>
+            <l n="670">de las manzanas de un árbol,</l>
+            <l part="I">que por aquí...</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¡Date, loco,</l>
+            <l part="I">a prisión!</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="F">¿Cómo he de darme,</l>
+            <l>si soy libre? ¿No es un tonto</l>
+            <l part="I">quien tal piensa?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¡No des voces!</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="675">A darlas mil veces torno.</l>
+            <l>¡Cielos! ¿No hay quien me socorra?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <stage>Dentro.</stage>
+            <l>Sí, que por ellas respondo</l>
+            <l>yo, pues para sólo dar</l>
+            <l>al afligido socorro,</l>
+            <l n="680">en alada exhalación</l>
+            <l>la esfera del aire rompo.</l>
+            <stage>Sale ahora.</stage>
+            <l>¡Suelta la presa, tirano!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>¿Quién eres, que tan brioso</l>
+            <l>osas competir conmigo?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="I">Soy quien soy.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="685" part="F">No te conozco;</l>
+            <l>quita la banda, que es</l>
+            <l>tupida nube, del rostro.</l>
+            <l part="I">Sepa con quién lidio.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">No ha</l>
+            <l>llegado el tiempo forzoso</l>
+            <l n="690">en que has de saberlo. Baste</l>
+            <l>que ahora sepas que es mi heroico</l>
+            <l>valor el que está diciendo,</l>
+            <l>librándoles de ti a todos,</l>
+            <l>que sobre el albedrío no</l>
+            <l n="695">tiene dominio el demonio.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Ni en el acero que esgrimes,</l>
+            <l>que es rayo tan poderoso</l>
+            <l>que dando horror al horror,</l>
+            <l>que dando asombro al asombro,</l>
+            <l n="700">ha de obligarme a que, huyendo</l>
+            <l>sus abrasados enojos</l>
+            <l>segunda vez, en aquel</l>
+            <l>escamado Bucentoro,</l>
+            <l>de cuyo buque la ira</l>
+            <l n="705">me hizo náutico piloto,</l>
+            <l>perturbe en bandido rumbo,</l>
+            <l>infeste en pirata corso,</l>
+            <l>los mares con mis tormentas,</l>
+            <l>los montes con mis abordos,</l>
+            <l n="710">hasta inundar todo el orbe</l>
+            <l>en venganza de este oprobio;</l>
+            <l>si ya no es que antes le vengue</l>
+            <l>algún áspid ponzoñoso</l>
+            <l>de los muchos que enroscados</l>
+            <l n="715">quedan al pie de esos troncos.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Ahora y entonces tú y él</l>
+            <l>seréis mi triunfal despojo.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Sepa usted, seor rebozado,</l>
+            <l>que yo soy un loquitonto,</l>
+            <l n="720">que es peor que loco a secas,</l>
+            <l>y que, aunque el favor conozco,</l>
+            <l>no sé agradecer, y así</l>
+            <l>quiero le agradezcan otros.</l>
+            <l>¡Bella Andrómeda, Virtudes</l>
+            <l n="725">y Elementos! ¡Venid todos,</l>
+            <l>venid; veréis a quién debo</l>
+            <l>la libertad, y vosotros</l>
+            <l>la libertad y la vida!</l>
+          </sp>
+          <stage>Salen TODOS.</stage>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>VIRTUDES</speaker>
+            <l>Albedrío, ¿qué alboroto</l>
+            <l part="I">es éste?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l n="730" part="F">¿De qué das voces?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Cómo aquí, sin temor, solo</l>
+            <l part="I">te quedaste?</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="F">No quedé,</l>
+            <l>que después vine curioso,</l>
+            <l>motivado de una fruta</l>
+            <l n="735">de quien aún dura el antojo.</l>
+            <l>Con el señor monstruo di,</l>
+            <l>y con el señor no monstruo;</l>
+            <l>y, librándome, le hizo</l>
+            <l>volverse al mar, temeroso.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="740">El favor que a mi Albedrío</l>
+            <l>habéis dado, reconozco;</l>
+            <l>y así, para agradecerle</l>
+            <l>sabiendo a quién, el embozo</l>
+            <l>os suplico que corráis.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="745">Perdonad, prodigio hermoso,</l>
+            <l>que hasta el prefinido tiempo</l>
+            <l>que una belleza, a quien rondo</l>
+            <l>en los disfraces de amante</l>
+            <l>para las dichas de esposo,</l>
+            <l n="750">merezca llamarla mía,</l>
+            <l>nadie me ha de ver el rostro;</l>
+            <l>en cuyo intermedio, a causa</l>
+            <l>de que nunca pude ocioso</l>
+            <l>estar, quise que mis hechos</l>
+            <l n="755">-para llegar más airoso,</l>
+            <l>cuando a declararme llegue-,</l>
+            <l>mi fama hiciese notorios</l>
+            <l>a todo el orbe. Y así,</l>
+            <l>con los azules rebozos,</l>
+            <l n="760">que a imitación son de nubes</l>
+            <l>cortinas de sacro solio,</l>
+            <l>mi valor, siempre invencible,</l>
+            <l>mi espíritu, siempre heroico,</l>
+            <l>de otra patria en que nací</l>
+            <l n="765">me sacó, con tan piadoso,</l>
+            <l>noble y desinteresado</l>
+            <l>fin, que su pretexto es sólo</l>
+            <l>buscar aventuras que</l>
+            <l>sean venturas para otros;</l>
+            <l n="770">con que viendo ser mi empeño</l>
+            <l>sabio a un viso, altivo a otro,</l>
+            <l>Minerva, que de las Ciencias</l>
+            <l>deidad apellida el ocio,</l>
+            <l>me dio el cristalino escudo;</l>
+            <l n="775">Mercurio, en los artes docto,</l>
+            <l>el templado acero; bien</l>
+            <l>pudiera decir que a logro,</l>
+            <l>que, más que dados, parece</l>
+            <l>que a victorias se los compro.</l>
+            <l n="780">Dígalo vuestro Albedrío,</l>
+            <l>pues apenas su voz oigo,</l>
+            <l>cuando de la sugestión</l>
+            <l>acudí a darle socorro.</l>
+            <l>Y así, pues la gratitud</l>
+            <l n="785">que me ofrece el generoso</l>
+            <l>afecto vuestro os estimo</l>
+            <l>-porque para mí no hay gozo</l>
+            <l>más que ver agradecidos-,</l>
+            <l>no atribuyáis a desdoro</l>
+            <l n="790">no verme ahora; y ya que</l>
+            <l>con mis señas os informo</l>
+            <l>en humanas letras, haga</l>
+            <l>en las divinas lo proprio.</l>
+            <l>Las humanas dicen -bien</l>
+            <l n="795">que en sentido fabuloso,</l>
+            <l>como sin luz de la fe-</l>
+            <l>que Júpiter, poderoso</l>
+            <l>dios de dioses, me engendró</l>
+            <l>concebido en lluvia de oro;</l>
+            <l n="800">las divinas, que en rocío,</l>
+            <l>que cándido, puro, hermoso</l>
+            <l>vellón sin mancha cuajó,</l>
+            <l>hilada la nieve a copos.</l>
+            <l>Y así, mi nombre es en ambas,</l>
+            <l n="805">con seguro de que, como</l>
+            <l>conmigo mismo y en mí</l>
+            <l>mismo por mí mismo obro,</l>
+            <l>y , en latino frase,</l>
+            <l>es el que obra por sí solo,</l>
+            <l n="810">bien puedo asentar que, en fe</l>
+            <l>del , Perseo me nombro.</l>
+            <l>Y pues es el alto asumpto</l>
+            <l>de mis alientos briosos</l>
+            <l>hacer bien -a cuyo efecto,</l>
+            <l n="815">a oposición de aquel monstruo</l>
+            <l>que undosos campos navega,</l>
+            <l>yo, en el blanco, generoso</l>
+            <l>caballo que vio Ezequiel,</l>
+            <l>azules campañas corro-,</l>
+            <l n="820">no será el menor deciros,</l>
+            <l>¡oh bello prodigio hermoso!,</l>
+            <l>que si, de todos los frutos</l>
+            <l>de este jardín, monte y soto,</l>
+            <l>de alguno, que de mortal</l>
+            <l n="825">cicuta, beleño y opio</l>
+            <l>inficionado está, no</l>
+            <l>os guardáis, será forzoso</l>
+            <l>morir muriendo; con que,</l>
+            <l>si agradecida al socorro</l>
+            <l n="830">de ver libre al Albedrío</l>
+            <l>estáis, pagádmele en sólo</l>
+            <l>no comer de aquella fruta;</l>
+            <l>advirtiéndoos que son todos</l>
+            <l>vuestros riesgos esos mares,</l>
+            <l n="835">ese árbol y ese escollo.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Oye, aguarda! ¿Dónde vas?</l>
+            <l>Mira que no puedo, no,</l>
+            <l>al viento quitarle yo</l>
+            <l>las alas que tú le das.</l>
+            <l n="840">Mucho que dudar me das,</l>
+            <l>viéndote, en acción tan rara,</l>
+            <l>la cara encubrir. Repara</l>
+            <l>en que el que hace el mal es quien</l>
+            <l>la esconde; que el que hace el bien,</l>
+            <l n="845">¿por qué ha de esconder la cara?</l>
+            <l>No con tanta ligereza</l>
+            <l>huyas, que nunca fue indicio</l>
+            <l>la fuga del beneficio,</l>
+            <l>ni el susto de la fineza.</l>
+            <l n="850">Vuelve, pues; no a mi tristeza</l>
+            <l>ocasiones a dudar;</l>
+            <l>no me des qué imaginar,</l>
+            <l>pues me das qué agradecer;</l>
+            <l>que no es hacerme un placer</l>
+            <l n="855">dejarme con un pesar.</l>
+            <l>Más veloz que el mismo viento</l>
+            <l>vuela. En vano voces doy.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Con todo esto, aún yo me estoy</l>
+            <l>a las manzanas atento.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="860">Ciencia, tú, a mi sentimiento,</l>
+            <l>qué es morir me has de decir.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="I">Dejar de ser.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">¿Y añadir</l>
+            <l>al morir «morir muriendo»?</l>
+            <l>¿Cómo he de morir no siendo,</l>
+            <l n="865">si es dejar de ser morir?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Como en tu humana fortuna</l>
+            <l>hay, si del bien usas mal,</l>
+            <l>dos muertes: la natural</l>
+            <l>del cuerpo será la una;</l>
+            <l part="I">la otra, del alma.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="870" part="F">¿Y ninguna</l>
+            <l part="I">podré excusar?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="F">Sí; y las dos.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿Cómo?</l>
+          </sp>
+          <sp who="#ignociencia #voluntad">
+            <speaker>IGNOCIENCIA y VOLUNTAD</speaker>
+            <l part="F">Resignando en Dios,</l>
+            <l>advertida de la Ciencia,...</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l part="I">...mi voluntad.</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l part="F">...mi ignociencia.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="875">¿Cómo calláis, Gracia, vos?</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Como, por mí, hablando vi</l>
+            <l>que están las Virtudes bellas;</l>
+            <l>y mientras la asistan ellas,</l>
+            <l>no llega su error a mí.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="880">Decidme, pues, ¿cómo aquí,</l>
+            <l>ya que en vosotras me fío,</l>
+            <l>podré, entre logro y desvío,</l>
+            <l>distinguir el mal del bien?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Esa distinción a quien</l>
+            <l n="885">le toca es al saber mío,</l>
+            <l>pues me toca el proponer</l>
+            <l>y al Albedrío elegir.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Qué haré para no morir?</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>No llamar médicos; ser</l>
+            <l n="890">alegre, comer, beber;</l>
+            <l>y para hacer ahora gana,</l>
+            <l>dígalo aquella manzana.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Qué esmaltado rosicler!</l>
+            <l part="I">¿No es bella, Elementos?</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l part="F">¿No</l>
+            <l n="895">ha de serlo, si yo he sido</l>
+            <l>el que, en la tierra prendido,</l>
+            <l>su tronco fertilizó?</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l>¿No ha de serlo, cuando yo</l>
+            <l>bañé en cristal sus raíces?</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l n="900">¿Y yo, cuando a sus matices</l>
+            <l>le dio el sol el lucimiento?</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l>¿Yo, cuando el aire el aliento?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Ya sé que todos felices</l>
+            <l>la formasteis, para que,</l>
+            <l n="905">cuando mi Albedrío la viera,</l>
+            <l>a gustarla me moviera;</l>
+            <l part="I">y así...</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="M">¡No hagas tal!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">¿Por qué?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Porque aquesa fruta fue</l>
+            <l>la que vi que señaló</l>
+            <l n="910">el que el riesgo te avisó</l>
+            <l>que entre las demás había.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>La Tierra, madre fue mía</l>
+            <l>-en su Centro me engendró-</l>
+            <l>y nacida de su Centro,</l>
+            <l n="915">¿por qué tengo de pensar</l>
+            <l>que contra mí ha de encerrar,</l>
+            <l>cuando tan bella la encuentro,</l>
+            <l>noscivo tósigo dentro?</l>
+            <l>Y para explicarme más,</l>
+            <l n="920">que no me ofenda jamás,</l>
+            <l>tronco, volved vos por vos.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <stage>Dentro.</stage>
+            <l>Come y serás como Dios;</l>
+            <l>come y inmortal serás.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿Inmortal y Dios?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>UNOS</speaker>
+            <l part="F">¡Advierte!</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>OTROS</speaker>
+            <l part="I">¡Mira!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="925" part="F">Aquí no hay que mirar</l>
+            <l>ni advertir; yo he de llegar</l>
+            <l>a lograr tan alta suerte.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>¿Y si es la voz de la muerte?</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="I">¿Qué muerte?</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="F">La que anunció</l>
+            <l n="930">el que el precepto la dio.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Albedrío, tú me guía.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Ciencia Natural, desvía;</l>
+            <l>déjala pasar, que no</l>
+            <l>la Ciencia debe impedir</l>
+            <l part="I">al Albedrío.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l n="935" part="F">Sí debe,</l>
+            <l>cuando el Albedrío se mueve</l>
+            <l>sin Ciencia para advertir</l>
+            <l part="I">el bien o el mal.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Yo he de ir.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="I">Será sin mí.</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l part="F">¡Ay de mí y de ella</l>
+            <l n="940">si el Albedrío atropella</l>
+            <l>la Ciencia y mis plumas son</l>
+            <l>las que la dan la ambición!</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Pues no basto a detenella,</l>
+            <l>si errare, sea en mi ausencia;</l>
+            <l n="945">no vea yo su desvarío.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l>Ya siguiendo al Albedrío,</l>
+            <l>no la aprovecha la Ciencia.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>¿Qué pretendes, Ignociencia?</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l>No ver tu despeño yo.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Quita!</l>
+          </sp>
+          <stage>Vase IGNOCIENCIA.</stage>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l n="950" part="F">¡Ay del fuego que dio</l>
+            <l>a su espíritu tal brío;</l>
+            <l>que, siguiendo al Albedrío,</l>
+            <l>tras la Ciencia, atropelló</l>
+            <l part="I">a la Ignociencia!</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l part="F">Pasar</l>
+            <l part="I">no intentes.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="955" part="F">Advierte que</l>
+            <l>de lidiar los dos no sé,</l>
+            <l>Voluntad, haya ejemplar.</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l>Tú se la has querido dar,</l>
+            <l>apeteciendo su ruina,</l>
+            <l n="960">cuando a su daño la inclina</l>
+            <l>tu error, vuelto en su delito</l>
+            <l>de Albedrío en Apetito,</l>
+            <l>contra voluntad divina.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Divina es también aquélla</l>
+            <l n="965">que, haciendo inmortal mi fama,</l>
+            <l>a ser como Dios me llama.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l>¡Ay de Elemento que a ella</l>
+            <l>dio el ser y la fruta bella!</l>
+            <l>¡Que de que es tierra la acuerde!</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="970">Desnuda su pompa verde.</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l>A no verlo me desvío.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l>Ya, siguiendo su Albedrío,</l>
+            <l>la buena Voluntad pierde.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Yo es bien que tu paso impida,</l>
+            <l n="975">porque tu última desgracia</l>
+            <l>está en que pierdas la Gracia.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Por qué he de verla perdida,</l>
+            <l part="I">si a ganarla voy?</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="F">Olvida</l>
+            <l part="I">sus amenazas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Sí haré.</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l n="980">¡Ay de mi cristal, que fue</l>
+            <l>el que la desvaneció!</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Mira no me ausente yo.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Auséntate, que ya sé</l>
+            <l>que hay otra gracia sin ti;</l>
+            <l n="985">pues al verme en tu cristal,</l>
+            <l>ni como Dios ni inmortal</l>
+            <l>me aplaudiste, y ésta sí.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>¡Teme, que quedas sin mí!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Sí, pero sin otra no.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l n="990">¡Ay, que otra no hay como yo!</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>No por eso desconfío.</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l>Ya, siguiendo su Albedrío,</l>
+            <l>belleza y Gracia perdió.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Árbol que frutificó</l>
+            <l n="995">mi mismo Centro, de ti</l>
+            <l part="I">gustaré.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l part="M">¡Toma!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">¡Ay de mí!</l>
+            <l>¿Quién vista y luz me quitó,</l>
+            <l part="I">vida, alma y sentidos?</l>
+          </sp>
+          <stage>Sale MEDUSA.</stage>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Yo.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Qué horrible aspecto!</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l part="F">¡Qué fuerte</l>
+            <l part="I">pasmo!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1000" part="F">¿Dónde, por no verte,</l>
+            <l part="I">iré?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l part="F">Nada te disculpa,</l>
+            <l>que viene tras ti la culpa,</l>
+            <l>y tras la culpa la muerte.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿La muerte y la culpa?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Sí.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="1005">¡Buena hacienda habemos hecho!</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Sí, que enroscada a este tronco,</l>
+            <l>a fuer de serpiente, siendo</l>
+            <l>de mi crinada melena</l>
+            <l>un áspid cada cabello,</l>
+            <l n="1010">víbora con rostro humano,</l>
+            <l>de espera he estado, en acecho,</l>
+            <l>por si en el lazo caías</l>
+            <l>que estaba en sus redes puesto.</l>
+            <l>Lográronse mis astucias,</l>
+            <l n="1015">lográndose de Fineo</l>
+            <l>las ansias que le dictaron</l>
+            <l>amor y aborrecimiento.</l>
+            <l>Su delito y tu delito,</l>
+            <l>de un mismo parto nacieron;</l>
+            <l n="1020">y así, su pena y tu pena</l>
+            <l>tendrán un castigo mesmo.</l>
+            <l>Y pues el marino monstruo</l>
+            <l>los mares eriza -al tiempo</l>
+            <l>que yo, arrastrada culebra,</l>
+            <l n="1025">auxiliar suyo, estremezco</l>
+            <l>los montes, troncos y mares,</l>
+            <l>su pompa desvaneciendo-,</l>
+            <l>terremotos y tormentas</l>
+            <l>perturben el universo.</l>
+            <l n="1030">Infeliz vida te espera</l>
+            <l>al aire, al calor y al hielo,</l>
+            <l>bebiendo el agua del llanto</l>
+            <l>y el pan de dolor comiendo.</l>
+            <l>Conque, hasta aquella segunda</l>
+            <l n="1035">muerte del morir muriendo,</l>
+            <l>vivirás como yo vivo,</l>
+            <l>morirás como yo muero.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Ay, infelice de mí!</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l>¡Quebró el cristal sus espejos!</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l n="1040">¡Apagó el fuego sus luces!</l>
+          </sp>
+          <stage>Terremoto.</stage>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l>¡Perdió el aire sus alientos!</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l>¡Gimió el centro de la tierra!</l>
+          </sp>
+          <stage>Sale el CENTRO.</stage>
+          <sp who="#centro">
+            <speaker>[CENTRO]</speaker>
+            <l>¿Qué es esto, cielos, qué es esto,</l>
+            <l>que todo el mundo ha temblado,</l>
+            <l n="1045">como que a todo le han muerto?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Qué han de ser? Desdichas mías.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l part="I">¿Qué sientes?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">No sé qué siento;</l>
+            <l>pero sé que siento un mal</l>
+            <l>que, sin matarme, me ha muerto.</l>
+            <l n="1050">¡No me mires, no me mires,</l>
+            <l>oh padre, que me avergüenzo</l>
+            <l>de verte y de que me veas!</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>En tan mortales extremos,</l>
+            <l>llegad todos, llegad todos</l>
+            <l part="I">a consolarla.</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l n="1055" part="F">Lleguemos,</l>
+            <l>que al que peca y vive faltan</l>
+            <l>Virtudes, mas no Elementos.</l>
+            <l>No desconfíes, humana</l>
+            <l part="I">beldad.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">No te acerques, Fuego,</l>
+            <l n="1060">que con dos contradiciones</l>
+            <l>en un instante me has muerto.</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l part="I">¿Dos contradiciones?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Sí;</l>
+            <l>pues, ciega, sin tu luz quedo,</l>
+            <l>y, de tu luz, abrasada.</l>
+            <l n="1065">¿Cómo, cielos, cómo, cielos,</l>
+            <l>si me ha faltado la luz,</l>
+            <l>no me ha faltado el incendio?</l>
+            <l>No abrases, pues que no alumbras.</l>
+            <l>¡Que me quemo! ¡Que me quemo</l>
+            <l n="1070">a la inclemencia del sol,</l>
+            <l>obscuro y ardiente a un tiempo!</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l part="I">¿Qué te aflige cuando...?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Tú</l>
+            <l>me afliges de extremo a extremo,</l>
+            <l>de un dolor a otro dolor.</l>
+            <l n="1075">¡Detén, Aire, lisonjero</l>
+            <l>hasta aquí, furioso ya,</l>
+            <l>las ráfagas de tus vientos;</l>
+            <l>que, aterida de los fríos</l>
+            <l>notos, ábregos y cierzos</l>
+            <l n="1080">que respiras, me traspasas!</l>
+            <l>¡Que me hielo! ¡Que me hielo</l>
+            <l>a la inclemencia del Aire,</l>
+            <l>frío y destemplado a un tiempo!</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l part="I">Espera en Dios.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Guarda tú,</l>
+            <l n="1085">encarcelado elemento,</l>
+            <l>el coto al margen y no</l>
+            <l>rompas el sagrado freno</l>
+            <l>que a raya te tiene; mira</l>
+            <l>que vas a inundar, soberbio,</l>
+            <l n="1090">toda la Naturaleza.</l>
+            <l>¡No tan presto, no tan presto</l>
+            <l>en húmedos obeliscos</l>
+            <l>sepultes al universo!</l>
+            <l>¡Que me ahogo! ¡Que me ahogo,</l>
+            <l n="1095">ya desde aquí padeciendo</l>
+            <l>las avenidas del mar,</l>
+            <l>preso y desatado a un tiempo!</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l part="I">¡Ampárate de mí!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">¿Cómo</l>
+            <l>amparo he de hallar si, siendo</l>
+            <l n="1100">tu esfera el tálamo en que</l>
+            <l>de su limo y de su centro</l>
+            <l>nací al mundo, veo que ahora</l>
+            <l>de los materiales mesmos</l>
+            <l>que me labraste la cuna</l>
+            <l n="1105">me labras el monumento?</l>
+            <l>¡Oh, mal hubiesen tus flores</l>
+            <l>y tus frutas, pues el suelo</l>
+            <l>en que hallé frutas y flores,</l>
+            <l>abrojos y espinas siento,</l>
+            <l n="1110">ensangrentada la planta!</l>
+            <l>¡Que me muero! ¡Que me muero</l>
+            <l>a inclemencias de la tierra,</l>
+            <l>ingrata y fértil a un tiempo!</l>
+            <l>Todo, todo es contra mí;</l>
+            <l n="1115">y es verdad, pues aun los tiernos</l>
+            <l>cantos de las aves no</l>
+            <l>son ya anuncios, sino agüeros;</l>
+            <l>gorjeos, sino gemidos;</l>
+            <l>cláusulas, sino lamentos.</l>
+            <l n="1120">Los halagos de los brutos,</l>
+            <l>a mi obediencia sujetos,</l>
+            <l>ya son amenazas, todos</l>
+            <l>aguzando y previniendo</l>
+            <l>contra mí presas y garras.</l>
+            <l n="1125">¡Oh, quién no llegara a verlos</l>
+            <l>por no verlos tan airados!</l>
+            <l>Pero, ¡ay infeliz!, primero</l>
+            <l>que ellos en mí las empleen,</l>
+            <l>yo misma, más fiera que ellos,</l>
+            <l n="1130">las emplearé en mí, arrancando</l>
+            <l>con piadosa ira del pecho</l>
+            <l>pedazos del corazón.</l>
+            <l>Mas, ¡ay!, que aquéste no es medio</l>
+            <l>y mejor será acudir</l>
+            <l n="1135">a la piedad que al despecho.</l>
+            <l part="I">¡Fuego, a tu luz!</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l part="F">¿A qué luz,</l>
+            <l>si tú, ¡ay infeliz!, me has muerto?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Aire, a tu aliento!</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l part="F">Si tú</l>
+            <l>me le has quitado, ¿a qué aliento?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡A tu cristal!</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l n="1140" part="F">¿Qué cristal,</l>
+            <l>si tú has quebrado su espejo?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Tierra!</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l part="F">A mí nada me digas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿Centro suyo?</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l part="F">Y a mí menos,</l>
+            <l>que todo el centro infestado</l>
+            <l part="I">de tu culpa está.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1145" part="F">¿Qué es esto?</l>
+            <l>Si os acercáis es a herirme,</l>
+            <l>y a huir de mí si me acerco.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>TODOS</speaker>
+            <l>Sí, que no somos vasallos</l>
+            <l part="I">ya.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="M">Pues ¿qué sois?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>TODOS</speaker>
+            <l part="F">Tus opuestos.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1150">¿Tú no me debes las luces?</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l>Ni aun las sombras no te debo.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿Tú, el aliento?</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l part="F">Si suspiras,</l>
+            <l>podrá ser que te dé aliento.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿El agua, tú?</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l part="F">Si la lloras.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¿Tú, el sustento?</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="1155" part="F">Si primero</l>
+            <l>le labras y le cultivas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Para qué, para qué, cielos,</l>
+            <l>si me faltan las Virtudes,</l>
+            <l>me sobran los Elementos?</l>
+            <l n="1160">Pero, ya que aborrecida</l>
+            <l>de todos me miro, huyendo</l>
+            <l>de todos, a los jardines</l>
+            <l>de donde salí, siguiendo</l>
+            <l>los pasos de mi Albedrío,</l>
+            <l part="I">me retiraré y...</l>
+          </sp>
+          <stage>Sale MERCURIO con sus insignias.</stage>
+          <sp who="#mercurio">
+            <speaker>MERCURIO</speaker>
+            <l n="1165" part="F">Ni en ellos</l>
+            <l>has de entrar ni has de quedar,</l>
+            <l>que soy yo quien los defiendo.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Quién eres, alado joven,</l>
+            <l>que con espada de fuego,</l>
+            <l n="1170">blandido azote de Dios,</l>
+            <l part="I">me amenazas?</l>
+          </sp>
+          <sp who="#mercurio">
+            <speaker>MERCURIO</speaker>
+            <l part="F">De los ecos</l>
+            <l>de mi voz lo sabrás; pues</l>
+            <l>por que la oiga el orbe entero</l>
+            <stage>Cantado.</stage>
+            <l>la intimo a su Centro,</l>
+            <l n="1175">haciendo testigos</l>
+            <l>al Fuego, a la Tierra,</l>
+            <l>al Agua y al Viento.</l>
+            <stage>Recitativo.</stage>
+            <l>Andrómeda desdichada,</l>
+            <l>y en triste punto nacida</l>
+            <l n="1180">debajo de las estrellas</l>
+            <l>que influyen mayor desdicha,</l>
+            <l>el gran Júpiter, de dioses</l>
+            <l>dios -cuya sabiduría,</l>
+            <l>árbitro de tierra y cielo,</l>
+            <l n="1185">no hay átomo en que no asista,</l>
+            <l>desde el más luciente rayo</l>
+            <l>que las sombras ilumina</l>
+            <l>hasta el que, menos luciente,</l>
+            <l>trémulas cóleras vibra-,</l>
+            <l n="1190">habiendo de su poder</l>
+            <l>reducido en ti la cifra,</l>
+            <l>sacándote de la tierra,</l>
+            <l>a que, reina suya, vivan</l>
+            <l>tributarias de tu imperio</l>
+            <l n="1195">las flores que la matizan,</l>
+            <l>árboles que la guarnecen,</l>
+            <l>fuentes que la fertilizan,</l>
+            <l>frutos que la lisonjean,</l>
+            <l>animales que la habitan,</l>
+            <l n="1200">peces que sus golfos sulcan,</l>
+            <l>aves que sus aires giran;</l>
+            <l>y habiendo tú abandonado</l>
+            <l>el riesgo de que te avisa</l>
+            <l>quien, para usar bien o mal,</l>
+            <l n="1205">el Albedrío te libra</l>
+            <l>-pues la Ciencia perturbada,</l>
+            <l>la Voluntad prevertida,</l>
+            <l>maliciada la Ignociencia</l>
+            <l>y, en fin, la Gracia perdida,</l>
+            <l n="1210">queriendo ser como Dios,</l>
+            <l>quedaste como tú misma-,</l>
+            <l>ha pronunciado sentencia,</l>
+            <l>a tanta culpa benigna;</l>
+            <l>que las piedades de Dios</l>
+            <l n="1215">tan benévolas castigan</l>
+            <l>que se quedan en piedades</l>
+            <l>sin que pasen a ser iras.</l>
+            <l>Mercurio soy, de las ciencias</l>
+            <l>dueño; ser querub lo diga,</l>
+            <l n="1220">si del talar y del ala</l>
+            <l>no lo han dicho las insignias,</l>
+            <l>con las de este caduceo,</l>
+            <l>cuyos áspides publican</l>
+            <l>el delicto. Y la sentencia,</l>
+            <l n="1225">vuelto espada de justicia,</l>
+            <l>ésta es: que, pues tierra y mar</l>
+            <l>ser cómplices participan,</l>
+            <l>a ese escollo, que de tierra</l>
+            <l>y mar punto es de ambas líneas,</l>
+            <l n="1230">atada con las cadenas</l>
+            <l>que de tu yerro fabricas,</l>
+            <l>seas al furor expuesta</l>
+            <l>de esas dos fieras noscivas,</l>
+            <l>que del mar y de la tierra,</l>
+            <l n="1235">monte y golfo atemorizan;</l>
+            <l>la una, cuando le estremece,</l>
+            <l>y la otra, cuando le riza;</l>
+            <l>para cuya ejecución,</l>
+            <l>que a ti y a todos se intima,</l>
+            <l n="1240">sal de estos jardines, deja</l>
+            <l>los palacios en que habitas.</l>
+            <l>Y pues aquesta sentencia,</l>
+            <l>según presente justicia,</l>
+            <l>a todos toca guardarla,</l>
+            <l n="1245">a todos toque el cumplirla,</l>
+            <l>siendo ya ley precisa</l>
+            <l>el que ella muera antes que todos vivan.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Yo, sí! Como hablar no puedo,</l>
+            <l>pues del aliento me privan</l>
+            <l n="1250">mis ansias, el corazón,</l>
+            <l>ya que no pronuncie, gima.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>Andrómeda, yo no puedo</l>
+            <l>oponerme a las divinas</l>
+            <l>sentencias; el Centro soy</l>
+            <l n="1255">y temo que llegue el día</l>
+            <l>o que un diluvio me anegue</l>
+            <l>o que una llama me rinda;</l>
+            <l>y así, Andrómeda, el ministro</l>
+            <l>he de ser de tus desdichas.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="I">¡Padre, señor!</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l n="1260" part="F">Esto es fuerza.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>Y en vano el que te resistas.</l>
+            <l>Ven donde la ruina nuestra</l>
+            <l>nos asegure tu ruina.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Dejadme llorar siquiera</l>
+            <l n="1265">aquellos legales días</l>
+            <l>que, para último consuelo,</l>
+            <l>se han de otorgar a la hija</l>
+            <l>de Jepté; y con más razón,</l>
+            <l>pues a ella la dedica</l>
+            <l n="1270">su padre al cielo y el mío</l>
+            <l>a un monstruo me sacrifica.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro #mercurio">
+            <speaker>TODOS</speaker>
+            <l>A nosotros no nos toca</l>
+            <l part="I">más que obedecer.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Si os insta</l>
+            <l>la prisa de esa obediencia,</l>
+            <l n="1275">yo adelantaré la prisa,</l>
+            <l>por que no tenga la vuestra</l>
+            <l>más mérito que la mía;</l>
+            <l>y así, antes que a ser llegue</l>
+            <l>despojo de esa marina</l>
+            <l n="1280">bestia del mar, sabré ser</l>
+            <l>despojo yo de mí misma;</l>
+            <l>pues antes que a ocupar vaya</l>
+            <l>de aquel escollo la cima,</l>
+            <l>desde la de aqueste monte</l>
+            <l n="1285">veréis que me precipita</l>
+            <l>mi despecho; y no a su golfo,</l>
+            <l>por que aun caducas reliquias</l>
+            <l>mías no halle en sus espumas,</l>
+            <l>siendo en la tierra cenizas,</l>
+            <l n="1290">de quien los peñascos sean</l>
+            <l>urna, monumento y pira.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>Por que no se desespere,</l>
+            <l>¡seguidla todos, seguidla!</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #mercurio #andrómeda">
+            <speaker>TODOS</speaker>
+            <l>Vamos, pues sacrificada</l>
+            <l n="1295">al monstruo, ley es precisa</l>
+            <l>el que ella muera antes que todo viva.</l>
+          </sp>
+          <stage>Vanse y salen MEDUSA y PERSEO.</stage>
+          <sp who="#perseo #medusa">
+            <speaker>PERSEO y MEDUSA</speaker>
+            <l>Ley es precisa</l>
+            <l>el que ella muera antes que todo viva.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Pues si ya alado ministro</l>
+            <l n="1300">la sentencia la publica...</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Si ya la ley está dada</l>
+            <l>y que es forzoso cumplirla...</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>...¿qué aguardo que a ejecutarla</l>
+            <l>no voy, pues, cosa es sabida,</l>
+            <l n="1305">si la seguí como culpa,</l>
+            <l>que como muerte la siga?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>...¿qué espero que a dilatarla</l>
+            <l>no voy, ya que no a impedirla,</l>
+            <l>por que pueda a sus Virtudes</l>
+            <l n="1310">volverse restituida?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Y así, iré en su seguimento.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>No harás sin que yo lo impida,</l>
+            <l>dándola tiempo en que muera</l>
+            <l>de su culpa arrepentida.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="1315">¿Quién eres, pues que impedir</l>
+            <l>muerte y culpa solicitas?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Disfrazado amante soy,</l>
+            <l>que, sabiendo su desdicha,</l>
+            <l part="I">repararla intenta.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">No</l>
+            <l part="I">te conozco.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="1320" part="F">No me admira</l>
+            <l>que no me conozcas, que</l>
+            <l>soy de patria tan distinta</l>
+            <l>que no ha entrado en ella culpa</l>
+            <l part="I">ni muerte.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Aquése es enigma</l>
+            <l n="1325">que no entiendo; un hombre veo,</l>
+            <l>por más que el velo te finja</l>
+            <l>peregrino en esta patria;</l>
+            <l>y lo que me maravilla</l>
+            <l>es que tú me veas a mí</l>
+            <l n="1330">sin que te mate mi vista;</l>
+            <l>que si la Naturaleza</l>
+            <l>y Elementos, algún día,</l>
+            <l>con las vidas se quedaron</l>
+            <l>cuando me vieron, sería</l>
+            <l n="1335">porque allí muerte del alma</l>
+            <l>fui y aquí soy de la vida.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>No podrás hasta que yo</l>
+            <l>la licencia te permita,</l>
+            <l>y aun entonces morirás</l>
+            <l part="I">tú también.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="1340" part="F">¿La muerte misma</l>
+            <l>podrá morir? ¿De qué suerte?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Este escudo te lo diga.</l>
+            <l>Mírate en él y verás</l>
+            <l>que mueres si en él te miras.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="1345">¿Qué horrible, qué temerosa,</l>
+            <l>qué abominable, qué impía</l>
+            <l>imagen es la que en ese</l>
+            <l>mágico cristal me pintas?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>¡Oh, qué proprio es de la Culpa</l>
+            <l n="1350">no conocerse a sí misma!</l>
+            <l>Mírate bien, que tú eres</l>
+            <l>la que en él te significas.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>¿Esta soy yo? ¡No me vea!</l>
+            <l>¡Quita de delante, quita,</l>
+            <l n="1355">que ésa más parece que es</l>
+            <l part="I">la hidra, que yo!</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">¿Qué más hidra</l>
+            <l>que la que tantas cabezas</l>
+            <l>encrinada crencha riza?</l>
+            <l>¡Vuelve a verte y lo verás!</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="1360">¡No me mates, no me aflijas,</l>
+            <l>que pensaré que ser puede</l>
+            <l>mi veneno mi homicida!</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Si eres víbora, ¿qué mucho?;</l>
+            <l>pues, cuando se ve afligida</l>
+            <l n="1365">la víbora, de su mismo</l>
+            <l>veneno el tósigo alivia,</l>
+            <l>arrojándole en las flores;</l>
+            <l>y si, arrastrada, las pisa,</l>
+            <l>viene a morir de su propria</l>
+            <l n="1370">emponzoñada saliva.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>Pues ya que he de morir de ella,</l>
+            <l>no el templado acero esgrimas;</l>
+            <l>pero..., esgrímele, que más</l>
+            <l>quiero morir de tu herida</l>
+            <l n="1375">que de mi vista; porque,</l>
+            <l>cuando con mi sangre tiña</l>
+            <l>las flores, de cada flor</l>
+            <l>nazca un áspid, que, ojeriza</l>
+            <l>de todo el orbe, no deje</l>
+            <l n="1380">estancia que no sea Libia.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Áspid habrá que, exaltado</l>
+            <l>en el aire, con su vista,</l>
+            <l>a oposición de la tuya,</l>
+            <l>la vida dé a quien le mira.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l n="1385">Antes que él a esa piedad</l>
+            <l>llegue, llegará mi envidia</l>
+            <l>a la gran Naturaleza,</l>
+            <l>de quien Andrómeda es cifra,</l>
+            <l>pues ya, alcanzada de todos,</l>
+            <l n="1390">hacia el escollo caminan</l>
+            <l>con ella a sacrificarla.</l>
+            <l>Funestos ecos lo digan</l>
+            <l>de destemplados acentos.</l>
+          </sp>
+          <stage>Las cajas y trompetas roncas.</stage>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Por eso, también seguida,</l>
+            <l n="1395">bien que a lo lejos, de todas</l>
+            <l>las Virtudes va, movidas</l>
+            <l>del afecto de que haya</l>
+            <l>valor que a restituirla</l>
+            <l part="I">vuelva a su Gracia.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">Primero</l>
+            <l n="1400">que la alcance esa noticia,</l>
+            <l>Fineo y yo habremos logrado,</l>
+            <l>él su saña y yo mis iras.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>No habréis, que, primero, al filo</l>
+            <l>de esta acerada cuchilla</l>
+            <l n="1405">morirás tú, por más que</l>
+            <l>acelerada la prisa</l>
+            <l>de Virtudes y Elementos</l>
+            <l>en distintos coros digan...</l>
+            <stage>Vase.</stage>
+          </sp>
+          <stage>Cajas y trompetas destempladas, y salen por una parte CENTRO y ELEMENTOS, y por
+            otra las VIRTUDES, y ANDRÓMEDA en medio, cubierto el rostro con un velo negro, y los
+            músicos con instrumentos.</stage>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>La que nace para ser</l>
+            <l n="1410">escándalo de sí misma,</l>
+            <l>sienta y sufra, llore y gima;</l>
+            <l>y conformada con que</l>
+            <l>donde hay culpa no hay desdicha,</l>
+            <l>sienta, sufra, llore y gima.</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l n="1415">La que nace para verse</l>
+            <l>de su culpa arrepentida,</l>
+            <l>fíe, espere, venza y viva;</l>
+            <l>y consolada con que,</l>
+            <l>si ella llora, Dios olvida,</l>
+            <l n="1420">fíe, espere, venza y viva.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <stage>Canta.</stage>
+            <l>Hijas de Sión,</l>
+            <l>llorad mis fatigas,</l>
+            <l>que al alba fallece</l>
+            <l>la flor de mis días.</l>
+            <l n="1425">Sol que apenas nace</l>
+            <l>fue la suerte mía,</l>
+            <l>cuando pardas nubes</l>
+            <l>su esplendor eclipsan;</l>
+            <l>aurora que apenas</l>
+            <l n="1430">riendo ilumina,</l>
+            <l>cuando el alba trueca</l>
+            <l>en llanto su risa;</l>
+            <l>flor que apenas rompe</l>
+            <l>el botón a listas,</l>
+            <l n="1435">cuando airado cierzo</l>
+            <l>su pompa marchita;</l>
+            <l>fuente que, del mar</l>
+            <l>naciendo a la orilla,</l>
+            <l>apenas da paso,</l>
+            <l n="1440">cuando da en su ruina;</l>
+            <l>y pues fuente y flor,</l>
+            <l>alba y sol me imitan,</l>
+            <l>hijas de Sión,</l>
+            <l>llorad mis desdichas...</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l n="1445">La que nace para ser</l>
+            <l>escándalo de sí misma...</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>...que al alba fallece</l>
+            <l>la flor de mis días.</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>La que nace para verse</l>
+            <l n="1450">de su culpa arrepentida...</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>...que al alba fallece</l>
+            <l>la flor de mis días.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>...y conformada con que</l>
+            <l>donde hay culpa no hay desdicha...</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1455">...que al alba fallece</l>
+            <l>la flor de mis días.</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>...y consolada con que,</l>
+            <l>si ella llora, Dios olvida...</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>...que al alba fallece</l>
+            <l n="1460">la flor de mis días.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>...sienta, sufra, llore y gima.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>...que al alba fallece</l>
+            <l>la flor de mis días.</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>...fíe, espere, venza y viva.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l n="1465">Aquí es donde has de quedar,</l>
+            <l>atada con las impías</l>
+            <l>cadenas que de tu yerro</l>
+            <l>tu albedrío te fabrica.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l>Llega, ya que ser nos toca</l>
+            <l n="1470">ministros de la divina</l>
+            <l>justicia que te condena.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Siendo divina justicia,</l>
+            <l>quitad, que yo, voluntaria,</l>
+            <l>la sacaré de precisa.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l part="I">¡Qué dolor!</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l n="1475" part="F">¡Qué sentimiento!</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l part="I">¡Qué lástima!</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l part="F">¡Qué desdicha!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>En lágrimas, los cristales,</l>
+            <l>Agua, le vuelve a tus ninfas;</l>
+            <l>Aire, tus plumas le vuelve</l>
+            <l n="1480">al viento, que las inspira;</l>
+            <l>tú, Fuego, da a tus hogueras</l>
+            <l>la roja púrpura rica;</l>
+            <l>y tú, vuélvele a la tierra</l>
+            <l>la infausta fruta nosciva;</l>
+            <l n="1485">que yo, desnuda de afectos</l>
+            <l>que mi ser desvanecían,</l>
+            <l>quedaré a morir, subiendo</l>
+            <l>hasta la eminente cima,</l>
+            <l>por si, descubriendo el mar,</l>
+            <l n="1490">ver la fiera me anticipa</l>
+            <l>la muerte, muriendo antes</l>
+            <l>que a su furor a su vista.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>Retirémonos nosotros,</l>
+            <l>que no hay valor que reprima</l>
+            <l part="I">el dolor.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l n="1495" part="F">Pues por que no</l>
+            <l>quede tan sin compañía,</l>
+            <l>a lo lejos nuestras voces</l>
+            <l>en lo que puedan la asistan.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Ya que acercarnos nosotros</l>
+            <l n="1500">no podemos, sin que pida</l>
+            <l>ella a los cielos piedad,</l>
+            <l>estemos siempre a la mira,</l>
+            <l>hasta ver si nuestras voces</l>
+            <l>con sus auxilios la animan.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1505">Ya que, tan desamparada,</l>
+            <l>todos de mí se retiran,</l>
+            <l>dejándome sin el leve</l>
+            <l>consuelo de las desdichas,</l>
+            <l>viendo que en alguno sea</l>
+            <l n="1510">lástima la que fue envidia;</l>
+            <l>y ya que desde esta cumbre</l>
+            <l>solamente se divisan</l>
+            <l>cielos y mares, a mares</l>
+            <l>y cielos mis penas diga,</l>
+            <l n="1515">aunque por doblar mis ansias</l>
+            <l>los ecos me las repitan...</l>
+            <stage>Cantado.</stage>
+            <l>¿Quién, cielos, me ha condenado?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>Tu pecado.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Quién, a tan mísera suerte?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l n="1520">La muerte.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Quién, pues, a tanto rigor?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>Tu error.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Luego, aunque fuera mayor</l>
+            <l>el castigo que me ordenan,</l>
+            <l n="1525">justamente me condenan...</l>
+          </sp>
+          <sp who="#andrómeda #fuego #aire #agua #tierra #centro">
+            <speaker>ELLA y CORO 1.º</speaker>
+            <l>...pecado, muerte y error.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Quién más mi delito indicia?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>Tu malicia.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Y a que fuese en esta estancia?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l n="1530">Tu ignorancia.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Y, en fin, ¿quién es quien me culpa?</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #centro">
+            <speaker>CORO 1.º</speaker>
+            <l>Tu culpa.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Luego nada me disculpa,</l>
+            <l>puesto que hizo mi desgracia</l>
+            <l n="1535">de ignociencia, ciencia y gracia...</l>
+          </sp>
+          <sp who="#andrómeda #fuego #aire #agua #tierra #centro">
+            <speaker>ELLA y CORO 1.º</speaker>
+            <l>...malicia, ignorancia y culpa.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Nada en efecto me abona?</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>Dios perdona.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Ay, que fue mi mancha brava!</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l n="1540">El llanto lava.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Fue muy desigual mi culpa.</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>Amor disculpa.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Luego, aunque todo me culpa,</l>
+            <l>podréis, Andrómeda, vos</l>
+            <l n="1545">ser rescatada, pues Dios...</l>
+          </sp>
+          <sp who="#andrómeda #gracia #ciencia #voluntad #ignociencia">
+            <speaker>ELLA y CORO 2.º</speaker>
+            <l>...perdona, lava y disculpa.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Mas, ¿cómo a Dios hallaré?</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>Con la fe.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Quién merecerá bien tanto?</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l n="1550">El llanto.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¿Y quién será en mi favor?</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>CORO 2.º</speaker>
+            <l>Amor.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Misericordia, Señor!</l>
+            <l>Muera en tu gracia, pues muero,</l>
+            <l n="1555">y que me valgan espero...</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia #centro #fuego #aire #agua #tierra">
+            <speaker>TODOS</speaker>
+            <l>...la fe, el llanto y el amor.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Y pues contrarias aquí</l>
+            <l>las músicas escuché</l>
+            <l>del cielo y tierra, ¿qué fue</l>
+            <l n="1560">todo lo que siento hoy?</l>
+          </sp>
+          <sp who="#gracia #ciencia #voluntad #ignociencia #centro #fuego #aire #agua #tierra">
+            <speaker>TODOS</speaker>
+            <l>Pecado, muerte y error,</l>
+            <l>malicia, ignorancia y culpa,</l>
+            <l>perdona, lava y disculpa</l>
+            <l>la fe, el llanto y el amor.</l>
+          </sp>
+          <stage>Tempestad.</stage>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1565">Y así, en esta confianza,</l>
+            <l>he de vivir y morir</l>
+            <l>este instante que me queda</l>
+            <l>de vida, pues ya -¡ay de mí!-</l>
+            <l>miro irritarse las ondas</l>
+            <l n="1570">de esa azul selva turquí,</l>
+            <l>que, siendo jardín de espumas,</l>
+            <l>es ya de llamas jardín.</l>
+            <l>Iras otra vez arroja,</l>
+            <l>reventando por parir</l>
+            <l n="1575">aquel vestiglo, que ya</l>
+            <l>huella campos de zafir.</l>
+            <l>¡Oh tú, embozado Perseo,</l>
+            <l>pues tu asumpto es discurrir</l>
+            <l>el orbe por hacer bien,</l>
+            <l n="1580">duélete, señor, de mí!</l>
+          </sp>
+          <stage>El DEMONIO en el dragón.</stage>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Vivo bajel de las ondas</l>
+            <l>que yo abrasé y encendí,</l>
+            <l>pues de las tribulaciones</l>
+            <l>sulcas el mar -siendo en ti,</l>
+            <l n="1585">velas las alas, los pies</l>
+            <l>remos, proa la cerviz,</l>
+            <l>timón la cola y el pecho</l>
+            <l>buque-, quebrando el viril</l>
+            <l>en que, pirata del mar,</l>
+            <l n="1590">ya la presa descubrí</l>
+            <l>-pues eres bajel de fuego,</l>
+            <l>y tan de fuego que vi</l>
+            <l>que, para abrasar a otros,</l>
+            <l>primero empiezas por ti-,</l>
+            <l n="1595">aborda, aborda, y tus llamas</l>
+            <l>batan el rudo confín</l>
+            <l>de aquel escollo, llevando</l>
+            <l>al puerto de quien salí,</l>
+            <l>por despojos de la empresa</l>
+            <l n="1600">que pretendo conseguir,</l>
+            <l>robado al monte su mayo,</l>
+            <l>hurtado al valle su abril.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Ya se acerca! ¡Piedad, cielos!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>No, no tienes que acudir</l>
+            <l n="1605">al llanto; ¿puede haber ya</l>
+            <l part="I">quien te dé socorro?</l>
+          </sp>
+          <stage>PERSEO sale en lo alto en un caballo.</stage>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">Sí,</l>
+            <l>que hay quien, por que viva ella,</l>
+            <l>sabrá exponerse a morir.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>¿Quién eres, que ya otra vez</l>
+            <l n="1610">en otra ocasión te vi?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>También dije en otra yo</l>
+            <l>que soy quien obra por sí.</l>
+            <l>El divino Perseo soy,</l>
+            <l>que hasta agora discurrí,</l>
+            <l n="1615">embozado, cuantos rumbos</l>
+            <l>mira el sol -desde el cenit,</l>
+            <l>en cuya abrasada cuna</l>
+            <l>nace encendido rubí,</l>
+            <l>hasta donde, en urna helada</l>
+            <l n="1620">del contrapuesto nadir,</l>
+            <l>muere, pálido topacio-,</l>
+            <l>sólo al generoso fin</l>
+            <l>de satisfacer agravios</l>
+            <l>de quien se vale de mí.</l>
+            <l n="1625">Vagando, pues, de una en otra</l>
+            <l>esfera, la voz oí</l>
+            <l>de Andrómeda bella, a cuyo</l>
+            <l>llanto me compadecí;</l>
+            <l>porque su hermosura amé</l>
+            <l n="1630">desde el punto que la vi</l>
+            <l>con tanto afecto, que yo</l>
+            <l>puedo con verdad decir</l>
+            <l>lo de vida y alma, pues</l>
+            <l>la alma y la vida la di.</l>
+            <l n="1635">A ponerla en libertad</l>
+            <l>vengo, y lo he de conseguir,</l>
+            <l>pues ya vencida la culpa</l>
+            <l>de esa Medusa, a quien di</l>
+            <l part="I">la muerte...</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¿Muerta en Medusa</l>
+            <l part="I">la culpa has dejado?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="1640" part="F">Sí,</l>
+            <l>que, en llegándola a llorar,</l>
+            <l>llega la culpa a morir.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Poco importa que a ella venzas</l>
+            <l>si no me has vencido a mí,</l>
+            <l n="1645">que soy la segunda muerte,</l>
+            <l>a quien el último fin</l>
+            <l>le dio el nombre de Fineo.</l>
+            <l>Embiste, pues, que si a ti</l>
+            <l>triunfante te vio Ezequiel</l>
+            <l n="1650">en ese caballo, a mí</l>
+            <l>triunfante también me vio,</l>
+            <l>no menos fuerte adalid,</l>
+            <l part="I">Juan en este dragón.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">Pues,</l>
+            <l>¿qué aguardas para embestir?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1655">¡Cielos, virtud y pecado</l>
+            <l>batalla se dan por mí!</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>¡Vuelve, vuelve a la batalla,</l>
+            <l>que en esta mística lid</l>
+            <l>o he de morir o vencer!</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="1660">Yo he de vencer y morir;</l>
+            <l>pues aun herido de muerte</l>
+            <l part="I">te he de postrar.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="M">¿Cómo?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">Así:</l>
+            <l>enarbolando esta lanza</l>
+            <l part="I">contra tu vida.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l part="F">¡Ay de mí,</l>
+            <l n="1665">que a visos de ciento en ciento,</l>
+            <l>que a rayos de mil en mil,</l>
+            <l>deslumbrado a tanta luz,</l>
+            <l>me fuerza el temor a huir!</l>
+            <l>¡Viento, dadme vuestras alas!</l>
+            <l n="1670">¡Mares, vuestro abismo abrid!</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Ya, Andrómeda, libre estás;</l>
+            <l>que al que te venció, vencí.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>A la lima de tu voz</l>
+            <l>y de tu acento al buril,</l>
+            <l n="1675">de mi prisión las cadenas,</l>
+            <l>rotas, me permiten ir</l>
+            <l>para arrojarme a tus plantas.</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Si el socorro que te di</l>
+            <l>quieres pagarme, de esposa</l>
+            <l part="I">palabra me da.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l n="1680" part="F">Una y mil,</l>
+            <l>no de esposa, mas de esclava</l>
+            <l>te doy; mas si en esta lid</l>
+            <l>herido de muerte estás,</l>
+            <l>¿cómo la podré cumplir?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="1685">Como yo solo, a la misma</l>
+            <l>muerte, muriendo vencí.</l>
+            <l>Y así, pues muriendo puedo</l>
+            <l>vencer, triunfar y vivir,</l>
+            <l>prevente para las bodas,</l>
+            <l n="1690">que yo bajaré por ti</l>
+            <l>en otra forma a la tierra.</l>
+            <stage>Vase.</stage>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>¡Mortales, venid, venid</l>
+            <l>a ver la mayor victoria</l>
+            <l>que ha podido repetir,</l>
+            <l n="1695">ni de los tiempos la voz</l>
+            <l>ni de la fama el clarín!</l>
+            <l>Centro, Elementos, Virtudes,</l>
+            <l>acudid, pues, acudid,</l>
+            <l>ya que a mi primero estado</l>
+            <l n="1700">me vuelve a restituir</l>
+            <l>quien pecado, culpa y muerte,</l>
+            <l>muriendo, venció por mí.</l>
+          </sp>
+          <stage>Salen TODOS.</stage>
+          <sp who="#gracia #ciencia #voluntad #ignociencia">
+            <speaker>VIRTUDES</speaker>
+            <l>A todas nos da los brazos.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Una y mil veces feliz,</l>
+            <l part="I">quien vuelve a cobraros.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra">
+            <speaker>ELEMENTOS</speaker>
+            <l n="1705" part="F">Todos</l>
+            <l>te volvemos a servir</l>
+            <l part="I">y a obedecer.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Pues los cielos</l>
+            <l>hacen fiesta al convertir</l>
+            <l>de un pecador, celebrad</l>
+            <l n="1710">su victoria; prevenid</l>
+            <l>bailes, músicas y fiestas,</l>
+            <l>y vamos a recibir</l>
+            <l>al esposo que me ha dado</l>
+            <l>vida y libertad; cubrid</l>
+            <l n="1715">de flores el suelo; haced</l>
+            <l>guirnaldas para ceñir</l>
+            <l>sus sienes, tejiendo en ellas</l>
+            <l>lirio, azucena y jazmín.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>¿No nos dirás quién ha sido</l>
+            <l n="1720">este vencedor feliz</l>
+            <l part="I">del monstruo del mar?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Perseo.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>¿Perseo no es el que a mí</l>
+            <l>me dio libertad? Pues tengo</l>
+            <l>hoy de pagárselo aquí</l>
+            <l n="1725">con cantar y con bailar.</l>
+            <l>Todos conmigo decid...</l>
+            <stage>Canta.</stage>
+            <stage>Redondo.</stage>
+            <l>¡Viva el divino Perseo,</l>
+            <l>viva el segundo David!</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+            <speaker>TODOS</speaker>
+            <l>¡Viva sin fin!</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="1730">Pues mató en tierra y en mar</l>
+            <l>la fiera y el filistín.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+            <speaker>TODOS</speaker>
+            <l>¡Viva sin fin!</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Y ciñan su frente</l>
+            <l>los rayos de Ofir,</l>
+            <l n="1735">las flores de mayo</l>
+            <l>y las rosas de abril.</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+            <speaker>TODOS</speaker>
+            <l>¡Viva sin fin!</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l>¿Adónde, que no le vemos,</l>
+            <l part="I">tu esposo está?</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Proseguid</l>
+            <l n="1740">la música, que él vendrá,</l>
+            <l>pues que quedó de venir.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>¡Viva el segundo Sansón,</l>
+            <l>que en la más sangrienta lid</l>
+            <l>venció al ciego gentilismo</l>
+            <l n="1745">y al idólatra gentil!</l>
+          </sp>
+          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+            <speaker>TODOS</speaker>
+            <l>¡Viva sin fin!</l>
+          </sp>
+          <stage>Vueltas.</stage>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l part="I">Aún no se ve.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l part="F">Su palabra</l>
+            <l>fuerza es que se ha de cumplir.</l>
+            <l>Yo con esta fe le llamo:</l>
+            <l part="I">¿dónde estás, esposo?</l>
+          </sp>
+          <stage>Ábrese un carro en que se verá un altar, y en él una custodia, con ángeles que la
+            tengan; y PERSEO, y al pie del altar MEDUSA y el DEMONIO a sus pies.</stage>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l n="1750" part="F">Aquí,</l>
+            <l>que a las voces de la fe</l>
+            <l>me verás siempre acudir.</l>
+            <l>Aquestas especies, frutos</l>
+            <l>de la espiga y de la vid,</l>
+            <l n="1755">siendo mi carne y mi sangre,</l>
+            <l>son en los que he de vivir</l>
+            <l>contigo: antídoto de otro</l>
+            <l>que hizo tu estado infeliz.</l>
+            <l>Los despojos de la guerra</l>
+            <l n="1760">traigo conmigo; y ansí,</l>
+            <l>ante aqueste sacramento,</l>
+            <l>miráis postrar y rendir</l>
+            <l>pecado y muerte, ligados</l>
+            <l>con las cadenas que a ti</l>
+            <l part="I">te quité.</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l n="1765" part="F">¿Qué mucho es</l>
+            <l>que yo esté rendido aquí,</l>
+            <l>si ante aquese sacramento</l>
+            <l>el más puro serafín</l>
+            <l part="I">se postra también?</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l part="F">¿Qué mucho</l>
+            <l n="1770">que esté triunfando de mí,</l>
+            <l>si soy la muerte, ese árbol</l>
+            <l part="I">que es de la vida?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l part="F">¡Venid!</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Venid todos, prosiguiendo</l>
+            <l>el religioso festín.</l>
+          </sp>
+          <stage>Dos coros.</stage>
+          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa">
+            <speaker>MÚSICA y TODOS</speaker>
+            <l n="1775">Viva sin fin</l>
+            <l>y coronen su frente</l>
+            <l>los rayos de Ofir</l>
+            <l>las flores de mayo</l>
+            <l>y las rosas de abril.</l>
+          </sp>
+          <sp who="#centro">
+            <speaker>CENTRO</speaker>
+            <l n="1780">Miel en boca del león.</l>
+          </sp>
+          <sp who="#ciencia">
+            <speaker>CIENCIA</speaker>
+            <l>Jeroglífico feliz</l>
+            <l>de dulzura y fortaleza.</l>
+          </sp>
+          <sp who="#gracia">
+            <speaker>GRACIA</speaker>
+            <l>Cristal puro en Rafidín.</l>
+          </sp>
+          <sp who="#voluntad">
+            <speaker>VOLUNTAD</speaker>
+            <l>Rocío en cándida piel.</l>
+          </sp>
+          <sp who="#ignociencia">
+            <speaker>IGNOCIENCIA</speaker>
+            <l n="1785">Socorro de Abigail.</l>
+          </sp>
+          <sp who="#agua">
+            <speaker>AGUA</speaker>
+            <l>Agua endulzada en Amara.</l>
+          </sp>
+          <sp who="#fuego">
+            <speaker>FUEGO</speaker>
+            <l>Rayo encendido en Setín.</l>
+          </sp>
+          <sp who="#aire">
+            <speaker>AIRE</speaker>
+            <l>Llovido maná en Horeb.</l>
+          </sp>
+          <sp who="#tierra">
+            <speaker>TIERRA</speaker>
+            <l>Fértil palma en Efraín.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l n="1790">Pan que nunca se encarece,</l>
+            <l>aunque no llueva en abril.</l>
+          </sp>
+          <sp who="#andrómeda">
+            <speaker>ANDRÓMEDA</speaker>
+            <l>Todos ante ti se postran;</l>
+            <l>todos se rinden a ti.</l>
+          </sp>
+          <stage>Eses.</stage>
+          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
+            <speaker>TODOS</speaker>
+            <l>Viva sin fin</l>
+            <l n="1795">y coronen tus sienes</l>
+            <l>los rayos de Ofir.</l>
+          </sp>
+          <sp who="#medusa">
+            <speaker>MEDUSA</speaker>
+            <l>¿Esto consentís, rencores?</l>
+          </sp>
+          <sp who="#demonio">
+            <speaker>DEMONIO</speaker>
+            <l>Infiernos, ¿esto sufrís?</l>
+          </sp>
+          <sp who="#perseo">
+            <speaker>PERSEO</speaker>
+            <l>Este es el manjar que yo</l>
+            <l n="1800">he de dar y prevenir</l>
+            <l>al banquete de mis bodas.</l>
+          </sp>
+          <sp who="#albedrío">
+            <speaker>ALBEDRÍO</speaker>
+            <l>Pues demos al auto fin,</l>
+            <l>pidiendo perdón,</l>
+            <l>volviendo a decir...</l>
+          </sp>
+          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
+            <speaker>TODOS</speaker>
+            <l n="1805">Que viva sin fin</l>
+            <l>y coronen su frente</l>
+            <l>los rayos de Ofir.</l>
+          </sp>
+          <trailer>FIN</trailer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
