@@ -53,7 +53,7 @@ Múltiples páginas: Bucles
 
 Una manera de evitar construir bucles (_loops_) para descargar páginas con el paquete rvest es usando la función `lapply()` de paquete base.
 
-### Funciones nuevas para este procedimiento
+### Funciones para este procedimiento
 - `lapply()`
 - `paste()`
 - `c()`
