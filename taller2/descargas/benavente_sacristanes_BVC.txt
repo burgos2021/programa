@@ -1,0 +1,1460 @@
+ Saltar al contenido principal
+
+
+Visor de obras.
+
+
+
+Biblioteca Virtual Miguel de Cervantes
+
+
+Buscador
+
+
+ Buscar
+
+
+
+Opciones de navegación
+
+
+Subir
+
+Índice
+
+Ficha
+
+
+
+
+
+Selecciona una palabra y presiona la tecla d para obtener su definición. 
+   
+/*<![CDATA[*/ <!-- body { color:Black; background-color:White; } a:link { color:#003366 } a:visited { color:#003366 } a:active { color:#003366 } --> /*]]>*///<![CDATA[ <!-- function cargar (fichero) { window.location=fichero } //--> //]]>/*<![CDATA[*/ <!-- @import "/includes/css_obras/ficha.css"; --> /*]]>*/
+
+
+
+
+Entremés famoso y nuevo de los sacristanes
+
+
+
+Luis Quiñones de Benavente
+
+
+
+
+
+Representóle Antonio de Prado en los carros del Corpus en Madrid, año de 1633.
+
+
+
+
+PERSONAJES
+ 	
+ 	
+LUISA.		
+ISABEL.		
+TARARIRA, su padre.		
+TALEGA,		
+sacristán.		
+MONILLO, sacristán.		
+Un VECINO.		
+
+
+
+
+
+ —fol.1r→ 	
+	
+ 
+
+Sale LUISA huyendo de TARARIRA, vejete, que saca un palo en la mano, y ISABEL se pone en medio.
+
+ 	
+
+LUISA	
+
+ (En voz alta.) 
+
+	
+¡Justicia, ay que me matan!		
+¡Ay qué plaga!		
+¡Ay que quiere dolerme!		
+¡Ay que me amaga, ay!		
+	
+	
+
+TARARIRA	
+Yo os mataré, raída.	5	
+	
+	
+
+LUISA	
+¡Ay que no daré un cuarto por mi vida, ay!		
+	
+	
+
+ISABEL	
+¿Por qué se enoja con mi hermana, padre?		
+¿Qué la ha visto?	
+	
+	
+
+TARARIRA	
+Por vida de tu madre,
+		
+muy gran desenvoltura.		
+	
+	
+
+LUISA	
+¡Ay que jura, señores! ¡Ay que jura	10	
+y no le llevan luego a Peralvillo, ay!		
+	
+	
+
+TARARIRA	
+¿Por qué habláis al sacristán Monillo?		
+	
+	
+
+LUISA	
+Porque soy su mujer.	
+	
+	
+
+TARARIRA	
+¿De un picarote?
+		
+
+
+ (Alza el palo.) 
+
+	
+	
+	
+
+LUISA	
+¡Ay, que me pudo dar con el garrote!		
+Fue milagro no darme,	15	
+no faltaron diez pies para alcanzarme.		
+	
+	
+
+ISABEL	
+Calle, señor, que yo sé que mi hermana		
+no se querrá casar.	
+	
+	
+
+LUISA	
+Hasta mañana.
+		
+	
+	
+
+TARARIRA	
+¡No en mis días, picaña!		
+	
+	
+ —fol.1v→ 	
+
+LUISA	
+¡Aquí de Dios, del rey!	
+	
+	
+
+TARARIRA	
+Calla, demonio.
+	20	
+	
+	
+
+LUISA	
+¡Que me impiden mi santo matrimonio!		
+	
+	
+
+TARARIRA	
+¡Casar con un monillo! De decillo		
+me da gota coral. ¡Con un monillo!		
+	
+	
+
+LUISA	
+Si el monillo no más le hace embarazo,		
+yo le diré, señor, que sea monazo.	25	
+	
+	
+
+TARARIRA	
+¿Conmigo chanzas?	
+
+
+ (Amágala.) 
+
+	
+	
+	
+
+LUISA	
+¡Ay, que un pistolete
+		
+me dispara!	
+	
+	
+
+TARARIRA	
+¡Jesús, qué testimonio!
+		
+	
+	
+
+LUISA	
+¡Y me impide mi santo matrimonio, ay!		
+	
+	
+
+TARARIRA	
+Ahora bien, yo pondré remedio en esto.		
+Voyme pues.	
+	
+	
+
+LUISA	
+Eso no. No has de irte.
+	30	
+	
+	
+
+TARARIRA	
+Aunque te pese, he de irme.		
+	
+	
+
+LUISA	
+¡Socorro, ténganle!	
+
+
+ (Agárrale y él se desase y se va.) 
+
+	
+	
+	
+
+TARARIRA	
+¡Suelta, demonio!
+		
+	
+	
+
+LUISA	
+¡Que va a impedir mi santo matrimonio, ay!		
+	
+	
+
+ISABEL	
+¿Qué es esto, que no lo entiendo?		
+	
+	
+
+LUISA	
+Casarme, para que lo entiendas,	35	
+con un sacristán de aljófar,		
+con un monito de perlas		
+más enjuto que un verano,		
+más largo que una cuaresma,		
+con más manos que un menudo	40	
+	
+—fol.2r→	
+y más pies que seis poetas.		
+	
+	
+
+ISABEL	
+¡Ay, Luisa, que tengo yo		
+otro trasgo de bayeta,		
+otro degüella-bodigos,		
+y otro apura-vinajeras!	45	
+Mas es para lo de Dios,		
+porque en oyendo una hembra		
+casamiento, se la comen		
+pulgas, sapos y culebras;		
+la asadura la pellizcan,	50	
+las entrañas la alcancean,		
+el corazón se le bulle		
+y los ojos se le alegran.		
+	
+	
+	
+ 
+
+(Sale el sacristán TALEGA.)
+
+ 	
+
+TALEGA	
+Belisa, que bultun tuun		
+usque ad animan penetrat	55	
+faciendo en mi coran bobis		
+aleluyan sempiternan.		
+Permitad voluntas tua		
+que sacristanus Talega		
+deoculorumque tuorun	60	
+agradabuntur merezca.		
+	
+	
+	
+ 
+
+(Sale el sacristán MONILLO.)
+
+ 	
+
+MONILLO	
+Ludovica, cuyus manus		
+sunt in latina litera		
+mantequillarun me fecit		
+	
+—fol.2v→	
+para mi requien eternan.	65	
+Da consuelun tamañitun		
+a tristis anima mea		
+qui mecun senper morietur		
+qui tecun vivit et regnat.		
+	
+	
+
+ISABEL	
+Mira si te dije yo	70	
+de las partes reverendas		
+de mi Talega, Luisa.		
+	
+	
+
+TALEGA	
+Seré talega perpetua,		
+adonde guardes la ropa,		
+saca donde harina tengas,	75	
+escriño para algarrobas		
+y costal para las eras.		
+	
+	
+
+LUISA	
+Repara tú en mi Monillo,		
+conocerás la excelencia		
+que tiene en la narrativa.	80	
+	
+	
+
+MONILLO	
+Monillo de tu taberna		
+seré usque ad morten, Luisa,		
+y, si Dios casarme deja,		
+yo tendré in brevis oracio		
+de monos la casa llena.	85	
+Mis hijos serán monarcas,		
+monacillos de la Iglesia,		
+monicongos, monipodios,		
+para que digan de veras		
+que es mi casa Tetuán	90	
+	
+—fol.3v→	
+donde la monas se engendran.		
+Bien haya mi cholla, amén.		
+	
+	
+
+TALEGA	
+Bien haya, amén, mi mollera.		
+	
+	
+
+MONILLO	
+Tú conmigo eres un niño.		
+	
+	
+
+TALEGA	
+Tú conmigo eres de teta.	95	
+	
+	
+
+MONILLO	
+Yo soy poeta in utroque.		
+	
+	
+
+TALEGA	
+¿Quién deja de ser poeta?		
+	
+	
+
+MONILLO	
+A la prueba y punto en boca.		
+	
+	
+
+TALEGA	
+Punto en boca y a la prueba.		
+	
+	
+
+MONILLO	
+Júzguenlo Isabel y Luisa.	100	
+	
+	
+
+ISABEL	
+Digan ellos.	
+	
+	
+
+TALEGA	
+Oigan ellas.
+		
+Y va un villancico hecho		
+hogaño a la Madalena.		
+
+
+ (Hace que glosa.) 
+
+	
+La bendita Madalena		
+lavó a Dios con su melena,	105	
+este sí cristianos que es		
+el verdadero Lavapiés,		
+este sí que es buen barrio, buscalde,		
+donde viven los santos de balde		
+por toda la vida, que no por un mes.	110	
+Y responden a tres, responden a tres		
+diciendo un capón:		
+«La Madalena no es por San Antón»,		
+y repite un organista:		
+«Ni San Antón por San Juan Bautista»,	115	
+	
+—fol.4r→	
+cuando en tono süave dice un ministril:		
+«Norabuena vengáis, abril,		
+qué galán venís, qué galán venís,		
+aunque os cueste dos maravedís».		
+	
+	
+
+LUISA	
+Mala cosa.	
+	
+	
+
+ISABEL	
+Linda cosa.
+	120	
+	
+	
+
+MONILLO	
+¿Aquesto es lindo? Así tenga		
+el pago de Jesucristo.		
+Va mi villancico, aprenda,		
+al señor Santo Domingo,		
+que nació con una estrella,	125	
+con una estrella en la frente.		
+Santo Domingo nació,		
+ansí lo naciera yo		
+pero quiso mi pecado		
+que no naciese estrellado,	130	
+porque pretende Patillas		
+que vivan los hombres hechos tortillas		
+y en saliendo con lo que fragua		
+los pasa por fuego como por agua		
+y deja a los afligidos	135	
+con alcrebite mejidos		
+hasta que dice desde su centro:		
+«-Martinillo, mi amo, mételos dentro»		
+	
+—fol.4v→	
+y el mundo le respondió,		
+admirándose del malo:	140	
+-«Ay, que ha cantado el demonio del palo,		
+ay que el demonio de palo cantó».		
+	
+	
+
+LUISA	
+Excelente troba.	
+	
+	
+
+TALEGA	
+Miente
+		
+quien lo dice o quien lo piensa.		
+	
+	
+
+MONILLO	
+Recipe mi bonetorum.	145	
+
+
+ (Tíranse los bonetes y llama el viejo.) 
+
+	
+	
+	
+
+TALEGA	
+¿Non me cascasti la testa?		
+	
+	
+
+LUISA	
+¡Que se matan en latín!		
+	
+	
+
+ISABEL	
+¡Que en romance se aporrean!		
+	
+	
+	
+ 
+
+(Dentro vejete.)
+
+ 	
+
+TARARIRA	
+Abrid aquí, doncellitas.		
+	
+	
+
+LUISA	
+¡Mi padre!	
+	
+	
+
+TALEGA	
+Peor es esta.
+	150	
+	
+	
+
+LUISA	
+Aquí nos mata a las dos.		
+	
+	
+
+MONILLO	
+Bobillas, no tengan pena		
+que prevenidos venimos		
+para lo que sucediera.		
+Tráiganos presto un brasero.	155	
+	
+	
+
+ISABEL	
+Aquí está.	
+	
+	
+
+TARARIRA	
+Abrid, malas hembras.
+		
+
+
+ (Dentro.) 
+
+	
+	
+	
+ —fol.5r→ 	
+	
+ 
+
+(Quítanse las sotanillas y quedan con unos justillos, y pónese a gatas TALEGA, la boca junto al brasero. MONILLO le tira y afloja de los pies como fuelles. Sopla TALEGA y llénase de ceniza. Sale el viejo y un VECINO.)
+
+ 	
+
+ISABEL	
+Voy a abrir.	
+	
+	
+
+MONILLO	
+Bien puedes ir.
+		
+	
+	
+
+TALEGA	
+Quedito, que me despiernas.		
+	
+	
+	
+ 
+
+(Salen ahora TARARIRA y el VECINO.)
+
+ 	
+
+TARARIRA	
+Búsqueme vusted la casa.		
+	
+	
+
+VECINO	
+Eso déjelo a mi cuenta,	160	
+que aunque estuviera nublado		
+y sacristanes lloviera		
+no quedara ni aun memoria.		
+	
+	
+
+MONILLO	
+¡A garrotazos la pierdas!		
+	
+	
+
+VECINO	
+Pero, ¿qué es esto, compadre?	165	
+
+
+ (Véenlos.) 
+
+	
+	
+	
+
+TARARIRA	
+¡Oigan! ¿Qué tramoya es esta?		
+	
+	
+
+ISABEL	
+Son los fuelles del herrero		
+que pidió que se estuvieran		
+aquí mientras que venía		
+con la llave de su puerta.	170	
+	
+	
+
+LUISA	
+Y soplan que es maravilla,		
+porque esta figura, esta,		
+
+
+ (A MONILLO.) 
+
+	
+en torciéndola anda el fuelle.		
+	
+	
+
+ISABEL	
+Tuerza, señor padre, tuerza.		
+
+
+ (Tuerce ISABEL.) 
+
+	
+	
+	
+
+MONILLO	
+Torcida tengas la boca.	
+
+
+ (Tuerce el viejo.) 
+
+	
+
+¡Ay!
+	175	
+	
+—fol.5v→	
+¡Ay, que el brazo me derrienga!		
+	
+	
+	
+ 
+
+(Tuerce el viejo y soplan los fuelles.)
+
+ 	
+
+TARARIRA	
+Cada día hay, ¡vive Cristo!		
+en la cortecosas nuevas.		
+Vecino, llegue a torcer.		
+	
+	
+
+MONILLO	
+Otra torcedura.	
+	
+	
+
+VECINO	
+Apenas
+	180	
+han llegado cuando sopla.		
+
+
+ (Tuerce el VECINO.) 
+
+	
+	
+	
+
+MONILLO	
+Soplada el alma te veas		
+de un médico soplavidas.		
+	
+	
+
+TALEGA	
+Con la mucha polvareda		
+perdimos a doña Vista.	185	
+	
+	
+
+TARARIRA	
+Hijas, decid cuando vuelva		
+al herrero que se lleve		
+sus fuelles en hora buena		
+porque son muy peligrosos		
+los fuelles junto a las fuellas.	190	
+
+
+ (Vanse los dos.) 
+
+	
+	
+	
+
+VECINO	
+¿Qué queréis destas muchachas?		
+	
+	
+
+TARARIRA	
+Vos lo veréis a la vuelta.		
+	
+	
+
+TALEGA	
+Monillo tiene la culpa		
+
+
+ (Levántase.) 
+
+	
+de estar yo desta manera.		
+	
+	
+
+MONILLO	
+¿Y de estar yo sin un brazo	195	
+quién tiene culpa, Talega?		
+	
+	
+
+TALEGA	
+Es mal hecho.	
+	
+	
+
+MONILLO	
+Y mal pensado.
+		
+	
+	
+
+TALEGA	
+No me tengan.	
+	
+	
+
+MONILLO	
+Sí le tengan.
+		
+	
+	
+	
+ 
+
+(Riñen y ellas se ponen de por medio.)
+
+ 	
+
+TARARIRA	
+
+ (Dentro.) 
+
+	
+Luisa, Isabel.	
+	
+	
+ —fol.6r→ 	
+
+ISABEL	
+¡Ay!, que vuelve
+		
+mi padre.	
+	
+	
+
+TALEGA	
+Dimos en tierra
+	200	
+con la maraña.	
+	
+	
+
+LUISA	
+Cuitados,
+		
+yo los libraré, no teman.		
+Póngase él en cuatro pies		
+
+
+ (A TALEGA.) 
+
+	
+y échale tú una carpeta,		
+échese él encima y calle.	205	
+	
+	
+
+MONILLO	
+¿Yo encima?	
+	
+	
+
+TALEGA	
+¿De eso se queja?
+		
+¿Hiciera más si debajo		
+sus cinco arrobas sufriera?		
+	
+	
+
+LUISA	
+Dame esa sábana.	
+	
+	
+	
+ 
+
+(Pónese TALEGA a gatas y cúbrenle con una carpeta. Échase MONILLO encima, boca arriba, y cúbrenle con una sábana, dejándole la cara descubierta. Toma LUISA un cedazo con harina y cierne sobre él, y salen el viejo y VECINO. Dice dentro primero.)
+
+ 	
+
+TARARIRA	
+¡Hola!
+		
+¿He de derribar las puertas?	210	
+	
+	
+
+MONILLO	
+¡Presto, que viene endiablado!		
+	
+	
+
+LUISA	
+Cierre los ojos y alerta.		
+	
+	
+
+MONILLO	
+Alerta y cierre los ojos,		
+¿está borracha, doncella?		
+	
+	
+
+TALEGA	
+Que no se haga pesado	215	
+	
+—fol.6v→	
+que se derrienga la bestia.		
+	
+	
+	
+ 
+
+(Sale TARARIRA.)
+
+ 	
+
+TARARIRA	
+¿Habíades de abrir hoy?		
+
+
+ (Ahora sale con el VECINO.) 
+
+	
+	
+	
+
+ISABEL	
+Señor, es mañana fiesta		
+y está mi hermana ocupada		
+en cerner.	
+	
+	
+
+VECINO	
+Diga ¿en qué piensa
+	220	
+que persigue estas muchachas?		
+	
+	
+
+TARARIRA	
+¿Dónde está Luisa?	
+	
+	
+
+ISABEL	
+En la artesa
+		
+cerniendo y cantando.	
+	
+	
+
+VECINO	
+¿Ve
+		
+cómo no hay nada que tema?		
+	
+	
+
+LUISA	
+
+ (Canta.) 
+
+	
+Dime de qué te temes,	225	
+de qué te temes.		
+	
+	
+
+MONILLO	
+Témome, vida mía,		
+que no me ciegues.		
+	
+	
+
+LUISA	
+
+ (Canta.) 
+
+	
+Dime qué señas tiene		
+mi enamorado.	230	
+	
+	
+
+MONILLO	
+Tiene el rostro molicio		
+y enharinado.		
+	
+	
+
+TARARIRA	
+Basta que yo me engañe.		
+¿Qué hacéis, hija?		
+	
+	
+
+LUISA	
+Mis haciendas.	
+	
+	
+
+TARARIRA	
+Lograda tan buena hija.
+	235	
+	
+	
+
+VECINO	
+Son las dos unas corderas.		
+	
+	
+
+LUISA	
+
+ (Canta.) 
+
+	
+¿Qué me dice la artesa,		
+viendo su rostro?		
+	
+	
+
+MONILLO	
+Que las Carnestolendas		
+son por el Corpus.	240	
+	
+	
+
+TARARIRA	
+Mirad qué os digo, mocitas.		
+	
+	
+
+ISABEL	
+¿Qué me mandas?	
+	
+	
+
+LUISA	
+¿Qué me ordenas?
+		
+	
+	
+ —fol.7r→ 	
+
+TARARIRA	
+¿Qué hay del sacristán Monillo?		
+	
+	
+
+LUISA	
+Ya se me acabó esa tema.		
+	
+	
+
+TARARIRA	
+Juraldo.	
+	
+	
+
+LUISA	
+Si bien le quiero,
+	245	
+reviente.	
+	
+	
+
+VECINO	
+Y pues no revienta
+		
+verdad dice.	
+	
+	
+
+LUISA	
+Y, si no, ciegue.
+		
+	
+	
+
+TARARIRA	
+Créolo.	
+	
+	
+	
+ 
+
+(Hablan aparte el viejo, hijas y VECINO.)
+
+ 	
+
+TALEGA	
+Señora artesa,
+		
+no lo puedo ya sufrir.		
+	
+	
+
+MONILLO	
+Pues, señor banco, paciencia.	250	
+	
+	
+	
+ 
+
+(Riñen los sacristanes. Velo el viejo.)
+
+ 	
+
+TARARIRA	
+¿Qué es aquello?	
+	
+	
+
+LUISA	
+Con el peso
+		
+el banco se bambolea.		
+	
+	
+
+TARARIRA	
+Pues para que esté seguro		
+vusted, que tiene más fuerza		
+átele con esa soga.	255	
+	
+	
+	
+ 
+
+(Átalos el VECINO con una soga, afirmando el pie.)
+
+ 	
+
+VECINO	
+Que me place.	
+	
+	
+
+MONILLO	
+¡Santa Tecla!
+		
+Un pie me ha metido dentro		
+y un güeso me ha echado fuera.		
+	
+	
+
+TARARIRA	
+Mientras ato yo a estas dos		
+echad ahí una caldera	260	
+de agua hirviendo.	
+	
+	
+	
+ 
+
+(Átalas a ellas espaldas con espaldas y ellos se levantan atados.)
+
+ 	
+
+MONILLO	
+¡Aquí de Dios
+		
+que sin ser lechón me pelan!		
+	
+	
+
+TARARIRA	
+Vaya a una.	
+	
+	
+ —Fol.7v→ 	
+
+VECINO	
+Vaya a una.
+		
+	
+	
+	
+ 
+
+(Como les dan con los matapecados van dando vueltas ellos y ellas.)
+
+ 	
+
+TALEGA	
+Miren que yerran la cuenta,		
+porque dicen «vaya a una»	265	
+y a todos cuatro nos pegan.		
+	
+	
+
+LUISA	
+¡Ay, que me matan, Monillo!		
+	
+	
+
+MONILLO	
+¿Y acá huelga la madera?		
+	
+	
+
+ISABEL	
+Talega, que me acrebillan.		
+	
+	
+
+TALEGA	
+Isabel, que me desuellan.	270	
+	
+	
+
+LUISA	
+Monillo, a mí me dan muerte.		
+	
+	
+
+MONILLO	
+Luisa, a mí me dan carena.		
+	
+	
+
+ISABEL	
+Talega, que me deshacen.		
+	
+	
+
+TALEGA	
+Isabel, que me palmean.		
+	
+	
+
+LUISA	
+Padre lindo, padre santo.	275	
+	
+	
+
+MONILLO	
+Suegro de todas maneras.		
+	
+	
+
+ISABEL	
+Padre, yo me llamo a engaño.		
+	
+	
+
+TALEGA	
+Suegro, yo me llamo Iglesia.		
+	
+	
+
+VECINO	
+Casaldos, que esto es crueldad.		
+	
+	
+
+TARARIRA	
+Más estoy que una manteca	280	
+de tierno, ya desataldos		
+y cásense en hora buena.		
+	
+	
+
+MONILLO	
+Noramala será ya.		
+	
+	
+
+TALEGA	
+Vaya de baile y de fiesta.		
+
+
+ (Desátalos el VECINO.) 
+
+	
+	
+	
+	
+ 
+
+(Cantan y bailan.)
+
+ 	
+
+LUISA	
+Si yo me caso, señores,	285	
+
+
+ (Canta.) 
+
+	
+muy buena disculpa tengo,		
+porque es malilla sin guarda		
+doncella con padre viejo.		
+	
+	
+	
+ 
+
+(Repiten los dos versos postreros. Baila.)
+
+ 	
+ —fol.8r→ 	
+
+MONILLO	
+Yo, calvajusto de entrambos,		
+que el que se casa sin seso	290	
+es marido rey de bastos,		
+que le baldan por momentos.		
+	
+	
+	
+ 
+
+(Repiten y bailan todos.)
+
+ 	
+
+ISABEL	
+Con tonto y rico me caso,		
+y pues doy mano en el juego		
+
+
+ (Lo mismo.) 
+
+	
+yo robaré la figura	295	
+y descartaráme el tiempo.		
+	
+	
+
+TALEGA	
+Yo caso con moza y pobre,		
+perro con muy poco riesgo,		
+que soy hombre y cada mano		
+
+
+ (Lo mismo.) 
+
+	
+los tres matadores tengo.	300	
+	
+	
+
+TARARIRA	
+Para que piedras me tiren		
+basta decir que soy suegro,		
+que como a malas lanzadas		
+
+
+ (Lo mismo.) 
+
+	
+morimos a malos yernos.		
+	
+	
+
+MONILLO	
+Todo lo tienen bueno	305	
+los casamientos,		
+todo lo tienen bueno		
+sino los suegros.		
+	
+	
+	
+ 
+
+(Repiten.)
+
+ 	
+
+LUISA	
+De las suegras y suegros		
+no hay obra buena.	310	
+	
+	
+
+TARARIRA	
+Claro está pues que hacen		
+yernos y nueras.		
+	
+	
+
+LUISA	
+Parejitas corren		
+suegros y cardos,		
+pues no son de provecho	315	
+sin enterrallos.		
+	
+	
+	
+ 
+
+(Todo lo repiten la música y bailan todos con que se da fin al entremés famoso de los dos sacristanes.)
+
+ 	
+ —fol.8v→ 	
+
+TALEGA	
+Vaya de baile y de fiesta.		
+	
+	
+
+MONILLO	
+Toquen y baile Luisa.		
+	
+	
+
+LUISA	
+Yo bailaré enhorabuena.		
+	
+	
+	
+ 
+
+(Baile LUISA sola con que se da fin al entremés.)
+
+ 	
+
+
+Quítase el baile deste entremés.
+
+	
+	
+
+
+ 
+ 
+FIN
+ 
+ 
+
+	
+
+
+
+
+
+Diego Martínez de Mora.
+
+(MS. BITB)
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ × Para quitar la nota doble<h4 class="modal-title">Nota</h4>
+
+
+
+One fine body…
+
+
+
+
+
+Ir a las notas
+
+
+
+
+
+
+
+
+Fundación Biblioteca Virtual Miguel de Cervantes
+
+
+Mapa del sitio
+
+Política de cookies
+
+Marco legal
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');   ga('create', 'UA-16084725-1', 'auto', {legacyCookieDomain: '.cervantesvirtual.com', allowLinker: true});  ga('require', 'linker'); ga('linker:autoLink', ['cervantesvirtual.com', 'letrasmexicanas.mx', 'letrasgalegas.org', 'letrasdehonduras.com', 'catedravargasllosa.com','lluisvives.com'] );     ga('set', 'dimension1', ''); ga('set', 'dimension2', ''); ga('set', 'dimension3','visor');  ga('set', 'dimension4', '241055'); ga('set', 'dimension5', 'texto'); ga('set', 'dimension6', '#458#'); ga('set', 'dimension7', '#257#'); ga('set', 'dimension8', '#html#');  ga('set', 'dimension9', ''); ga('set', 'dimension10', ''); ga('set', 'dimension11', '');  ga('set', 'dimension12', ''); ga('set', 'dimension13', ''); ga('set', 'dimension14', ''); ga('send', 'pageview');

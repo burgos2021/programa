@@ -1,0 +1,2331 @@
+ Saltar al contenido principal
+
+
+Visor de obras.
+
+
+
+Biblioteca Virtual Miguel de Cervantes
+
+
+Buscador
+
+
+ Buscar
+
+
+
+Opciones de navegación
+
+
+Portales
+ Ramón de Mesonero Romanos
+
+ BIBLIOTECA UNIVERSITARIA. Servicio de Información Bibliográfica y Documental de la Universidad de Alicante. SIBID
+
+ Francisco de Rojas Zorrilla
+
+ Teatro clásico español
+
+  
+Subir
+
+Índice
+
+Ficha
+
+
+
+
+
+Selecciona una palabra y presiona la tecla d para obtener su definición. 
+   
+/*<![CDATA[*/<!-- body { color:Black; background-color:White; } a:link { color:#003366 } a:visited { color:#003366 } a:active { color:#003366 }-->/*]]>*///<![CDATA[<!--function cargar (fichero){window.location=fichero}//-->//]]>/*<![CDATA[*/<!--@import "/includes/css_obras/ficha.css";-->/*]]>*/
+
+
+
+
+
+
+
+
+Jornada segunda
+
+
+ 
+
+(Dentro ruido de desembarcar.)
+
+ 
+
+OCTAVIANO	
+Ya no manda el timón, y ya la quilla	
+encalló en las arenas de la orilla.	
+
+
+LÉPIDO	
+Dejad zafar la escolta y chafaldete.	
+
+
+IRENE	
+Amainad la mesana y el trinquete.	
+
+
+LÉPIDO	
+Vaya la lancha al pie de aquella sierra.	
+
+
+OCTAVIANO	
+Lépido, Irene y yo, tomemos tierra.	
+
+
+IRENE	
+Áncora al mar.
+
+
+LÉPIDO	
+Sobre la espuma cana
+	
+se mece la ligera capitana.	
+
+
+OCTAVIANO	
+Y las demás, qué iguales	
+azotan con los reinos los cristales.	
+
+
+IRENE	
+Favorable nos fue la mar y viento.	
+
+
+LÉPIDO	
+Avante boga.
+
+
+OCTAVIANO	
+Iza a barlovento.
+	
+
+
+ 
+
+Salen OCTAVIANO, LÉPIDO e IRENE.
+
+ 
+
+IRENE	
+Salta sobre el peñasco de esa sierra.	
+
+
+OCTAVIANO	
+Beso mil veces la florida tierra.	
+
+
+LÉPIDO	
+Beso la madre de los hombres pía.	
+
+
+IRENE	
+Ésta la playa es de Alejandría	
+la que al Mediterráneo tiene a raya,	
+
+
+OCTAVIANO	
+Más parece de Chipre aquesta playa.	
+
+
+IRENE	
+Salva te hacen dulces ruiseñores.	
+
+
+LÉPIDO	
+Sin duda es esta patria de las flores	
+
+
+OCTAVIANO	
+El olfato y la vista a un tiempo estrena	
+fragancia y candidez de la azucena.	
+
+
+IRENE	
+Alegre está la vista y el olfato.	
+
+
+OCTAVIANO	
+¿No ves, Irene, al sol arder ingrato?	
+
+
+IRENE	
+¿Ingrato?
+
+
+OCTAVIANO	
+¿No le ves con luz hermosa
+	
+galanteando la purpúrea rosa,	
+que preside a otras flores peregrinas	
+y al ver que se defiende con espinas,	
+no por ser tan hermosa la pretende,	
+sino porque la ve que se defiende?	
+¿Y a Clicie, que en sus rayos habilita	
+porque ve que le sigue la marchita?	
+
+
+IRENE	
+Y yo al ver que la deja, en mí contemplo	
+de Clicie y sol un infelice ejemplo;	
+que si Antonio me deja desdeñoso,	
+yo vengo a ser la Clicie de mi esposo.	
+
+
+OCTAVIANO	
+Lépido, amigo mío, Irene bella:	
+tú, sol del Asia: tú, de Europa estrella,	
+atendedme los dos lo que os advierto:	
+ya os acordáis los dos que fue concierto	
+de venir a buscar a nuestro amigo,	
+siendo nuestra amistad el fiel testigo,	
+dado caso que Antonio no llegase	
+dentro de un año a Europa, o que no enviase	
+nuevas de su ruina o vencimiento	
+o ya la fama lo contase al viento,	
+o ya fiase sus vitorias solas	
+Neptuno a la inconstancia de las olas.	
+
+
+LÉPIDO	
+Un año el tiempo fue que la ha aplazado.	
+
+
+OCTAVIANO	
+Pues ya sabéis que el año se ha pasado,	
+sin que para más riesgo o mayor gloria	
+sepamos su ruina o su vitoria;	
+y tal vez he pensado	
+o que hidrópico el mar se le ha tragado,	
+o que cruel, Cleopatra, aunque divina,	
+reliquias no dejó de su ruina;	
+o será, pues triunfante no le aclama,	
+que su clarín se le quebró a la fama:	
+y como nuestro crédito desmaya,	
+con las naves que surgen en la playa	
+y con la hueste que mi espada anima,	
+a discurrir el más remoto clima	
+me conduzgo, hasta hallar de aquesta suerte	
+indicios de su vida o de su muerte.	
+
+
+IRENE	
+Desta montaña, agora	
+que le acecha las luces al aurora,	
+la cumbre altiva discurrir podemos.	
+
+
+LÉPIDO	
+La selva, monte y prado registremos.	
+
+
+OCTAVIANO	
+Mirar pretendo en este monte cano	
+si alguna poblacion descubre el llano.	
+
+
+IRENE	
+Sólo un arroyo aquella selva baña;	
+desierta se descubre la campaña.	
+
+
+OCTAVIANO	
+Estampa no se ve de plantas vivas,	
+todas las plantas son vegetativas.	
+tocad al arma, veamos si se altera	
+al marcial aparato un hombre o fiera.	
+
+
+LÉPIDO	
+Toca al arma.
+
+
+ 
+
+(Toquen y párense a escuchar.)
+
+ 
+
+OCTAVIANO	
+Ya suena el metal hueco,
+	
+y sólo del clarín es susto el eco.	
+
+
+IRENE	
+Aves son las que el ruido han extrañado.	
+
+
+LÉPIDO	
+Un hombre, o el deseo me ha engañado.	
+
+
+IRENE	
+Vuelto en sí del letargo, huir procura;	
+antes que se penetre en la espesura	
+del prado, le llamemos.
+
+
+OCTAVIANO	
+Hombre, aguarda;
+	
+Egipcio, ¿qué te turba y acobarda?	
+Reducirle no puedo.	
+
+
+LÉPIDO	
+Mucho es que no tropieces en tu miedo.	
+
+
+IRENE	
+¿No vías? darle voces es en vano.	
+
+
+OCTAVIANO	
+El que te llama es César Octaviano.	
+
+
+IRENE	
+Parece que a tu nombre reducido	
+su temor aconsejó su oído.	
+
+
+LÉPIDO	
+Ya parece que mueve más veloces	
+las plantas al halago de tus voces.	
+
+
+OCTAVIANO	
+Llega al favor que esperas de mi mano.	
+
+
+ 
+
+Sale CAIMÁN.
+
+ 
+
+CAIMÁN	
+Dame tus plantas, César Octaviano.	
+
+
+OCTAVIANO	
+¿Caimán?
+
+
+CAIMÁN	
+¿Lépido, Irene, qué te veo?
+	
+Viendo estoy a los tres, y no lo creo;	
+¿qué se llegó de mi deseo el día?	
+
+
+LÉPIDO	
+¿De dónde vienes, di?
+
+
+CAIMÁN	
+De Alejandría.
+	
+
+
+IRENE	
+¿Llegó Antonio?
+
+
+CAIMÁN	
+Llegó.
+
+
+OCTAVIANO	
+¿Qué ha sucedido?
+	
+
+
+CAIMÁN	
+Lo que siempre, Cleopatra le ha vencido	
+
+
+OCTAVIANO	
+¿Vive Antonio?
+
+
+CAIMÁN	
+Sí vive.
+
+
+OCTAVIANO	
+Di si es cierto.
+	
+
+
+CAIMÁN	
+No te estuviera mal que hubiera muerto.	
+
+
+OCTAVIANO	
+¿Qué dices?
+
+
+CAIMÁN	
+Lo que digo.
+	
+
+
+OCTAVIANO	
+Muera mil veces yo, viva mi amigo.	
+
+
+IRENE	
+¿Murió Cleopatra?
+
+
+CAIMÁN	
+Sí.
+
+
+OCTAVIANO	
+¡Desdicha fuerte!
+	
+
+
+CAIMÁN	
+Pero vive Cleopatra con la muerte.	
+
+
+OCTAVIANO	
+¡Qué gloria, qué contento!
+
+
+IRENE	
+¡Oh pena esquiva!
+	
+
+
+CAIMÁN	
+No te estuviera mal que fuera viva.	
+
+
+OCTAVIANO	
+Descíframe esta enigma, si eres sabio.	
+
+
+IRENE	
+No se hielen tus voces en tu labio.	
+
+
+LÉPIDO	
+Di, ¿cómo aquí has llegado?	
+sácanos a los dos deste cuidado.	
+
+
+OCTAVIANO	
+Como leal refiere,	
+cómo vive Cleopatra y cómo muere.	
+
+
+IRENE	
+Refiérenos si es cierto	
+cómo es Antonio vivo y cómo es muerto	
+
+
+LÉPIDO	
+Ya tu voz esperamos.	
+
+
+CAIMÁN	
+Pues escuchad los tres.
+
+
+LÉPIDO, IRENE, OCTAVIANO	
+Ya te escuchamos.
+	
+
+
+CAIMÁN	
+Ya te acuerdas que contigo	
+vine a Egipto, y ya te acuerdas	
+que me quedé en la batalla	
+como espada ginovesa;	
+ya dije que Marco Antonio	
+llegó a Egipto; pero apenas	
+empañó con nubes de humo	
+el sol de Cleopatra bella,	
+apenas vio su luz pura	
+nunca hasta entonces serena,	
+cuando se quedó más blando	
+que corregidor que espera,	
+acabado su trienio,	
+que le tomen residencia;	
+quiso, volviéndose a Roma,	
+fiar al viento las velas,	
+y a su constancia fiar	
+aquel apagado Etna	
+que va forjando en el alma	
+minas que tarde revientan;	
+pero el ligado velamen	
+aún no a los vientos entrega,	
+cuando a detenerle sale	
+Cleopatra en una galera.	
+Árboles de plata fina,	
+las gavias de oro, las cuerdas	
+trizas, escoltas, volinas,	
+de cordones de oro y seda.	
+La popa, ébano y marfil,	
+y en igual correspondencia	
+del terso cristal de roca	
+diáfanas las vidrieras.	
+Iba la chusma adornada	
+de mil recamadas telas,	
+a quien, aunque tarde, supo	
+perfeccionar la tarea.	
+Los soldados desta nave	
+cincuenta Cupidos eran	
+que a corazones de bronce	
+disparaban mil saetas.	
+En la cámara de popa	
+suavísimas sirenas	
+cantaban, amor, amor,	
+que esta era su dulce guerra.	
+Cleopatra, en un trono de oro,	
+cuyos diamantes pudieran	
+exceder cuantos el sol	
+purifica y alimenta,	
+esperaba a Marco Antonio	
+pasó Marco Antonio a verla;	
+dijo, que de agradecido,	
+y yo le dije: no creas	
+que hay quien no teniendo amor	
+sepa agradecer finezas.	
+Trinaron suaves voces	
+mil amorosas endechas,	
+cuyo compás en las aguas	
+llevaba la palamenta.	
+Surgieron de allí distantes	
+presumo que media legua,	
+y en medio del mar estaban	
+fijas diferentes mesas	
+sobre una red, que en las aguas,	
+con tal artificio era	
+tejido metal en lazos,	
+de obra tan sutil, que al verla	
+sufrió el peso y no la vista,	
+que estaba esta red dispuesta	
+con fortaleza tan grande	
+y con tanta sutileza,	
+que la dudara la vista	
+si el tacto no la creyera.	
+Espléndida la vianda	
+colmó el día una menestra:	
+trujo deshecha en vinagre	
+la más rica y grande perla	
+que el exceso encareció;	
+el mar, que conchas platea,	
+perlas que engendró la aurora	
+legítimamente netas,	
+no produjo perla igual;	
+tanto, que se halló quien crea	
+que valía una ciudad;	
+y esta fue la vez primera	
+que en los méritos quedase	
+la comparación modesta.	
+Pez, escondido en las grutas;	
+ave, que el cielo penetra;	
+fiera, que el monte discurre;	
+fruta, que el árbol franquea;	
+raíz, que la tierra esconde;	
+manjar, que la gula inventa;	
+cristal, que el sol purifica;	
+licor, que en los años medra;	
+destos dos dioses del mundo	
+fueron ambrosía y néctar,	
+delicias de los manjares,	
+viendo festiva a su reina,	
+(cómo es en las ocasiones	
+el que más se desenfrena)	
+pareciéndoles que ya	
+tiene amor Cleopatra, empiezan,	
+para hacer bien de las suyas,	
+a hacer mal de las ajenas.	
+La casta anciana, que estuvo	
+en su atención recoleta,	
+sabiendo lo que ha perdido	
+no quisiera ser tan vieja.	
+La viuda también buscaba	
+un sustituto que lea	
+en su cátedra del sexto	
+del propietario la ausencia.	
+En disolución tan libre,	
+trocados los frenos vieras	
+las solteras muy casadas,	
+las casadas muy solteras.	
+Tan iguales voluntades	
+corrieron en esta era,	
+que a más de cien mil Tarquinos	
+no se encontró una Lucrecia;	
+la tórtola enamorada,	
+la dulce paloma tierna,	
+por ser aves que amar saben,	
+las arrullan y gorjean;	
+la azucena y el jazmín,	
+símbolos de la pureza,	
+les daban humo a narices;	
+que sólo del gusto eran	
+la hiedra, por ser lasciva,	
+por madre, la madre selva;	
+y si era ley en Egipto	
+que en fuego material muera	
+la mujer que tenga amor,	
+Cleopatra, menos atenta,	
+otra ley ha promulgado	
+para derogar aquella,	
+y es que saquen a quemar	
+a la mujer que no quiera;	
+Venus y Baco, dos dioses	
+de costumbres no muy buenas	
+Venus hizo dar traspiés,	
+Baco hizo dar tras cabezas;	
+en fin, Antonio y Cleopatra	
+en Alejandría entran	
+ya del pueblo murmurados,	
+que es quien antes los celebra;	
+Oh plebe, la dije entonces,	
+¿quién puede ser que te entienda?	
+Quéjaste si el Rey es bueno,	
+y si no es bueno te quejas;	
+mañana otra vez querrás	
+gozarte en delicias nuevas,	
+pues ni la virtud te agrada	
+ni del vicio te contentas;	
+a Marco Antonio Cleopatra	
+miraba muy fina y tierna,	
+y no con buena intención,	
+que cuando una mujer llega	
+a repasar a un galán	
+el talle, los pies y piernas,	
+de tener mucha atención	
+anda un poco desatenta;	
+mirábala Antonio, como	
+el que conocer desea	
+a alguna persona y no	
+acaba de conocerla,	
+llegaron a su palacio,	
+y para que desta guerra	
+durase la paz deseada,	
+solos los dos, sin que hubiera	
+quien mediase en estas paces,	
+entraron a asentar treguas;	
+los dos, dicen, que allá dentro	
+tuvieron mil diferencias	
+sobre el modo de la paz,	
+porque duró esta contienda	
+más de un mes, en que los dos	
+no salieron de una pieza,	
+hasta dejar de una vez	
+hechas las paces y treguas;	
+pues mirad si Antonio es muerto,	
+pues murió a la confidencia	
+de tu amistad, y mirad	
+si también Cleopatra es muerta	
+del amor...
+
+
+OCTAVIANO	
+Detén el labio,
+	
+miente tu atrevida lengua:	
+Antonio es mi fiel amigo;	
+yo adoro a Cleopatra bella;	
+para mí conquista Antonio	
+esta inexpugnable fuerza,	
+que con firmes desengaños	
+se fortalece y pertrecha.	
+
+
+CAIMÁN	
+Él no sabe que la adoras.	
+
+
+OCTAVIANO	
+Sabe el cielo, viento y tierra	
+que respira el alma mía	
+por los alientos de aquella.	
+
+
+CAIMÁN	
+Pues Antonio fue traidor.	
+
+
+OCTAVIANO	
+Es mi amigo.
+
+
+LÉPIDO	
+No lo creas,
+	
+porque en llegando al amor	
+no hay amigo que lo sea.	
+
+
+CAIMÁN	
+¿Quieres ver el desengaño?	
+a tu hermana que fue prenda	
+y premio de tu amistad,	
+repudiar quiere y intenta	
+darle la mano a Cleopatra.	
+
+
+IRENE	
+Cierra el labio, infame, cierra,	
+que de tu boca atrevida	
+sabré arrancarte la lengua.	
+¿A mí despreciarme Antonio?	
+¿Cómo puede ser que sea	
+sacrificio de la sombra	
+quien fue de la luz ofrenda?	
+Antonio me quiere a mí.	
+
+
+CAIMÁN	
+Bien puede ser que te quiera,	
+pero más quiere a Cleopatra.	
+
+
+IRENE	
+Mientes.
+
+
+CAIMÁN	
+Y porque agradezcas
+	
+mi lealtad...
+
+
+IRENE	
+Habla, ¿qué aguardas?
+	
+
+
+CAIMÁN	
+Un mes ha que en esta selva	
+estoy escondido, sólo	
+porque dije en su presencia	
+que ¿por qué hacía contigo	
+una ingratitud tan fea...	
+
+
+IRENE	
+¿Te quiso dar muerte?
+
+
+CAIMÁN	
+Sí.
+	
+
+
+IRENE	
+Y dime, ¿sabe la Reina	
+que es Marco Antonio mi esposo?	
+
+
+CAIMÁN	
+No lo sabe.
+
+
+IRENE	
+Pues no creas
+	
+que ella le quiere.
+
+
+CAIMÁN	
+Señora,
+	
+sí le querrá; porque, él y ella,	
+él está por ella ciego,	
+y ella por él está tuerta.	
+Ya estaba para decirle...	
+
+
+OCTAVIANO	
+Calla, cobarde, la lengua.	
+
+
+CAIMÁN	
+Pues yo me voy, déjame	
+volver a buscarle.
+
+
+OCTAVIANO	
+Espera;
+	
+¿y adónde está Marco Antonio?	
+
+
+CAIMÁN	
+Estará de aquí dos leguas	
+en una quinta, a quien baten	
+del mar las olas soberbias.	
+
+
+OCTAVIANO	
+¿Sabrás guiarnos?
+
+
+CAIMÁN	
+Sí sé.
+	
+
+
+OCTAVIANO	
+Pues por las puras estrellas	
+que errantemente volando	
+son celestiales cornejas,	
+pues siendo del sol su luz	
+dan luz con la luz ajena...	
+
+
+IRENE	
+Por esa antorcha segunda,	
+que ya pálida o serena,	
+oscurece siempre viva,	
+está ardiendo siempre muerta,	
+que he de dar sangrienta muerte...	
+
+
+OCTAVIANO	
+Que he de dar la muerte fiera	
+al ingrato amigo...
+
+
+IRENE	
+Al falso
+	
+burlador de mi belleza.	
+
+
+OCTAVIANO	
+Fálteme la luz del día.	
+
+
+IRENE	
+El centro no me consienta.	
+
+
+OCTAVIANO	
+Los cuchillos de hambre y sed	
+no me maten y me hieran.	
+
+
+IRENE	
+Sol y luna me amenacen.	
+
+
+OCTAVIANO	
+No me alumbren las estrellas	
+hasta que en su roja sangre...	
+
+
+IRENE	
+Hasta que hidrópica beba...	
+
+
+OCTAVIANO	
+Apaguen su sed mis iras.	
+
+
+IRENE	
+El rojo humor de sus venas.	
+
+
+OCTAVIANO	
+Muera Antonio.
+
+
+IRENE	
+Muera Antonio.
+	
+
+
+LÉPIDO	
+Supuesto que es una mesma	
+causa la que de los dos,	
+tú puedes marchar por tierra	
+y yo por el mar ahora	
+sitiaré la quinta.
+
+
+OCTAVIANO	
+Ea,
+	
+Lépido, mi sólo amigo,	
+a embarcar.
+
+
+LÉPIDO	
+Desde hoy empiezan
+	
+a vengarse mis desdenes.	
+
+
+IRENE	
+Toca a marchar.
+
+
+LÉPIDO	
+Toca a leva;
+	
+muerto Antonio, será mía	
+Irene, aunque amor no quiera.	
+
+
+ (Vase.) 
+
+
+
+OCTAVIANO	
+Ve delante.
+
+
+CAIMÁN	
+Ya yo voy,
+	
+seguidme.
+
+
+ (dVase.) 
+
+
+
+OCTAVIANO	
+Irene, ¿qué esperas?
+	
+
+
+IRENE	
+Seguiré tus pasos.
+
+
+OCTAVIANO	
+Ven.
+	
+
+
+IRENE	
+Tu mismo enojo me alienta.	
+
+
+OCTAVIANO	
+Muera ese traidor amigo	
+que a los dos ofende.
+
+
+IRENE	
+Muera.
+	
+
+
+OCTAVIANO	
+Celos y agravios me irritan.	
+
+
+IRENE	
+Venganza y celos me llevan.	
+
+
+OCTAVIANO	
+Ninguno fíe en amigo.	
+
+
+IRENE	
+Ninguno en amantes crea.	
+
+
+ 
+
+Salen por una puerta LELIO y CLEOPATRA; por otra puerta MARCO ANTONIO y OCTAVIO, capitán.
+
+ 
+
+CLEOPATRA	
+Dejadme, Lelio.
+
+
+LELIO	
+Señora,
+	
+mire vuestra majestad...	
+
+
+MARCO ANTONIO	
+Dejadme, Octavio.
+
+
+OCTAVIO	
+Mirad...
+	
+
+
+LELIO	
+No os dejéis llevar ahora	
+de una amorosa pasión.	
+
+
+CLEOPATRA	
+Ya os digo que me dejéis.	
+
+
+MARCO ANTONIO	
+Idos.
+
+
+OCTAVIO	
+A Octaviano hacéis
+	
+una ofensa, una traición.	
+
+
+LELIO	
+Que han de quitaros, pensad,	
+el reino.
+
+
+CLEOPATRA	
+Eso solicito;
+	
+nunca reine yo en Egito	
+y reine en mi voluntad.	
+Esta es mi resolución.	
+
+
+OCTAVIO	
+Tú, brazo de Febo y Marte,	
+¿del amor dejas llevarte?	
+
+
+MARCO ANTONIO	
+Dices bien, tienes razón.	
+
+
+LELIO	
+Tú, que investaste el desdén	
+¿sujeta al amor tirano?	
+
+
+OCTAVIO	
+¿Tú enemigo de Octaviano?	
+
+
+CLEOPATRA	
+Bien me dices.
+
+
+MARCO ANTONIO	
+Dices bien.
+	
+
+
+LELIO	
+El reino es más poderoso.	
+
+
+OCTAVIO	
+Mira que Irene podría...	
+
+
+MARCO ANTONIO	
+No será Cleopatra mía.	
+
+
+CLEOPATRA	
+No será Antonio mi esposo.	
+
+
+OCTAVIO	
+Que han de dar la muerte advierte,	
+a Cleopatra tus soldados.	
+
+
+LELIO	
+Tus soldados conjurados	
+a Antonio quieren dar muerte.	
+
+
+CLEOPATRA	
+¿Como a tu advertencia tardo...	
+
+
+MARCO ANTONIO	
+Tomar tu consejo quiero.	
+
+
+CLEOPATRA	
+Vete, Lelio.
+
+
+LELIO	
+Aquí te espero.
+	
+
+
+ (Vase.) 
+
+
+
+MARCO ANTONIO	
+Vete, Octavio
+
+
+OCTAVIO	
+Aquí te aguardo.
+	
+
+
+ (Vase.) 
+
+
+
+MARCO ANTONIO	
+
+ (Ap.) 
+
+
+Temple el valor este fuego.	
+
+
+CLEOPATRA	
+
+ (Ap.) 
+
+
+Hoy este volcán reprimo.	
+
+
+MARCO ANTONIO	
+
+ (Ap.) 
+
+
+Esto ha de ser, yo me animo.	
+
+
+CLEOPATRA	
+
+ (Ap. 
+
+
+Si esto ha de ser, yo me llego.)	
+Marco Antonio, honor de Europa,	
+infelice dueño mío,	
+espejo en quien se aliñaron	
+mis potencias y sentidos;	
+ya sabes que desde el día	
+que te vi quedó rendido	
+mi valor tanto a tu fama,	
+tanto a tu amor mi retiro,	
+mi desdén tanto a tu queja,	
+tanto a tu fe mi albedrío,	
+que en quererte y no quererte,	
+ya abrasados o ya tibios	
+los hizo estar más amantes	
+el mismo estar más remisos.	
+Y en un jardín una noche	
+que con sueño cristalino,	
+para murmurarnos luego	
+se hizo un arroyo dormido,	
+obligándome con ansias,	
+quejándote con cariños.	
+Atreviéndote con miedos,	
+llegándote con desvíos;	
+al verme a mí con desdenes	
+usados y no sentidos,	
+anduviste tan cortés	
+que no pareciste fino;	
+y aunque respeto es amor,	
+dije acá para conmigo:	
+el amor que está muy ciego	
+no es amor, que está muy vivo;	
+desde entonces, desde entonces,	
+mi memoria es mi enemigo,	
+no sé qué veneno al alma	
+se me entró de haberte oído;	
+que quejas a media voz	
+son los mayores hechizos,	
+pues mis ojos, que son tuyos,	
+envidiosos de haber visto	
+que no entrase amor por ellos	
+y entrase por los oídos,	
+con el oído trocaron	
+un sentido a otro sentido,	
+tanto, que oigo por los ojos	
+y miro por los oídos.	
+tú dijiste que me amabas;	
+yo te adoro, ya lo digo;	
+y aunque hago mucho en quererte	
+vengo a hacer más en decirlo.	
+ya, pues, cuando nuestro amor,	
+con estar muy ciego, quiso	
+que enmiende ciego himeneo	
+lo que erró sabio Cupido;	
+contra mí el reino conspira,	
+que es ley antigua en Egipto	
+que no puedan los romanos	
+casarse con los egipcios.	
+Y como violar no puedo	
+los estatutos antiguos,	
+y a tu vida, que es la mía,	
+amenazan dos peligros,	
+de perderte y de perderme,	
+una muerte y dos martirios;	
+vengo a rogarte, Señor,	
+con el llanto cristalino	
+que a mis temores congelo	
+y a tus ardores derrito,	
+que te vuelvas a tu reino,	
+que así por mi vida miro,	
+pues no puedo yo morir	
+sabiendo que tú estás vivo.	
+¡Oh, mal haya el cazador	
+que en el recatado nido	
+las tórtolas espantó	
+que amor unió pico a pico!	
+¡Mal haya el que astuto sabe	
+para que fallezca limpio,	
+poner en la verde gruta	
+lazos de arena al armiño!	
+huye, Señor, huye Antonio,	
+fía a los vientos el lino,	
+que si te faltaren ellos,	
+yo te enviaré mis suspiros.	
+Darte la muerte pretenden	
+mis vasallos ofendidos;	
+yo te pierdo, yo te adoro.	
+
+
+MARCO ANTONIO	
+Señora...
+
+
+CLEOPATRA	
+Ten el cuchillo
+	
+de tu voz, no me atraviesen	
+tus pasiones los sentidos,	
+que la venda de los ojos	
+me la pasaré al oído.	
+
+
+MARCO ANTONIO	
+¡Ay rosa, que brotó el Mayo	
+entre sangrientos espinos,	
+que ha enfermado de la noche	
+y no sanó del rocío!	
+¡Pluguiera a tus dulces ojos,	
+dioses que idolatro míos,	
+a cuyas aras rendí	
+deseos por sacrificios,	
+que ese fuese sólo el mal	
+que yo siento!
+
+
+CLEOPATRA	
+¿Más activo
+	
+dolor que haber de perderme,	
+si quererte determino?	
+
+
+MARCO ANTONIO	
+Ese mal tiene el remedio	
+dentro del mismo peligro.	
+si tienes para vasallos	
+a mi amor y a mi albedrío,	
+sustituye la corona	
+de Alejandría y Egipto,	
+a la de Roma que yo	
+pusiera a tus pies invictos,	
+si a no haber un grande riesgo,	
+huyendo a Roma conmigo	
+pudieras...
+
+
+CLEOPATRA	
+¿Mayor dolor,
+	
+más vivos tiene los filos	
+este cuchillo que dices?	
+Responde, Antonio.
+
+
+MARCO ANTONIO	
+Más vivos...
+	
+
+
+CLEOPATRA	
+Acaba, refiere el riesgo,	
+¿en qué te suspendes?
+
+
+MARCO ANTONIO	
+Digo
+	
+que Octaviano, ¡quién pudiera	
+decirtelo sin decirlo,	
+te quiere, y que yo te adoro,	
+que es mi amigo y yo su amigo,	
+que me ha fiado su amor,	
+que a Alejandría ha venido	
+a conquistar tu belleza;	
+y yo el conquistado he sido;	
+que será traición quererte,	
+que no quererte es delito,	
+que Irene, su hermana, es	
+mi esposa, que si prosigo	
+en solicitar tus ojos,	
+por cuyas luces respiro,	
+mis propios soldados son	
+los mayores enemigos,	
+si llevarte quiero a Roma	
+mi ruina solicito,	
+pues vengo a ser, si lo miras,	
+con los dos a un tiempo mismo,	
+con Irene, falso amante,	
+y con él, traidor amigo;	
+irme a los brazos de Irene	
+es morir en fuego tibio;	
+ir de Octaviano a la queja	
+es confesar mi delito;	
+a mí tus vasallos quieren	
+darme la muerte ofendidos,	
+irritados solicitan	
+darte la muerte los míos;	
+seguir tu amor es delito;	
+no quererte es inconstancia,	
+irme sin ti es darme muerte,	
+muerte es quedarme contigo,	
+pues qué he de hacer me aconseja	
+en extremos tan precisos,	
+pues quedándome te pierdo,	
+y yéndome te he perdido.	
+
+
+CLEOPATRA	
+Traidor, infame, villano,	
+romano, crüel, indigno	
+de adorar estos dos soles	
+que a tus ojos les permito,	
+de quien son devotamente	
+tantos corazones indios;	
+dime, ¿si desta hermosura	
+eres dueño tan preciso,	
+cómo atreviste tus lazos	
+para que no fuesen míos?	
+¿Cómo, ingrato, cómo pagas	
+cuando esta pasión te fío,	
+con unos celos villanos	
+un amor tan bien nacido?	
+Vivo yo, deidad humana,	
+diosa de los albedríos,	
+que pues celos me ocasionas	
+cuando mi amor significo,	
+que del puñal de los celos	
+has de estrenarte en los filos.	
+¿Tú no dices que no puedes,	
+no sé cómo lo repito,	
+dejar de querer a Irene?	
+Pues hoy de Octaviano admito	
+el amor para premiarle,	
+que pues tú mismo me has dicho	
+que falso adoras a Irene,	
+y que él me idolatra fino,	
+con dar a Octaviano el premio	
+te he de dar a ti el castigo,	
+
+
+MARCO ANTONIO	
+¿Decirte que la aborrezco	
+es para tu amor delito?	
+
+
+CLEOPATRA	
+Decirme que eres su esposo,	
+es decir que la has querido.	
+
+
+MARCO ANTONIO	
+Y decir que a ti te adoro,	
+¿no es decir que a Irene olvido?	
+
+
+CLEOPATRA	
+No me quieras; porque soy	
+tan vana, que no permito	
+que sea mi fino amante	
+el que no puede ser mío;	
+que aunque yo amante le adore	
+y él me adore más activo,	
+si de mis celos me abraso	
+de mi vanidad me entibio.	
+
+
+MARCO ANTONIO	
+Yo quise a Irene, mas fue	
+antes que te hubiese visto;	
+vi tu hermosura, y quedé	
+a tu hermosura rendido.	
+No se estimara a la luz	
+a no haber sombra; el sol mismo	
+a no venir tras la noche	
+no fuera tan peregrino.	
+¿Cómo estimará la rosa	
+quien no se estrenó en el lirio?	
+¿Cómo ha de extrañar el mar	
+quien no vio correr al río?	
+A no haber Diciembre helado,	
+¿qué fuera el Abril florido?	
+Todos los opuestos lucen	
+de los opuestos al viso,	
+la virtud virtud no fuera	
+a no ser contrario el vicio.	
+Luego a ti te está mejor,	
+que a otra sepa haber querido,	
+para que de aquella noche	
+seas el sol, seas del lirio	
+clavel, de la sombra luz,	
+Abril del Diciembre frío,	
+mar de aquel río, y en fin,	
+seáis las dos, cuando os miro,	
+ella invierno, lirio y sombra:	
+tú sol, mar, clavel y estío.	
+
+
+CLEOPATRA	
+Pues si has hallado la luz,	
+repudia la sombra.
+
+
+MARCO ANTONIO	
+Digo,
+	
+que repudio la que llamas	
+mi dueño, y a ti te admito.	
+
+
+CLEOPATRA	
+Pues ya aborrezco a Octaviano.	
+
+
+MARCO ANTONIO	
+Yo no tengo más amigo	
+que a mi dama. Di, ¿qué haremos?	
+
+
+CLEOPATRA	
+Que huyendo los dos de Egipto,	
+por las provincias del Asia	
+apelemos al asilo	
+de los montes, y a que en ellos	
+nos den las grutas abrigo.	
+¿Qué reino como gozarte?	
+
+
+MARCO ANTONIO	
+Tu vasallo es mi albedrío;	
+huyamos, Cleopatra.
+
+
+CLEOPATRA	
+Huyamos,
+	
+pues en lecho cristalino	
+descansa el sol del afán	
+con que visitó a los signos;	
+y pues de esa hermosa quinta	
+a este prado hemos salido	
+a quien le dispara el mar	
+trabucos de plumas rizos,	
+sobre las inquietas olas	
+de los vientos al arbitrio	
+visitemos las provincias	
+que el rumbo ha desconocido.	
+
+
+MARCO ANTONIO	
+Pues para que mis soldados	
+no te den muerte, es preciso	
+que vaya a avisar a Octavio	
+un capitán fidedigno	
+a quien fié este secreto	
+aquí has de esperarme.
+
+
+CLEOPATRA	
+Hoy sigo
+	
+por el norte de tu amor	
+de tu verdad el camino.	
+¿Serás mi esposo?
+
+
+MARCO ANTONIO	
+Sí soy;
+	
+¿Me quieres?
+
+
+CLEOPATRA	
+Tanto, bien mío,
+	
+desde ahora que en cierta parte	
+me he holgado de haber tenido	
+celos, que con solo amor,	
+tanto mi amor se ha encendido,	
+que como quererte más	
+era solo mi destino,	
+les agradezco a mis celos	
+todo esto que más te estimo	
+
+
+MARCO ANTONIO	
+Y yo, Cleopatra, me huelgo	
+de haberte también oído	
+que a Octaviano has de querer	
+si te ofendo, que si píos	
+los luceros me influyeren	
+que te olviden mis designios,	
+de miedo de que le quieras	
+te querré siempre conmigo.	
+
+
+CLEOPATRA	
+Pues aquí te espero, esposo,	
+vete; y de paso te digo,	
+que a mujer que quieras bien	
+no digas inadvertido	
+que hay otro que la pretende,	
+que amor es todo delirios,	
+y no hay mujer tan constante	
+(yo que lo soy te lo aviso),	
+que le pese que la quieran,	
+que hay unos celos creídos,	
+y por venganza o por tema	
+habrá mujer de capricho	
+que premiará al que la quiere	
+por triunfar del que ha querido.	
+
+
+MARCO ANTONIO	
+¿No hay riesgos en tu constancia?	
+
+
+CLEOPATRA	
+Mi fe y mi amor son testigos.	
+
+
+MARCO ANTONIO	
+A solo tu premio anhelo.	
+
+
+CLEOPATRA	
+Solo a tu consejo aspiro.	
+
+
+MARCO ANTONIO	
+Voy al mar.
+
+
+CLEOPATRA	
+Aquí te aguardo,
+	
+ve sin ruido.
+
+
+MARCO ANTONIO	
+Ansí te sirvo.
+	
+
+
+CLEOPATRA	
+Sin ti no quiero la vida.	
+
+
+MARCO ANTONIO	
+Venga la muerte contigo.	
+
+
+ (Vase.) 
+
+
+
+CLEOPATRA	
+En tanto que Marco Antonio	
+vuelve, en el frondoso sitio	
+que encubren aquellos sauces	
+de aquel arroyo narcisos,	
+quiero ocultarme, yo llego,	
+pero aquí siento ruido,	
+a estotra parte podré	
+ocultarme, si benignos	
+me permitieren los cielos	
+lograr los intentos míos.	
+
+
+ 
+
+Salen OCTAVIANO, IRENE y CAIMÁN.
+
+ 
+
+CAIMÁN	
+Llega paso y pisa quedo.	
+
+
+OCTAVIANO	
+Ya piso con tal primor	
+que los pasos de el valor	
+parece que los da el miedo.	
+
+
+CAIMÁN	
+La quinta es esta que os digo,	
+y aquesta donde idolatra	
+a tu enemiga Cleopatra	
+Marco Antonio, tu enemigo;	
+esta es su campaña amena,	
+y este es un monte eminente	
+a quien el mar obediente	
+besa las plantas de arena.	
+
+
+ (Pisando quedo.) 
+
+
+
+IRENE	
+Bien mi industria se previene;	
+vengareme de un villano.	
+
+
+CAIMÁN	
+Llega, César Octaviano,	
+llega, bellísima Irene.	
+
+
+CLEOPATRA	
+¡Hay más infeliz estrella!	
+¡Más sospechas en que pene!	
+aquella voz dijo Irene,	
+Octaviano dijo aquella.	
+¿Cómo aquí, divinos cielos	
+mis contrarios han venido?	
+Luego dejará el oído	
+de encontrarse con los celos.	
+
+
+OCTAVIANO	
+Dime, Caimán, ¿no fue aquí	
+donde osada y valerosa	
+me dio la batalla?
+
+
+CAIMÁN	
+Sí.
+	
+
+
+OCTAVIANO	
+¡Cielos, mis celos vengad!	
+
+
+IRENE	
+Pues la luna se escondió,	
+di, ¿por dónde podré yo	
+embestir a la ciudad?	
+que el vencimiento seguro	
+mis crueldades amenazan.	
+
+
+OCTAVIANO	
+¿No ves que el aire embarazan	
+las presunciones del muro?	
+
+
+CAIMÁN	
+Por estas sendas mayores	
+guíe tu enojo a tus pies;	
+porque en el prado que ves	
+hay más áspides que flores.	
+Por dónde pisas advierte,	
+lleva atentos los recelos.	
+
+
+IRENE	
+Más áspides son mis celos	
+y no me han dado la muerte.	
+
+
+OCTAVIANO	
+Varias voces ha escuchado	
+mi cuidadosa atención;	
+¿qué luces distantes son	
+las que se ven en el prado?	
+
+
+ 
+
+(Luces dentro.)
+
+ 
+
+CAIMÁN	
+En día tan singular	
+tan común es la alegría,	
+que anda suelta Alejandría	
+y no hay quien la pueda atar.	
+A cuanto se ve de aquí	
+todo tu cuidado atienda;	
+allí hay música y merienda,	
+baile allí, juegos allí.	
+No hay quietud que no retoce,	
+aquel de ochenta, se pierde	
+por salir a darse un verde	
+con la muchacha de doce.	
+Mira aquella vieja lince	
+que con rostro arrebolado	
+sale a darse un colorado	
+con el muchacho de quince.	
+Ella hacer trampas intenta,	
+que ha de engañarle recelo;	
+¡oiga, el diablo del mozuelo,	
+que, bien juega a las setenta!	
+Aquella dama avestruz	
+tres digiere y a uno ama;	
+¡Oh, cuál será aquella dama,	
+pues aquel mata la luz!	
+¡Qué pocos galanes nones	
+olvida el amor crüel!	
+¡Qué mala razón da aquel	
+de haber hecho mil razones!	
+
+
+OCTAVIANO	
+Entre estos frondosos ramos,	
+partos de la ruda arena,	
+una voz pienso que suena;	
+oigamos, Irene.
+
+
+IRENE	
+Oigamos.
+	
+
+
+CANTAN	
+
+ (Dentro.) 
+
+
+La Venus de Alejandría	
+y el romano más dichoso,	
+bebiéndose están amantes	
+las dos almas por los ojos.	
+De Octaviano, que es su amigo	
+faltó a la fe y al decoro,	
+que en estando el amor ciego	
+no ve al amistad tampoco.	
+
+
+OCTAVIANO	
+Por eso indignado y fiero,	
+como es tanta mi pasión,	
+para esa ciega traición	
+traigo yo lince el acero.	
+
+
+CANTAN	
+
+ (Dentro.) 
+
+
+Repudió a Irene, su esposa,	
+en sus brazos amorosos:	
+ya es Antonio de Cleopatra	
+y ya es Cleopatra de Antonio.	
+
+
+IRENE	
+Pues vengarme dél espero;	
+Antonio aleve y tirano,	
+que si me faltó tu mano,	
+no me faltará mi acero.	
+
+
+CLEOPATRA	
+¡Oh voz, corrige el error	
+con que irritas mis desvelos!	
+Si no sabes de mis celos,	
+¿por qué me cantas mi amor?	
+
+
+OCTAVIANO	
+Voz, no penetres veloz	
+el uno y otro sentido.	
+
+
+IRENE	
+¡Que se criase el oído	
+para sufrir esta voz!	
+
+
+OCTAVIANO	
+Lépido parece ya	
+que a las naves embistió.	
+
+
+IRENE	
+¿Iré al muro?
+
+
+OCTAVIANO	
+Irene, no.
+	
+
+
+ 
+
+(Fuego dentro.)
+
+ 
+
+IRENE	
+Ardiendo la mar está	
+en llamas accidentales;	
+un volcán la playa es.	
+
+
+OCTAVIANO	
+Pues embistamos los tres	
+ciudad, quinta y mar iguales.	
+
+
+CAIMÁN	
+Ya es tiempo de huir.
+
+
+IRENE	
+Tirano,
+	
+cobrar la venganza juro.	
+
+
+OCTAVIANO	
+Irene, acomete al muro.	
+
+
+IRENE	
+A abrasar la quinta, hermano.	
+
+
+OCTAVIANO	
+Pues con tus soldados parte;	
+ea, Irene, ve a embestir.	
+
+
+CAIMÁN	
+Ea, gran Caimán, a huir.	
+
+
+IRENE	
+Ea, Octaviano, a vengarte.	
+
+
+ 
+
+(Vanse los tres.)
+
+ 
+
+CLEOPATRA	
+Ejército numeroso	
+ocupa la tierra y mar.	
+¿Adónde podré encontrar	
+a Marco Antonio, mi esposo?	
+Arde el mar en humo ciego	
+ 
+
+(Fuego dentro.)
+
+ 
+¿Esposo? ¿Antonio? ¿Señor?	
+Mariposa es el amor	
+que va a morir en el fuego.	
+Aquí con nueva crueldad	
+mayor incendio te aviva.	
+
+
+OCTAVIANO	
+
+ (Dentro.) 
+
+
+No quede persona viva,	
+toda la quinta abrasad.	
+
+
+CLEOPATRA	
+Allí Octaviano también	
+feliz vence y riguroso;	
+no fueras tú tan dichoso,	
+si yo te quisiera bien.	
+
+
+IRENE	
+
+ (Dentro.) 
+
+
+Dar la venganza a los cielos	
+de mi traición aseguro.	
+
+
+CLEOPATRA	
+Irene abrasa allí el muro,	
+fácil es, que lleva celos;	
+murió Antonio, que la herida	
+desta mi pasión advierte	
+que está cercana su muerte	
+pues que se acaba mi vida.	
+Ruego a los cielos, pues ya	
+no hay más riesgo en que pene,	
+que sea quien te hallare Irene,	
+que ella no te matará.	
+Otra vez quiero intentar	
+mover al viento veloz;	
+mas que no tengo ya voz	
+para poderle llamar.	
+¿Antonio? el hallarle ha sido	
+
+
+ (Recio.) 
+
+
+En vano, no me oirá,	
+a la distancia que habrá	
+desde mi voz a su oído.	
+Todo en torno mío calla.	
+¿Antonio? ¿Esposo? ¿Señor?	
+
+
+ (Recio.) 
+
+
+
+ 
+
+Sale MARCO ANTONIO con la espada desnuda.
+
+ 
+
+MARCO ANTONIO	
+¡Que pueda tanto mi amor	
+que dejase la batalla!	
+¿Que dejar vencida aguarde	
+mi gente, y que amor intente	
+hacer cobarde al valiente	
+si hizo al valiente cobarde?	
+Su voz oí, y mi dolor	
+es el que me hace volver:	
+o esta voz debe de ser	
+conjetura del temor.	
+Mas para librar su vida	
+dejo, allí la he de librar,	
+en las orillas del mar	
+una nave prevenida.	
+¿Cleopatra?
+
+
+CLEOPATRA	
+¿Antonio?
+
+
+
+ (A la par estas dos voces, con que no se oye ninguno.) 
+
+
+
+Yo he oído
+	
+mi nombre al viento veloz;	
+¡qué infeliz anda mi voz,	
+pues la embaraza mi oído!	
+
+
+MARCO ANTONIO	
+Adonde mis voces van	
+otras se impiden veloces.	
+
+
+CLEOPATRA	
+Otra vez pruebo las voces.	
+
+
+ (A la par.) 
+
+
+
+MARCO ANTONIO	
+¿Cleopatra?
+
+
+CLEOPATRA	
+¿Antonio?
+
+
+ 
+
+Salen LELIO y OCTAVIO, capitán, con dos hachas.
+
+ 
+
+LOS DOS	
+Aquí están.
+	
+
+
+CLEOPATRA	
+¿Esposo?
+
+
+MARCO ANTONIO	
+Norte a quien sigo...
+	
+
+
+CLEOPATRA	
+¿Lelio?
+
+
+MARCO ANTONIO	
+¿Octavio?
+
+
+OCTAVIO	
+¿Cómo aquí?
+	
+
+
+CLEOPATRA	
+¿Vienes a buscarme?
+
+
+LELIO	
+Sí.
+	
+
+
+OCTAVIO	
+Ven conmigo.
+
+
+LELIO	
+Ven conmigo.
+	
+
+
+CLEOPATRA	
+¡Qué riesgo!
+
+
+MARCO ANTONIO	
+¡Qué pena igual!
+	
+
+
+CLEOPATRA	
+Al que he sentido...
+
+
+MARCO ANTONIO	
+Al que lloro...
+	
+
+
+CLEOPATRA	
+Al que he dudado...
+
+
+MARCO ANTONIO	
+Al que ignoro...
+	
+
+
+OCTAVIO	
+Mayor daño...
+
+
+LELIO	
+Mayor mal...
+	
+
+
+MARCO ANTONIO	
+Si espera la nave allí,	
+seré amante el más dichoso.	
+
+
+CLEOPATRA	
+Si puedo huir con mi esposo,	
+no hay desdicha para mí.	
+
+
+OCTAVIO	
+De Lépido a la crueldad	
+la nave vino a abrasarse.	
+
+
+ 
+
+(El uno habla con CLEOPATRA, y el otro con MARCO ANTONIO.)
+
+ 
+
+LELIO	
+La ciudad quiere entregarse	
+si no entras en la ciudad;	
+mira que están conjurados.	
+
+
+OCTAVIO	
+Haz que tu valor se aliente.	
+
+
+MARCO ANTONIO	
+Vamos a ayudar tu gente.	
+
+
+CLEOPATRA	
+Ven a ayudar tus soldados.	
+
+
+LELIO	
+Advierte, Señor...
+
+
+OCTAVIO	
+Advierte...
+	
+
+
+LELIO	
+Que si tu amor la idolatra...	
+
+
+OCTAVIO	
+Que han de dar muerte a Cleopatra.	
+
+
+LELIO	
+Que han de dar a Antonio muerte.	
+
+
+CLEOPATRA	
+Donde tú fueres, es bien	
+que yo muera valerosa.	
+
+
+MARCO ANTONIO	
+Adonde fuere mi esposa	
+tengo de morir también.	
+
+
+LELIO	
+Sane agora tu valor	
+esta penetrante herida.	
+
+
+OCTAVIO	
+No hacer caso de la vida	
+es no estimar el amor.	
+
+
+LELIO	
+Diez mil hombres tu ira tiene.	
+
+
+OCTAVIO	
+Dos mil soldados te esperan.	
+
+
+MARCO ANTONIO	
+Lépido y Irene mueran.	
+
+
+CLEOPATRA	
+Muera Octaviano y Irene.	
+
+
+MARCO ANTONIO	
+No quiero, esposa, pues arde	
+en mi esta ira prudente,	
+si me has querido valiente,	
+que me aborrezcas cobarde.	
+
+
+CLEOPATRA	
+Ni yo he de querer ahora,	
+puesto que importa mi vida,	
+que me aborezcas vencida	
+pues me amaste vencedora.	
+
+
+OCTAVIO	
+Pues de tu triunfo blasona.	
+
+
+LELIO	
+Defiende tu muro pues.	
+
+
+MARCO ANTONIO	
+Yo pondré el mundo a tus pies.	
+
+
+CLEOPATRA	
+Yo en tus sienes mi corona.	
+
+
+MARCO ANTONIO	
+Ea, valiente deidad.	
+
+
+CLEOPATRA	
+Pues ea, Antonio valiente,	
+ve a socorrer a tu gente.	
+
+
+MARCO ANTONIO	
+Ve a socorrer tu ciudad.	
+
+
+CLEOPATRA	
+Pues voyme, si esto ha de ser.	
+
+
+MARCO ANTONIO	
+Digo, que voy temeroso.	
+
+
+CLEOPATRA	
+Habla, ¿qué temes, esposo?	
+
+
+MARCO ANTONIO	
+Temo que no te he de ver,	
+que somos tan desdichados...	
+
+
+CLEOPATRA	
+Mi constancia te aseguro.	
+
+
+LELIO	
+Mirad que se rinde el muro.	
+
+
+OCTAVIO	
+Mira que huyen tus soldados.	
+
+
+MARCO ANTONIO	
+Valor este acero tiene.	
+
+
+CLEOPATRA	
+Ya sabe vencer mi mano.	
+
+
+MARCO ANTONIO	
+Mira no te halle Octaviano.	
+
+
+CLEOPATRA	
+Mira no encuentres a Irene.	
+
+
+OCTAVIO	
+Octaviano allí se advierte.	
+
+
+LELIO	
+Irene allí va a embestir.	
+
+
+MARCO ANTONIO	
+Pues a matar o morir.	
+
+
+CLEOPATRA	
+A matar o a darme muerte.	
+
+
+MARCO ANTONIO	
+¡Amor, hazme venturoso!	
+
+
+CLEOPATRA	
+¡Celos, hacedme dichosa!	
+
+
+MARCO ANTONIO	
+El cielo te guarde, esposa.	
+
+
+CLEOPATRA	
+El cielo te guarde, esposo.	
+
+
+
+
+
+
+
+ 
+
+
+
+ × Para quitar la nota doble<h4 class="modal-title">Nota</h4>
+
+
+
+One fine body…
+
+
+
+
+
+Ir a las notas
+
+
+
+
+
+
+
+
+Fundación Biblioteca Virtual Miguel de Cervantes
+
+
+Mapa del sitio
+
+Política de cookies
+
+Marco legal
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');   ga('create', 'UA-16084725-1', 'auto', {legacyCookieDomain: '.cervantesvirtual.com', allowLinker: true});  ga('require', 'linker'); ga('linker:autoLink', ['cervantesvirtual.com', 'letrasmexicanas.mx', 'letrasgalegas.org', 'letrasdehonduras.com', 'catedravargasllosa.com','lluisvives.com'] );     ga('set', 'dimension1', '#253#431#625#515#'); ga('set', 'dimension2', ''); ga('set', 'dimension3','visor');  ga('set', 'dimension4', '236854'); ga('set', 'dimension5', 'texto'); ga('set', 'dimension6', '#11#'); ga('set', 'dimension7', '#16#'); ga('set', 'dimension8', '#html#');  ga('set', 'dimension9', ''); ga('set', 'dimension10', ''); ga('set', 'dimension11', '');  ga('set', 'dimension12', ''); ga('set', 'dimension13', ''); ga('set', 'dimension14', ''); ga('send', 'pageview');
