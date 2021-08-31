@@ -1,0 +1,25 @@
+#################################################
+##                                             ##
+##        DEL CORPUS A LA INTERPRETACIÓN:      ##
+##        ESTILOMETRÍA CON R                   ##
+##                                             ##
+##       Taller 6: Análisis secuencial         ##
+##                 con stylo                   ##
+##                                             ##
+#################################################
+
+# Primero establecemos el directorio de trabajo
+# Si tienes un Mac y has guardado la carpeta "Roman-de-la-Rose" en el escritorio:
+setwd("Desktop/Roman-de-la-Rose")
+# Si tienes Windows y has guardado la carpeta en C:
+setwd("C:/Roman-de-la-Rose")
+
+# A continuación, llamamos al paquete stylo
+
+library(stylo)
+
+# Para Rolling Classify
+
+rolling.classify(write.png.file = TRUE, classification.method = "svm", mfw=100, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500) 
+rolling.classify(write.png.file = TRUE, classification.method = "nsc", mfw=50, training.set.sampling = "normal.sampling", slice.size = 5000, slice.overlap = 4500)
+rolling.classify(write.png.file = TRUE, classification.method = "delta", mfw=500)
