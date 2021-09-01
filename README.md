@@ -33,8 +33,7 @@ Este repositorio contiene materiales, información y enlaces para el curso.
 
 ## Instalación de programas
 
-Antes de comenzar el curso instale, por favor, los siguientes programas. El primer taller está dedicado a los primeros pasos con algunos de ellos. Le dejamos algunos consejos en [instrucciones]. También debes descargar el corpus que utilizaremos, tienes instrucciones para ello en la misma carpeta.
-(https://github.com/burgos2021/materiales/tree/main/instrucciones).
+Antes de comenzar el curso instale, por favor, los siguientes programas. El primer taller está dedicado a los primeros pasos con algunos de ellos. Le dejamos algunos consejos en [instrucciones](https://github.com/burgos2021/materiales/tree/main/instrucciones). También debe descargar el corpus que utilizaremos, tiene instrucciones para ello en la misma carpeta.
 
 - [R](https://www.r-project.org) y [Rstudio](https://www.rstudio.com)
 - [Visual Studio Code](https://code.visualstudio.com) + extensiones: Scholarly XML, XML Tools (opcional), XSLT Transform (opcional).
