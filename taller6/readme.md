@@ -11,3 +11,7 @@
 7. Práctica 5
 
 ## Materiales de este taller en GitHub
+
+En este repositorio encontrarás el script "taller6.R", con el código que utilizaremos en el taller. Descárgalo en tu ordenador.
+
+Después del taller, podrás consultar diapositivas de la presentación en este repositorio.
