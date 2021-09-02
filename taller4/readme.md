@@ -11,4 +11,8 @@
 7. Métodos: análisis de grupos y árbol de consenso
 8. Práctica 1: análisis de grupos y árbol de consenso
 
-## Materiales de este taller en GitHub:
+## Materiales en este repositorio:
+
+En este repositorio encontrarás el script "taller4.R", con el código que utilizaremos en el taller. Descárgalo en tu ordenador.
+
+Después del taller, podrás consultar diapositivas de la presentación en este repositorio.
