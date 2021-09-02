@@ -1,6 +1,6 @@
-# Instrucciones para descargar el corpus que usaremos en el corpus
+# Instrucciones para descargar el corpus para los talleres 4-7
 
-Para los análisis estilométricos, utilizaremos diferentes corpus, que descargar en tu ordenador antes de que comiencen los talleres: 
+Para los análisis estilométricos, utilizaremos diferentes corpus, que debes descargar en tu ordenador antes de que comiencen los talleres: 
 
 ### 1. Corpus de novela española de la Edad de Plata preparado en el seno del proyecto CLiGS por el investigador José Calvo Tello (2017). 
 
