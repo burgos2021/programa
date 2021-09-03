@@ -21,24 +21,24 @@ Redes. Conceptos básicos
 - Líneas: **aristas** o enlaces ( _edges_ o _links_ ).
 - Tipos de redes: simples, bipartitas, múltiples, no dirigidas...
 
+red simple
 ========================================================
 
 ![](images/taller8_redSimple.png)
 
-- red simple
- 
+
+red bipartita  
 ========================================================
 
 ![](images/taller8_redBipartita.png)
  
-- red bipartita 
 
+red múltiple 
 ========================================================
  
 ![](images/taller8_redmultiple.png) 
   
-- red múltiple
- 
+
 Redes. Formalización de datos  
 ========================================================
 
@@ -102,16 +102,3 @@ Redes. Tutoriales y manuales
 - Katharina A. Zweig, _Network Analysis Literacy: A Practical Approach to the Analysis of Networks_, Springer, 2016.
 
 - Mark Newman, _Networks: An Introduction_, Oxford University Press, 2010
-
-
-
-
-
-
-Redes. Visualización
-========================================================
-
-![network](images/network_viz.png)
-
-- Algoritmos para dibujar grafos de forma visual. 
-- El algoritmo _Force Atlas_  tiene en cuenta el peso de las aristas.
