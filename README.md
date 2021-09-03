@@ -27,7 +27,7 @@ Este repositorio contiene materiales, información y enlaces para el curso.
 |Miércoles, 8.09  | 10:30  | [Taller 4. Intro a la estilometría](https://github.com/burgos2021/programa/tree/main/taller4) | Laura Hernández |
 |Miércoles, 8.09  | 12:30  |[ Taller 5. Aplicación de métodos estilométricos con stylo](https://github.com/burgos2021/programa/tree/main/taller5) | Laura Hernández |
 |Miércoles, 8.09  | 16:00  | [Taller 6. Análisis secuencial con stylo](https://github.com/burgos2021/programa/tree/main/taller6) | Laura Hernández |
-|Miércoles, 8.09  | 18:00  | Presentación. Transkribus | Álvaro Cuéllar |
+|Miércoles, 8.09  | 18:00  | [Introducción a Transkribus](https://github.com/burgos2021/programa/tree/main/Transkribus) | Álvaro Cuéllar |
 |Jueves, 9.09  | 10:30  | [Taller 7. Verificación de autoría con stylo](https://github.com/burgos2021/programa/tree/main/taller7) | Laura Hernández |
 |Jueves, 9.09  | 12:30  | [Taller 8. Estilometría y redes](https://github.com/burgos2021/programa/tree/main/taller8) | José Luis Losada |
 
@@ -38,6 +38,8 @@ Antes de comenzar el curso instale, por favor, los siguientes programas. El prim
 - [R](https://www.r-project.org) y [Rstudio](https://www.rstudio.com)
 - [Visual Studio Code](https://code.visualstudio.com) + extensiones: Scholarly XML, XML Tools (opcional), XSLT Transform (opcional).
 - [Gephi](https://gephi.org). El programa necesita tener instalado Java (Windows y Linux)
+- [Transkribus](https://transkribus.eu/). 
+
 
 ## Materiales del curso
 
