@@ -38,6 +38,8 @@ Antes de comenzar el curso instale, por favor, los siguientes programas. El prim
 - [R](https://www.r-project.org) y [Rstudio](https://www.rstudio.com)
 - [Visual Studio Code](https://code.visualstudio.com) + extensiones: Scholarly XML, XML Tools (opcional), XSLT Transform (opcional).
 - [Gephi](https://gephi.org). El programa necesita tener instalado Java (Windows y Linux)
+- [Transkribus](https://transkribus.eu/). 
+
 
 ## Materiales del curso
 
