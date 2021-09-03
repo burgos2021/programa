@@ -27,6 +27,7 @@ resultado = stylo(gui = F,
 )
 
 # Source/Target con el nombre de los nodos (network.tables = "edges")
+# ¡Atención! El nombre del archivo se modifica según los parámetros elegidos.
 edgelist = read.csv("taller8_Consensus_100-1000_MFWs_Culled_0__Classic Delta_C_0.5_EDGES.csv")
 
 # stylo.network()----
