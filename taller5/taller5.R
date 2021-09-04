@@ -9,7 +9,7 @@
 #################################################
 
 # Primero establecemos el directorio de trabajo
-# Si tienes un Mac y has guardado la carpeta "novela-espanola" en el escritorio:
+# Si tienes un Mac y has guardado la carpeta "novela" en el escritorio:
 setwd("Desktop/novela")
 # Si tienes Windows y has guardado la carpeta en C:
 setwd("C:/novela")
@@ -22,13 +22,9 @@ library(stylo)
 setwd("classification")
 
 classify()
-results = classify(cv.folds=10)
-summary(results)
-results$cross.validation.summary
-mean(results$cross.validation.summary) #percentage of success
 
 # Para PCA
-setwd("PCA")
+setwd("~/PCA")
 stylo()
 
 # Para zeta
