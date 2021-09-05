@@ -7,7 +7,7 @@
 Enlaces de descarga. Corpus teatrales
 
 - Corpus teatral del Siglo de Oro: [teatroplano](https://github.com/editio/teatroplano) (TXT, 385 obras)
-- Corpus teatral _Théâtre Classique_: [tcp5](https://github.com/dramacode/tcp5) (XML, 817 obras)
+- Corpus teatral _Théâtre Classique_: [tcp5](https://github.com/dramacode/tcp5) (XML, 815 obras)
 
 
 ## Redes con Gephi
