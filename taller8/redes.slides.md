@@ -73,7 +73,7 @@ Redes. stylo()
 ========================================================
 
 - Redes simples, no dirigidas, peso ponderado
-- Bootstrap Consensus Tree
+- [_Bootstrap Consensus Networks_](https://computationalstylistics.github.io/projects/bootstrap-networks/) (Eder 2017b)
 
 |Source|Target|Weight|Type|
 |------|------|-----|----|
@@ -83,9 +83,6 @@ Redes. stylo()
 |calderon_LaHijaDelAireParteI|calderon_ElPrincipeConstante |43   |undirected|
 |calderon_LaHijaDelAireParteI|calderon_LaVidaEsSueno       |47   |undirected|
 |calderon_LaHijaDelAireParteI|lope_ElPerroDelHortelano     |24   |undirected|
-|calderon_LaHijaDelAireParteI|lope_LaDamaBoba              |13   |undirected|
-|calderon_LaHijaDelAireParteI|moreto_ElDesdenConElDesden |5  |undirected|
-|calderon_LaHijaDelAireParteI|moreto_ElLindoDonDiego       |7  |undirected|
 |...|... |.. |...|
 
 Redes. stylo()
@@ -95,6 +92,8 @@ Redes. stylo()
 
 Redes. Tutoriales y manuales
 ========================================================
+
+[_Stylo in a nutshell. Crash tutorial_](https://computationalstylistics.github.io/stylo_nutshell/#running-gephi-saving-a-network), Networks and Gephi: 18-25.
 
 - Katherine Ognyanova, [Static and dynamic network visualization with R](https://kateto.net/network-visualization), 2021
 
