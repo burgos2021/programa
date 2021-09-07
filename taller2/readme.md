@@ -127,6 +127,14 @@ Las expresiones regulares, Regex (*Regular expressions*), son una manera de busc
 
 Las regex son una parte esencial de los lenguajes de programación, podríamos trabajar directamente con ellas en R, pero también podemos usarlas en un procesador de textos avanzado, como VScode, Sublime, oXygen, etc.
 
+Puede empezar con los siguientes recursos
+
+Amit Chaudhary, [_A Visual Guide to Regular Expression_](https://amitness.com/regex/), 2021.
+
+Martin Paul Eve, [_Regular Expressions for Humanists_](https://blackbox.llc.ed.ac.uk/portfolio/regex/), 2017
+
+Portal [https://regex101.com/](https://regex101.com/). Sirve para testar las expresiones y explicar en tiempo real su composición.
+
 ## Reconomiento automático
 
 El reconocimiento automático de carácteres (OCR )o de textos manuscritos (HTR) es otra fuente de obtención de datos. [Tesseract](https://github.com/tesseract-ocr/tesseract) y [Transkribus](https://readcoop.eu/transkribus/) son dos herramientas habituales. Tienen en común la posibilidad de entrenar modelos que permitan un mejor reconocimiento de los textos. Las correspondencias de partida se preparan manualmente y sirven de entrada a los modelos.
