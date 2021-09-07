@@ -13,7 +13,7 @@ Este repositorio contiene materiales, información y enlaces para el curso.
 | Día | Hora | Sesión | Profesor |
 |---|---|---|---|
 |Martes, 7.09  | 10:30 | "Autoría y atribución en el teatro del Siglo de Oro hispánico: estado de la cuestión y retos" | Germán Vega |
-|Miércoles, 8.09  | 9:30  | "[Diseño, compilación y anotación de corpus para estudios literarios computacionales](plenarias/ubu2021_presentacion.pdf)" | Borja Navarro |
+|Miércoles, 8.09  | 9:30  | "[Diseño, compilación y anotación de corpus para estudios literarios computacionales](https://www.dlsi.ua.es/~borja/ubu2021_presentacion.pdf)" | Borja Navarro |
 |Jueves, 9.09  | 9:30  | "Introdución al _machine learning_" | Álvaro Herrero |
 |Jueves, 9.09  | 16:30  | "Computational Methods in Authorship Attribution" | Maciej Eder |
 
