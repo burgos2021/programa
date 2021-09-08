@@ -27,7 +27,7 @@ Para instalar Transkribus debéis dirigiros a la página oficial https://transkr
 ## Algunos recursos
 
 Aquí tenéis todas la guías oficiales producidas por Transkribus: https://readcoop.eu/transkribus/resources/how-to-guides/.  
-También en Youtube hay varios vídeos explicándolo: https://www.youtube.com/channel/UC-txVgM31rDTGlBnH-zpPjA
+También en Youtube hay varios vídeos explicándolo: https://www.youtube.com/channel/UC-txVgM31rDTGlBnH-zpPjA.
 
 
 
