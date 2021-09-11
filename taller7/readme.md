@@ -11,4 +11,4 @@
 
 En este repositorio encontrarás el script "taller7.R", con el código que utilizaremos en el taller. Descárgalo en tu ordenador.
 
-Después del taller, podrás consultar diapositivas de la presentación en este repositorio.
+También puedes consultar una selección de las diapositivas utilizadas en el taller en "Taller_7-Verificación.pdf".
